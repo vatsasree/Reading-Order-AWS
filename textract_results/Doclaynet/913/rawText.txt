@@ -1,0 +1,39 @@
+
+tions of a failure. Also, various types of failures require different corrective actions.
+Transient failures may self-recover, given enough time, and some other failures may
+need a restart of the application. Let's see the checks Kubernetes uses to detect and
+correct failures.
+Process Health Checks
+A process health check is the simplest health check the Kubelet constantly performs on
+the container processes. If the container processes are not running, the probing is
+restarted. So even without any other health checks, the application becomes slightly
+more robust with this generic check. If your application is capable of detecting any
+kind of failure and shutting itself down, the process health check is all you need.
+However, for most cases that is not enough and other types of health checks are also
+necessary.
+Liveness Probes
+If your application runs into some deadlock, it is still considered healthy from the
+process health check's point of view. To detect this kind of issue and any other types of
+failure according to your application business logic, Kubernetes has liveness probes-
+regular checks performed by the Kubelet agent that asks your container to confirm it
+is still healthy. It is important to have the health check performed from the outside
+rather than the in application itself, as some failures may prevent the application
+watchdog from reporting its failure. Regarding corrective action, this health check is
+similar to a process health check, since if a failure is detected, the container is restar-
+ted. However, it offers more flexibility regarding what methods to use for checking
+the application health, as follows:
+HTTP probe performs an HTTP GET request to the container IP address and
+expects a successful HTTP response code between 200 and 399.
+A TCP Socket probe assumes a successful TCP connection.
+An Exec probe executes an arbitrary command in the container kernel name-
+space and expects a successful exit code (0).
+An example HTTP-based liveness probe is shown in Example 4-1.
+Example 4-1. Container with a liveness probe
+apiVersion: v1
+kind: Pod
+metadata:
+name: pod-with-liveness-check
+spec:
+containers:
+36
+Chapter 4: Health Probe

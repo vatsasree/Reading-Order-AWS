@@ -1,0 +1,74 @@
+
+On these larger airplanes, the CG is identified as being at a
+location that is a specific percent of the mean aerodynamic
+chord (% MAC). For example, imagine that the MAC on
+an airplane is 100". and the CG falls 20" behind the leading
+edge of the MAC. That means it falls one-fifth of the way
+back, or at 20 percent of the MAC.
+Figure 6-54 shows a large twin-engine commercial transport
+airplane. The datum is forward of the nose of the airplane,
+and all the arms are being measured from that point. The CG
+for the airplane is shown as an arm measured in inches. In
+the lower left corner of the figure, a cross section of the wing
+is shown, with the same CG information being presented.
+To convert the CG location from inches to a percent of MAC.
+Figure 6-52. Wing attach point for a weight-shift control aircraft.
+for the airplane shown in Figure 6-54, the steps are as follows:
+1.
+Identify the CG location. in inches from the datum.
+If the leading edge and trailing edge of a wing are parallel to
+each other, the chord of the wing is the same along the wing's
+2.
+Identify the leading edge of the MAC (LEMAC), in
+length. Business jets and commercial transport airplanes
+inches from the datum.
+have wings that are tapered and that are swept back. so the
+3.
+Subtract LEMAC from the CG location.
+width of their wings is different along their entire length.
+4.
+Divide the difference by the length of the MAC.
+The width is greatest where the wing meets the fuselage
+and progressively decreases toward the tip. In relation to the
+5.
+Convert the result in decimals to a percentage by
+aerodynamics of the wing. the average length of the chord
+multiplying by 100.
+on these tapered swept-back wings is known as the mean
+As a formula, the solution to solve for the percent of MAC
+aerodynamic chord (MAC).
+would be:
+CG - LEMAC
+Percent of MAC =
+x 100
+MAC
+The result using the numbers shown in Figure 6-52 would be:
+Wing attachment point
+adjustable for CG
+CG - LEMAC
+Percent of MAC =
+x 100
+MAC
+945
+-
+900
+X 100
+180
+Wing attachment point
+= 25 percent
+adjustable for CG
+If the CG is known in percent of MAC. and there is a need
+to know the CG location in inches from the datum, the
+Nosewheelsteering
+conversion would be done as follows:
+1. Convert the percent of MAC to a decimal by dividing
+Throttle
+by 100.
+2.
+Multiply the decimal by the length of the MAC.
+Pivot bar
+to control turning
+3.
+Add this number to LEMAC.
+Figure 6-53. Powered parachute structure with wing attach points.
+6-31

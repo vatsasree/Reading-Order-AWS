@@ -1,0 +1,81 @@
+
+effective use of all available resources: human resources.
+Designated pilot examiner (DPE). An individual designated
+hardware, and information. Human resource groups include
+by the FAA to administer practical tests to pilot applicants.
+but are not limited to pilots, dispatchers, cabin crewmembers,
+maintenance personnel, and air traffic controllers.
+Detonation. The sudden release of heat energy from fuel in
+an aircraft engine caused by the fuel-air mixture reaching
+Critical angle of attack. The angle of attack at which a wing
+its critical pressure and temperature. Detonation occurs as a
+stalls regardless of airspeed, flight attitude, or weight.
+violent explosion rather than a smooth burning process.
+CRM. See crew resource management.
+Dew. Moisture that has condensed from water vapor. Usually
+found on cooler objects near the ground, such as grass, as
+Crossbar. The structural component of the WSC wing that
+the near-surface layer of air cools faster than the layers of
+holds the leading edges in place.
+air above it.
+Crosswind. Wind blowing across rather than parallel to
+Dewpoint. The temperature at which air reaches a state of
+the direction of flight. In a traffic pattern, the crosswind leg
+water saturation.
+is a flight path at right angles to the landing runway off its
+upwind end.
+Dihedral. The positive acute angle between the lateral
+axis of an airplane and a line through the center of a wing
+Crosswind component. The wind component, measured in
+or horizontal stabilizer. Dihedral contributes to the lateral
+knots. at 90° to the longitudinal axis of the runway.
+stability of an aircraft.
+Crosswind correction. Correction applied in order to
+Directional stability. Stability about the vertical axis of an
+maintain a straight ground track during flight when a
+aircraft, whereby an aircraft tends to return, on its own. to
+crosswind is present.
+flight aligned with the relative wind when disturbed from that
+equilibrium state. The wing design is the primary contributor
+Crosswind landing. Landing made with a wind that is
+to directional stability, causing a WSC in flight to align with
+blowing across rather than parallel to the landing direction.
+the relative wind.
+Crosswind takeoffs. Takeoffs made during crosswind
+Ditching. Emergency landing in water.
+conditions
+Double-surface wing. Two pieces of fabric for most of the
+CTAF. See Common Traffic Advisory Frequency.
+WSC wing which enclose the crossbar; typically used for
+higher speed wings.
+Datum. An imaginary vertical plane or line from which
+all measurements of moment arm are taken. The datum is
+Downwind leg. Leg of the traffic pattern flown parallel to the
+established by the manufacturer
+landing runway, but in a direction opposite to the intended
+landing direction.
+DECIDE Model. Model developed to help pilots remember
+the six-step decision-making process: Detect, Estimate,
+DPE. See designated pilot examiner.
+Choose, Identify, Do. Evaluate.
+Drag. An aerodynamic force on a body acting parallel and
+Density altitude. Pressure altitude corrected for variations
+opposite to the relative wind. The resistance of the atmosphere
+from standard temperature. When conditions are standard,
+to the relative motion of an aircraft. Drag opposes thrust and
+pressure altitude and density altitude are the same. If the
+limits the speed of the aircraft.
+temperature is above standard, the density altitude is higher
+than pressure altitude. If the temperature is below standard,
+Drag coefficient (CD). A dimensionless number used to
+the density altitude is lower than pressure altitude. This is an
+define the amount of total drag produced by an aircraft.
+important altitude because it is directly related to the PPC's
+performance.
+Drift angle. Angle between heading and track.
+Departure leg. The leg of the rectangular traffic pattern
+Drift correction. Correction that is applied to counter the
+that is a straight course aligned with. and leading from, the
+affects of wind on an aircraft's flight and ground track.
+takeoff runway.
+G-6

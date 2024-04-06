@@ -1,0 +1,126 @@
+
+1
+EP 3 800 019 A1
+2
+Description
+coaxial pivot pins (not shown) that engage holes in the
+support and/or mounting rings 18 and 20. By pivoting on
+CROSS REFERENCE TO RELATED APPLICATIONS
+its pins, the orientation of a shoe 22 can be adjusted to
+alter the radial location of the cutting edge of its knife 14
+[0001] This application claims priority to U.S. Serial No.
+5
+with respect to the axis of the cutting head 12, thereby
+13/719,282 filed December 19. 2012, and U.S. Provi-
+controlling the thickness of the sliced food product. As
+sional Application No. 61/580,367 filed December 27,
+an example, adjustment can be achieved with an adjust-
+2011, the contents of which are incorporated herein by
+ing screw and/or pin 24 located circumferentially behind
+reference.
+the pivot pins. FIG. 3 further shows optional gate insert
+10
+strips 23 mounted to each shoe 22, which the food prod-
+BACKGROUND OF THE INVENTION
+uct crosses prior to encountering the knife 14 mounted
+to the succeeding shoe 22.
+[0002] The present invention generally relates to meth-
+[0007] The knives 14 shown in FIG. 3 are depicted as
+ods and equipment for cutting food products. More par-
+having straight cutting edges for producing flat slices,
+ticularly, this invention relates to apparatuses suitable for
+15
+though other shapes are also used to produce sliced and
+cutting food product slices having relatively large ampli-
+shredded products. For example, the knives 14 can have
+tude cross-sections.
+cutting edges that define a periodic pattern of peaks and
+[0003] Various types of equipment are known for slic-
+valleys when viewed edgewise. The periodic pattern can
+ing, shredding and granulating food products, such as
+be characterized by sharp peaks and valleys, or a more
+vegetable, fruit, dairy, and meat products. A widely used
+20
+corrugated or sinusoidal shape characterized by more
+line of machines for this purpose is commercially avail-
+rounded peaks and valleys when viewed edgewise. If the
+able from Urschel Laboratories, Inc., under the name Ur-
+peaks and valleys of each knife 14 are aligned with those
+schel Model CC®, an embodiment of which is represent-
+of the preceding knife 14, slices are produced in which
+ed in FIG. 1. The Model CC® machine line provides ver-
+each peak on one surface of a slice corresponds to a
+sions of centrifugal-type slicers capable of producing uni-
+25
+valley on the opposite surface of the slice, such that the
+form slices, strip cuts, shreds and granulations of a wide
+slices are substantially uniform in thickness but have a
+variety of food products at high production capacities.
+cross-sectional shape that is characterized by sharp
+[0004] FIGS. 2 and 3 are perspective views of an im-
+peaks and valleys ("V-slices") or a more corrugated or
+peller 10 and cutting head 12, respectively, of types that
+sinusoidal shape (crinkle slices), collectively referred to
+can be used in the Model CC® machine In operation,
+30
+herein as periodic shapes. Alternatively, shredded food
+the impeller 10 is coaxially mounted within the cutting
+product can be produced if each peak of each knife 14
+head 12, which is generally annular-shaped with cutting
+is aligned with a valley of the preceding knife 14, and
+knives 14 mounted on its perimeter. The impeller 10 ro-
+waffle/lattice-cut food product can be produced by inten-
+tates within the cutting head 12, while the latter remains
+tionally making off-axis alignment cuts with a periodic-
+stationary. Each knife 14 projects radially inward toward
+35
+shaped knife, for example, by cross-cutting a food prod-
+the impeller 10 in a direction generally opposite the di-
+uct at two different angles, typically ninety degrees apart.
+rection of rotation of the impeller 10, and defines a cutting
+Whether a sliced, shredded or waffle-cut product is de-
+edge at its radially innermost extremity. As represented
+sired will depend on the intended use of the product
+in FIG. 4, the impeller 10 has generally radially-oriented
+[0008] Equipment currently available for cutting food
+paddles 16 with faces that engage and direct food prod-
+40
+product, such as those represented in FIGS. 1-4, are well
+ucts (e.g., potatoes) radially outward against the knives
+suited for producing slices of a wide variety of food prod-
+14 of the cutting head 12 as the impeller 10 rotates.
+ucts, but have shown to be incapable of producing V-
+[0005] FIG. 1 schematically represents the cutting
+slices and crinkle slices having relatively large amplitude
+head 12 mounted on a support ring 28 above a gear box
+cross-sections without incurring unacceptable levels of
+30. A housing 32 contains a shaft coupled to the gear
+45
+through-slice cracking, or at minimum undesirable sur-
+box 30, through which the impeller 10 is driven within the
+face cracking and surface roughness. As used herein,
+cutting wheel 12. Further descriptions pertaining to the
+large amplitude refers to cross-sections with amplitudes
+construction and operation of Model CC® machines are
+of about 0.1 inches (about 2.5 mm) or greater.
+contained in U.S. Patent Nos. 5,694,824 and 6,968,765
+the entire contents of which are incorporated herein by
+50
+BRIEF DESCRIPTION OF THE INVENTION
+reference.
+[0006] The cutting head 12 shown in FIG. 3 comprises
+[0009] The present invention provides apparatuses
+a lower support ring 18, an upper mounting ring 20, and
+suitable for cutting food product slices having relatively
+circumferentially-spaced support segments (shoes) 22.
+large amplitude cross-sections.
+The knives 14 of the cutting head 12 are individually se-
+55
+[0010] According to a first aspect of the invention, an
+cured with clamping assemblies 26 to the shoes 22,
+apparatus for cutting food product includes an annular-
+which are secured with bolts 25 to the support and mount-
+shaped cutting head (12) and an impeller (10) coaxially
+ing rings 18 and 20. The shoes 22 are equipped with
+mounted within the cutting head (12) for rotation about
+2

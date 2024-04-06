@@ -1,0 +1,56 @@
+
+is sufficiently large, cleaning may be accomplished
+using this equipment together with a solution of steam-
+Pit has been cleaned up to the
+extent that all loose corrosion
+cleaning compound On small areas, any method may
+products have been removed
+be used that assures complete rinsing of the cleaned
+area. Use care to dispose of the stripped residue in
+accordance with environmental laws.
+CORROSION DAMAGE BEFORE REWORK
+Fairing or Blending Reworked Areas
+All depressions resulting from corrosion rework must be
+faired or blended with the surrounding surface. Fairing can
+be accomplished as follows:
+1. Remove rough edges and all corrosion from the
+damaged area. All dish-outs must be elliptically
+Rough edges have been
+smoothed and all corrosion
+Dish-out
+shaped with the major axis running spanwise on wings
+has been removed However,
+after blending
+and horizontal stabilizers, longitudinally on fuselages,
+depression has not been shaped.
+and vertically on vertical stabilizers.
+2.
+In critical and highly stressed areas, all pits remaining
+Figure 8-24. Blend of corrosion as a single depression.
+after the removal of corrosion products must be
+blended out to prevent stress risers that may cause
+Rework depressions by forming smoothly blended dish-outs,
+stress corrosion cracking. [Figure 8-23) On a non-
+using a ratio of 20:1. length to depth. / Figure 8-24] In areas
+critical structure, it is not necessary to blend out pits
+having closely-spaced, multiple pits, intervening material
+remaining after removal of corrosion products by
+must be removed to minimize surface irregularity or
+abrasive blasting, since this results in unnecessary
+waviness. [Figure 8-25) Steel nut-plates and steel fasteners
+metal removal.
+are to be removed before blending corrosion out of aluminum
+structure. Steel or copper particles embedded in aluminum
+Location of corrosion pits
+Width of cleaned up area
+(10 times depth min)
+TOP VIEW
+TRUE PERSPECTIVE
+Length of cleaned up area
+(20 times depth min)
+Depth of cleaned up of corrosion
+CROSS SECTION
+NOT ACCEPTABLE
+ACCEPTABLE
+Figure 8-23. Blending or blending corrosion damage.
+8-16

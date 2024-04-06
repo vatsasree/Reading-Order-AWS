@@ -1,0 +1,88 @@
+
+by a capillary tube. The motion produced by the diaphragm's
+The space between the inner and outer shells is known as
+expansion and contraction is amplified through a lever and
+the annular or bypass jacket. Two paths are open to the flow
+gear arrangement. The gear varies the electrical value of the
+of oil through a cooler. From the inlet, it can flow halfway
+indicating circuit, which in turn, is reflected on the indicator in
+around the bypass jacket, enter the core from the bottom,
+the cockpit. This type of indicating system replaces long fluid-
+and then pass through the spaces between the tubes and out
+filled tubing lines with an almost weightless piece of wire.
+to the oil tank. This is the path the oil follows when it is hot
+enough to require cooling. As the oil flows through the core.
+Oil Temperature Indicator
+it is guided by baffles that force the oil to travel back and
+In dry-sump lubricating systems, the oil temperature bulb
+forth several times before it reaches the core outlet. The oil
+may be anywhere in the oil inlet line between the supply
+can also pass from the inlet completely around the bypass
+tank and the engine. Oil systems for wet-sump engines have
+jacket to the outlet without passing through the core. Oil
+the temperature bulb located where it senses oil temperature
+follows this bypass route when the oil is cold or when the
+after the oil passes through the oil cooler. In either system. the
+core is blocked with thick, congealed oil.
+bulb is located so that it measures the temperature of the oil
+before it enters the engine's hot sections. An oil temperature
+Oil Cooler Flow Control Valve
+gauge in the cockpit is connected to the oil temperature bulb
+As discussed previously, the viscosity of the oil varies with
+by electrical leads. The oil temperature is indicated on the
+its temperature. Since the viscosity affects its lubricating
+gauge. Any malfunction of the oil cooling system appears
+properties, the temperature at which the oil enters an engine
+as an abnormal reading.
+must be held within close limits. Generally, the oil leaving
+an engine must be cooled before it is recirculated Obviously,
+Oil Cooler
+the amount of cooling must be controlled if the oil is to return
+The cooler. either cylindrical or elliptical shaped. consists
+to the engine at the correct temperature. The oil cooler flow
+of a core enclosed in a double-walled shell. The core is built
+control valve determines which of the two possible paths the
+of copper or aluminum tubes with the tube ends formed to
+oil takes through the oil cooler. [Figure 6-12]
+a hexagonal shape and joined together in the honeycomb
+effect. (Figure 6-11] The ends of the copper tubes of the
+There are two openings in a flow control valve that fit over
+core are soldered, whereas aluminum tubes are brazed or
+the corresponding outlets at the top of the cooler. When the
+mechanically joined. The tubes touch only at the ends so
+oil is cold. a bellows within the flow control contracts and lifts
+that a space exists between them along most of their lengths.
+a valve from its seat. Under this condition, oil entering the
+This allows oil to flow through the spaces between the tubes
+cooler has a choice of two outlets and two paths. Following
+while the cooling air passes through the tubes.
+the path of least resistance, the oil flows around the jacket
+and out past the thermostatic valve to the tank. This allows
+the oil to warm up quickly and, at the same time, heats the
+Outlet from bypass jacket
+Inlet from engine
+oil in the core. As the oil warms up and reaches its operating
+temperature, the bellows of the thermostat expand and closes
+the outlet from the bypass jacket. The oil cooler flow control
+Baffles
+valve, located on the oil cooler, must now flow oil through the
+core of the oil cooler. No matter which path it takes through
+the cooler, the oil always flows over the bellows of the
+Outlet from core
+thermostatic valve. As the name implies, this unit regulates
+the temperature by either cooling the oil or passing it on to
+the tank without cooling, depending on the temperature at
+which it leaves the engine.
+Surge Protection Valves
+When oil in the system is congealed, the scavenger pump
+may build up a very high pressure in the oil return line. To
+prevent this high pressure from bursting the oil cooler or
+blowing off the hose connections, some aircraft have surge
+Bypass jacket
+Core
+protection valves in the engine lubrication systems. One type
+of surge valve is incorporated in the oil cooler flow control
+valve; another type is a separate unit in the oil return line.
+Figure 6-11. Oil cooler.
+[Figure 6-12]
+6-10

@@ -1,0 +1,62 @@
+
+pile regulator and the three-unit regulator. Each of these
+units controls field current using a type of variable resistor.
+Controlling field current then controls generator output. A
+simplified generator control circuit is shown in Figure 9-57.
+Carbon Pile Regulators
+The carbon pile regulator controls DC generator output by
+sending the field current through a stack of carbon disks
+(the carbon pile). The carbon disks are in series with the
+generator field. If the resistance of the disks increases,
+the field current decreases and the generator output goes
+down. If the resistance of the disks decreases, the field
+current increases and generator output goes up. As seen
+in Figure 9-58, a voltage coil is installed in parallel with
+the generator output leads. The voltage coil acts like an
+electromagnet that increases or decrease strength as generator
+output voltage changes. The magnetism of the voltage coil
+Lowers
+controls the pressure on the carbon stack. The pressure on
+the carbon stack controls the resistance of the carbon; the
+resistance of the carbon controls field current and the field
+current controls generator output.
+Carbon pile regulators require regular maintenance to ensure
+accurate voltage regulation; therefore, most have been
+replaced on aircraft with more modern systems.
+Figure 9-56. Generator control unit (GCU).
+Generator output to electrical loads
+In general, modern GCUs for high-output generators employ
+solid-state electronic circuits to sense the operations of the
+Generator
+generator or starter-generator. The circuitry then controls a
+Field circuit
+control
+series of relays and/or solenoids to connect and disconnect the
+unit to various distribution buses. One unit found in almost
+all voltage regulation circuitry is the zener diode. The zener
+Armature
+diode is a voltage sensitive device that is used to monitor
+system voltage. The zener diode, connected in conjunction
+to the GCU circuitry, then controls the field current, which
+Field winding
+in turn controls the generator output.
+Generator Controls for Low-Output Generators
+Figure 9-57. Voltage regulator for low-output generator.
+A typical generator control circuit for low-output generators
+modifies current flow to the generator field to control
+generator output power. As flight variables and electrical
+loads change, the GCU must monitor the electrical system and
+make the appropriate adjustments to ensure proper system
+voltage and current. The typical generator control is referred
+Voltage coil
+to as a voltage regulator or a GCU.
+Armature
+Since most low-output generators are found on older aircraft,
+the control systems for these systems are electromechanical
+Carbon stack
+devices. (Solid-state units are found on more modern aircraft
+Field
+that employ DC alternators and not DC generators.) The
+two most common types of voltage regulator are the carbon
+Figure 9-58. Carbon pile regulator.
+9-36

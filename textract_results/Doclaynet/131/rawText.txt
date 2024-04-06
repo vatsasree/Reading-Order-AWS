@@ -1,0 +1,99 @@
+
+AIM
+12/31/20
+Form at http://www.faa.gov/air_traffic/nas/
+surface or buried under taxiways and ramps. These
+gps_reports/
+materials generate a magnetic flux field that can be
+C. In aircraft equipped with more than one avionics
+sensed by the aircraft's compass system flux detector
+receiver, there are many combinations of potential
+or "gate", which can cause the aircraft's system to
+interference between units that could cause
+align with the material's magnetic field rather than
+erroneous navigation indications, or complete or
+the earth's natural magnetic field. The system's
+partial blanking out of the display.
+erroneous heading may not self-correct. Prior to take
+off pilots should be aware that a heading
+NOTE-
+misalignment may have occurred during taxi. Pilots
+GPS interference or outages associated with known
+are encouraged to follow the manufacturer's or other
+testing NOTAMs should not be reported to ATC.
+appropriate procedures to correct possible heading
+misalignment before take off is commenced.
+1-1-14. LORAN
+1-1-16. Doppler Radar
+NOTE-
+In accordance with the 2010 DHS Appropriations Act, the
+Doppler Radar is a semiautomatic self-contained
+U.S. Coast Guard (USCG) terminated the transmission of
+dead reckoning navigation system (radar sensor plus
+all U.S. LORAN-C signals on 08 eb 2010. The USCG also
+computer) which is not continuously dependent on
+terminated the transmission of the Russian American
+information derived from ground based or external
+signals on 01 Aug 2010, and the Canadian LORAN-C
+aids. The system employs radar signals to detect and
+signals on 03 Aug 2010. For more information, visit
+measure ground speed and drift angle, using the
+http://www.navcen.uscg.gov. Operators should also note
+aircraft compass system as its directional reference.
+that TSO-C60b, AIRBORNE AREA NAVIGATION
+Doppler is less accurate than INS, however, and the
+EQUIPMENT USING LORAN- INPUTS, has been
+use of an external reference is required for periodic
+canceled by the FAA.
+updates if acceptable position accuracy is to be
+achieved on long range flights.
+1-1-15. Inertial Reference Unit (IRU),
+Inertial Navigation System (INS), and
+1-1-17. Global Positioning System (GPS)
+Attitude Heading Reference System (AHRS)
+a. System Overview
+a. IRUs are self-contained systems comprised of
+1. System Description. The Global Positioning
+gyros and accelerometers that provide aircraft
+System is a space-based radio navigation system
+attitude (pitch, roll, and heading), position, and
+used to determine precise position anywhere in the
+velocity information in response to signals resulting
+world. The 24 satellite constellation is designed to
+from inertial effects on system components. Once
+ensure at least five satellites are always visible to a
+aligned with a known position, IRUs continuously
+user worldwide. A minimum of four satellites is
+calculate position and velocity. IRU position
+necessary for receivers to establish an accurate
+accuracy decays with time. This degradation is
+three-dimensional position. The receiver uses data
+known as "drift."
+from satellites above the mask angle (the lowest
+b. INSs combine the components of an IRU with
+angle above the horizon at which a receiver can use
+a satellite). The Department of Defense (DOD) is
+an internal navigation computer. By programming a
+responsible for operating the GPS satellite constella-
+series of waypoints, these systems will navigate along
+a predetermined track.
+tion and monitors the GPS satellites to ensure proper
+operation. Each satellite's orbital parameters (eph-
+C. AHRSs are electronic devices that provide
+emeris data) are sent to each satellite for broadcast as
+attitude information to aircraft systems such as
+part of the data message embedded in the GPS signal.
+weather radar and autopilot, but do not directly
+The GPS coordinate system is the Cartesian
+compute position information.
+earth-centered, earth-fixed coordinates as specified
+in the World Geodetic System 1984 (WGS-84).
+d. Aircraft equipped with slaved compass systems
+may be susceptible to heading errors caused by
+2. System Availability and Reliability.
+exposure to magnetic field disturbances (flux fields)
+(a) The status of GPS satellites is broadcast as
+found in materials that are commonly located on the
+part of the data message transmitted by the GPS
+1-1-18
+Navigation Aids

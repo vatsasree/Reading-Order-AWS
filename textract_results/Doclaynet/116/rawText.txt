@@ -1,0 +1,77 @@
+
+(12) INTERNATIONAL APPLICATION PUBLISHED UNDER THE PATENT COOPERATION TREATY (PCT)
+(19) World Intellectual Property Organization
+WIPO
+International Bureau
+SOMPLE
+(43) International Publication Date
+PCT
+(10) International Publication Number
+28 August 2008 (28.08.2008)
+WO 2008/103129 Al
+(51) International Patent Classification:
+(81) Designated States (unless otherwise indicated, for every
+H02M 11/00 (2006.01)
+H02N 11/00 (2006.01)
+kind of national protection available): AE. AG, AL. AM,
+AT. AU, AZ, BA. BB, BG, BH. BR. BW, BY,BZ, CA. CH.
+(21) International Application Number:
+CN. CO. CR. CU. CZ. DE. DK, DM, DO, DZ, EC, EE. EG,
+PCT/TR2007/000050
+ES. FI. GB. GD. GE. GH. GM, GT. HN. HR. HU. ID. IL
+(22) International Filing Date:
+8 June 2007 (08.06.2007)
+IN. IS. JP. KE. KG. KM. KN. KP. KR. KZ. LA. LC. LK.
+LR. LS. LT. LU. LY. MA, MD. ME, MG. MK. MN. MW.
+(25) Filing Language:
+English
+MX. MY. MZ, NA. NG. NI. NO. NZ, OM. PG. PH. PL.
+PT. RO, RS. RU. SC. SD. SE. SG. SK. SL. SM. SV. SY.
+(26) Publication Language:
+English
+TJ. TM. TN, TR. TT. TZ, UA. UG, US. UZ. VC. VN. ZA,
+(30) Priority Data:
+ZM, ZW
+u 2007/00996
+20 February 2007 (20.02.2007)
+TR
+(84) Designated States (unless otherwise indicated. for every
+(71) Applicant (for all designated States except US): TURK.
+kind of regional protection available): ARIPO (BW. GH.
+Metin [TR/TR]: Ayten Sokak 30/4 Mebusevleri, Tando-
+GM. KE. LS. MW. MZ, NA, SD. SL. SZ. TZ. UG. ZM.
+gan. 06510 Ankara (TR).
+ZW), Eurasian (AM. AZ, BY. KG. KZ, MD. RU. TJ. TM).
+(71) Applicant and
+European (AT,BE, BG. CH. CY. CZ. DE. DK. EE, ES. FI.
+(72) Inventor: KAPANADZE, Tariel [GEJGE]: Tzkaltubo
+FR. GB, GR. HU, IE. IS. IT. LT.LU. LV,MC, MT. NL. PL.
+Sokak, No:9. Tbilisi (GE).
+PT. RO. SE. SI. SK. TR). OAPI (BF. BJ. CF. CG. CI. CM.
+GA. GN, GQ. GW. ML. MR. NE. SN. TD. TG).
+(74) Agent: YALCINER. Ugur G. (YALCINER DANIS-
+MANLIK VE DIS TICARET LTD. STL): Tunus
+Published:
+Caddesi No:85/8. Kavaklidere, 06680 Ankara (TR).
+with international search report
+(54) Title: INDEPENDENT ENERGY DEVICE
+12
+13
+11
+12a
+15
+2
++
+10
+7
+8
+9
+B
+13a
+14
+Figure - 1
+(57) Abstract: The independent energy device improved with this invention. starts operation with the initial electric energy received
+from the initial energy supply (15) and afterwards generates energy consistently and is characterized to include power switch (1).
+capacitor (2). points (3). high frequency generator (4). first filter (5). first bobbin (6). first frequency adjuster (7). second filter (8).
+frequency stabilizer (adjuster) (9). second bobbin (10), second frequency adjuster (11). exit (phase) (positive) (12). positive self
+feeding cable (12a), exit (neutral) (13), negative self feeding cable (13a), neutral (grounding) (14). initial power supply (15).

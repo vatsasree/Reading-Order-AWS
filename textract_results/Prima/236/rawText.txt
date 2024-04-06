@@ -1,0 +1,122 @@
+
+Figure 2. Hidden
+p(y/1)
+p(y/2)
+p(y/3)
+Markov model for
+a phoneme. State
+transition probabili-
+p1
+p2
+p3
+ties p1, p2, and p3
+govern the possible
+model spends more time in the same state, conse-
+1-p1
+1-p2
+1-p3
+transitions between
+quently taking longer to go from the first to the
+states.
+third state. The probability density functions asso-
+ciated with the three transitions govern the
+sequence of output feature vectors.
+(4)
+A fundamental operation is the computation of
+the likelihood that an HMM produces a given
+The system begins the training process by con-
+sequence of acoustic feature vectors. For example,
+structing an HMM for the correct word sequence.
+assume that the system extracted T feature vectors
+First, it constructs the HMMs for each word by con-
+from speech corresponding to the pronunciation of
+catenating the HMMs for the phonemes that com-
+a single phoneme, and that the system seeks to infer
+prise the word. Subsequently, it concatenates the
+which phoneme from a set of 50 was spoken. The
+word HMMs to form the HMM for the complete
+procedure for inferring the phoneme assumes that
+utterance. For example, the HMM for the utterance
+the ith phoneme was spoken and finds the likeli-
+"We were" would be the concatenation of the
+hood that the HMM for this phoneme produced
+HMMs for the four phonemes "W IY VER."
+the observed feature vectors. The system then
+The training process assumes that the system can
+hypothesizes that the spoken phoneme model is the
+generate the acoustic observations y1 by traversing
+one with the highest likelihood of matching the
+the HMM from its initial state to its final state in T
+observed sequence of feature vectors.
+time frames. However, because the system cannot
+If we know the sequence of HMM states, we can
+trace the actual state sequence, the ML estimation
+easily compute the probability of a sequence of fea-
+process assumes that this state sequence is hidden
+ture vectors. In this case, the system computes the
+and averages all possible state sequence values.
+likelihood of the tth feature vector, Yt, using the
+By using St to denote the hidden state at time t,
+probability density function for the HMM state at
+then making various assumptions, the system can
+time t. The likelihood of the complete set of T fea-
+express the maximization of Equation 4 in terms
+ture vectors is the product of all these individual
+of the HMM's hidden states, as follows:
+likelihoods. However, because we generally do not
+T
+know the actual sequence of transitions, the likeli-
+argmax
+(5)
+hood computation process sums all possible state
+sequences. Given that all HMM dependencies are
+local, we can derive efficient formulas for per-
+The system uses an iterative process to solve
+forming these calculations recursively.
+Equation 5, with each iteration involving an expec-
+Parameter estimation. The state transition proba-
+tation step and a maximization step. 3 The first step
+bilities and the gaussian means and variances that
+involves the computation of Po(s),YY), which is the
+model the feature vectors' probability density func-
+posterior probability-or count of a state-condi-
+tions parameterize the HMM's different states.
+tioned on all the acoustic observations. The system
+Before using an HMM to compute the likelihood
+uses the current HMM parameter estimates and
+values of feature vector sequences, we must train
+the Forward-Backward algorithmi to perform this
+the HMMs to estimate the model's parameters.
+computation. The second step involves choosing
+This process assumes the availability of a large
+the parameter A to maximize Equation 5. When the
+amount of training data, which consists of the spo-
+probability density functions are gaussians, the
+ken word sequence and the feature vectors
+computation can derive closed-form expressions
+extracted from the speech signal.
+for this step.
+Researchers commonly use the maximum likeli-
+Coarticulation. So far, we have assumed that the
+hood estimation process training paradigm for this
+fundamental acoustic units are phonemes and that
+task. Given that we know the correct word
+the system uses HMMs to model the duration and
+sequence corresponding to the feature vector
+acoustic variation associated with the phonemes'
+sequence, the ML estimation process tries to choose
+pronunciation. However, in some cases, the
+the HMM parameters that maximize the training
+phonemes in the surrounding context affect a par-
+feature vectors' likelihood, computed using the
+ticular phoneme's acoustic variation. This coar-
+HMM for the correct word sequence. If repre-
+ticulation phenomenon is particularly prevalent in
+sents the stream of T acoustic observations, and WN
+spontaneous speech, which the speaker does not
+represents the correct word sequence, the ML esti-
+enunciate carefully. The system models coarticu-
+mate for the parameter 0 is
+lation by assuming that the density of the obser-
+April 2002
+45

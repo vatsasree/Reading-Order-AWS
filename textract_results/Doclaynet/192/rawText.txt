@@ -1,0 +1,103 @@
+
+4
+evaluated up to order O(e3), while the velocity field in
+(12) is expanded only up to order O(e²), it is not appro-
+Here the differentiation with respect to Ii is taken for-
+priate to use 12 in order to ensure the conservation of
+mally as if x were a regular 3D vector not bound to a
+the whole surface area. Therefore, we only use the projec-
+sphere of radius unity, and eimn is the Levi-Civita (unit
+tions of (12) on Yk.(()) for k equal to 2 or 4. Accordingly,
+anti-symmetric) tensor. The advantage of such a defini-
+we leave the isotropic part of Z(x) (denoted here as Zo)
+tion is that not only do these spherical harmonics consti-
+undetermined. Once the final shape evolution equations
+tute an orthogonal set with respect to the integration of
+are obtained we shall use the constraint that the time
+dot product over x. i.e. the quantity
+derivative of 9 is equal to zero in order to determine
+Zo. This way of reasoning was used in previous studies
+8-11 Note that unlike other theories 8-11 since
+we
+expand the equations to higher order, it is not legitimate
+is zero unless j = j' k = K'. l but also operators
+to replace A(a) in (12) with d2 prior to projection
+G and K are diagonal in the chosen basis for a spherical
+on the spherical harmonics sub-space. Such a substitu-
+vesicle. so that the integrals
+tion would imply neglecting terms of order O(e²) in final
+equations, and would be inconsistent with the spirit of
+the present theory.
+Having determined the velocity field thanks to the
+above expansions, we are in a position to obtain the fi-
+nal evolution equation by making use of the kinematic
+equation expressing the fact that the membrane velocity
+is equal to the fluid velocity at the membrane
+are zero unless j - j' k = K', I = l' Given the centro-
+9f(a))
+(x)
+(13)
+symmetry we impose, in our expansion of v(x). u(x), and
+at
+R(x)
+F(x). the absence of Y1.k.((x), for even k. and Y2kk
+Then the task is to substitute the expanded velocity
+and Y3.k.((x) for odd k. In order to find the evolution
+field into this equation (in terms of coefficients of the
+equations we need to expand the velocity field to the
+velocity field) and project the resulting expression onto
+order of O(e2). Coefficients for for k > 6 are
+the space of spherical harmonics of interest This then
+O(e3) and thus can be neglected. It will be shown later
+leads to the determination of the evolution equations that
+that coefficients of 5th and 6th orders of vector spherical
+must be satisfied by the shape coefficients fr.e. It can be
+harmonics make corrections to the evolution equations
+shown that the following identities hold .5.1(x)x, - O.
+for fk.1 with A < 4 which are O(e3). So only five first
+Y2.6.1(x)x, = 7Y6,1(x) and Y2.6.1(x)x; - 6Y6,1(x). There-
+orders (starting from the zeroth one) of vector spherical
+fore the projection of the first part of the right hand
+harmonics should be taken into account in the expansion
+side of (13) on the subspace of spherical harmonics of
+of any space-dependent quantity under consideration.
+orders up to four does not depend on the coefficients of
+In order to fulfil the condition of local inextensibility
+the vector spherical harmonics of orders five and six in
+of the membrane we impose zero surface divergence of
+the velocity field. Regarding the the second part, of (x)
+the velocity field
+is of order O(s) and the coefficients for fifth and sixth
+dA(x)
+dv,(x)
+orders of vector spherical harmonics in the velocity field
+dt dA(a) O. (12)
+expansion are of order O(e2) so that their contribution
+in the shape evolution equation is of order O(e3), that is
+Here
+beyond our accuracy.
+It is convenient to decompose the applied shear flow
+ve()Ov)k
+into its elongational and rotational parts to simplify
+the final equations. The same decomposition can be
+applied to general linear flow: the quantity E2(x) =
+is the Jacobian matrix. We can take the derivatives as
+defines the straining part. while the vector
+if x were a regular 3D vector. because the surface di-
+Si, represents the vorticity. Note, that
+vergence is fully determined by the distribution of the
+u(x) in (10) is the velocity of the imposed flow evaluated
+velocity field on the membrane and does not depend on
+at the point R(x), which takes the following form
+the continuation of the flow into the liquids.
+We expand equations 1012 to order O(e2) and the
+u(x) = (dE2 +eljkx,Sx)(1+f(x))
+resulting integrals could be performed analytically. Pro-
+The shape evolution equations for the second and
+jecting the results of the integration on the space of vector
+fourth order harmonics can be written in a compact form:
+spherical harmonics up to the fourth order, we obtain a
+set of equations satisfied by the coefficients entering the
+expansions of v(x) and Z(x). Since the surface area is
+Df2.1 Dt
+(14)

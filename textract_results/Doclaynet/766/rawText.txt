@@ -1,0 +1,118 @@
+
+2
+ture of L is treated as a single P3/2 proton in a central
+eral, be unambiguously fixed in the past and future which
+nuclear potential, the variation Am of mass with direc-
+leads to |in ># |out >, because the state |in > is unsta-
+tion, if it exists, was found to satisfy Am < 10-20
+This
+ble against decay into many particle |out > states due
+proves that there is no anisotropy of mass which is due
+to interaction processes allowed by lack of Poincare in-
+to the effects of mass in our galaxy. If the curvature of
+variance. Non-trivial Bogolubov transformation between
+Riemannian space is associated with gravitational inter-
+past and future positive frequency modes implies that
+action then it would indicate an universal feature equally
+particles are created from the vacuum and this is one of
+suitable for action on all the matter fields at once. Then
+the reasons for |in ># |out >. Note that a remarkable
+another objection is that this is rather applicable only
+surge of activity of investigations towards an extension of
+for gravity but not for inertia since the inertia depends
+GR has arisen recently. They are expressible geometri-
+solely on the state of motion of individual test particle
+cally in the language of fundamental structure known as
+or coordinate frame of interest. So, the curvature arisen
+a fiber bundle. This provides an unified picture of gravity
+due to acceleration of coordinate frame of interest relates
+modified models based on several Lie groups, see e.g. 12
+to this coordinate system itself and does not acts at once
+29 All these approaches have their own advantages, but
+on all the other systems or matter fields. Such inter-
+in the same time they are subject to many uncertainties.
+esting aspects which deserve further investigations, un-
+Currently no single theory has been uniquely accepted as
+fortunately, have attracted little attention in subsequent
+the convincing gauge theory of gravitation, which will be
+developments. This state of affairs has not much changed
+able successfully to address the aforementioned problems.
+up to present. as well as the RLI still remain unknown.
+The present paper aims to fill this gap. Furnishing justi-
+fication for introduction of the Principle of Equivalence,
+A. Rational
+in addition to those of available experimental verifica-
+tions we must also assign a high importance to the
+prove on the theoretical basis.
+To innovate the solution to the problems involved, in
+this paper we develop on the general gauge principle
+Another purpose of present article is to explore the re-
+(GGP), an early version of which is given in 11.30.31
+arrangement of vacuum state in gravity at huge energies,
+The GGP accounts for gravitation gauge group GR gen-
+which will be of vital interest for the physics of super-
+erated by hidden local internal symmetries implemented
+dense matter in very compact astrophysical sources
+on the flat space M6. Involving the auxiliary flat space
+11 and references therein Note that the Riemannian
+M6. with the whole set of well-defined Killing's vectors,
+space interacting quantum field theory cannot be a sat-
+just has a single aim as a guiding tool in dealing with an
+isfactory ground for addressing this question. The ge-
+intricate `jungle' of curved geometry. In this paper much
+ometrical interpretation of gravitation arisen from the
+more will be done (Sect.2) to make clear and rigorous
+dual character of the metrical tensor in its metrical and
+these early results and formulations The following part
+gravitational aspects, is a noteworthy result of GR. Al-
+of the present paper will be the original contribution
+though this interpretation has advantage in solving the
+whereas we relate the group GR to the Lie group Gp of
+problems of cosmology, nevertheless such a distinction of
+distortion of local internal properties of flat space M6.
+gravitational field among the fields yields the difficulties
+It can be achieved by nonlinear realization of the group
+in the unified theories of all interactions of elementary
+GD in the framework of method of phenomenological La-
+particles, and in quantization of gravitation. Therefore,
+grangians. This approach was originally introduced by
+the GR as a geometrized theory of gravitation clashes
+Coleman, Wess and Zumino 34 in the context
+of
+in-
+from the very outset with basic principles of field theory.
+ternal symmetry groups. It was later extended to the case
+This rather stems from the fact that Riemannian geome-
+of spacetime symmetries by Isham, Salam, and Strathdee
+try, in general, does not admit a group of isometries, i.e.,
+considering the nonlinear action of GL(4,R) mod
+Poincare transformations no longer act as isometries and,
+the Lorentz subgroup, see 15 and references therein for
+for example, it is impossible to define energy-momentum
+a comprehensive review. We study geometrical structure
+as Noether local currents related to exact symmetries.
+of the space of parameters in terms of Cartan's calculus
+This posed severe problems in Riemannian space inter-
+of exterior forms and derive the Maurer-Cartan's struc-
+acting quantum field theory. The major unsolved prob-
+ture equations. We derive key relation which uniquely
+lem is the non-uniqueness of the physical vacuum and
+determines, for given distortion field, the six angles of
+associated Fock space. Actually, a peculiar shortcoming
+distortion rotations around each axes of the M6. We
+of the interacting quantum field theory in curved space-
+treat distortion fields as Goldstone fields to which the
+time is the following two key questions to be addressed
+metric and connection are related. We infer group in-
+yet: a) an absence of the definitive concept of space-
+variants and calculate conserved currents. The metric
+like separated points, particularly, in canonical approach,
+is no more a fundamental dynamical field. The funda-
+and the 'light-cone' structure at each spacetime point: b)
+mental field is distortion gauge field and, thus, both the
+the separation of positive- and negative-frequencies for
+actions and the equations of motion depend on the con-
+completeness of the Hilbert-space description. Due to it,
+cept of gauge potential. The metric and connection may
+a definition of positive frequency modes cannot. in gen-
+be derived from this gauge field. To test the proposed

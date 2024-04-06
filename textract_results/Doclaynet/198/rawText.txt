@@ -1,0 +1,113 @@
+
+16
+2.5
+2.0
+1.5
+(a) FM
+1.5
+1.0
+1.0
+0.5
+0.0
+(a)
+0.5
+1.0 1.5 2.0 2.5 3.0 3.5 R/a
+0.0
+2.5
+0.5
+1.0
+1.5
+2.0
+2.5
+3.0
+3.5
+2.0
+R/a
+1.5
+1.0
+1.5
+(b) AFM
+0.5
+0.0
+(b)
+1.0
+1.0 1.5 2.0 2.5 3.0 3.5 R/a
+0.5
+FIG. 20: The high and low barriers for the FM (a) and the
+AFM (b) configurations for pairs at the (110) surface. The
+anisotropy for the closest pairs exhibit a reduced anisotropy
+0.0
+energy for separations greater than two lattice constants, all
+0.5
+1.0
+1.5
+2.0
+2.5
+3.0
+3.5
+pairs have a characteristic barrier of around 2 meV. indicative
+R/a
+of very weakly interacting Mn.
+FIG. 21: The four highest occupied (filled circles) and the two
+acceptor levels (empty circles) in the FM (a) and AFM (b)
+[Fig. 19 (a)-( show qualitatively different landscapes -
+configuration for Mn pairs in the (110) surface. Loss of coor-
+tilted quasi-easy planes with the hard direction approx-
+dination and hybridization with surface states cause impurity
+imately along [111]. Similarly for the AFM configura-
+levels deep in the gap.
+tions, only (110)d=0.71a and (100) d=4 [Fig. 19 (e) dif-
+fer from the single Mn type landscape in Fig. 19 (d).
+In (100) the easy axis and the low barrier are inter-
+acceptor has in fact crossed the first conduction band
+changed between the AFM and FM, but the hard direc-
+state. This is associated with a very large splitting of
+tion remains along the [111].
+the acceptors. In (110) R the off-site Coulomb has been
+Fig. 20 shows that anisotropy energies are very small,
+reduced even further (to 0.5 eV) in order to also make the
+typically one order of magnitude smaller than for the
+upper acceptor appear in the gap. The overall spectrum
+fully periodic systems. In both FM and AFM configu-
+for the AFM and FM configuration looks similar, indi-
+rations the interactions between Mn for distances below
+cating that interactions are very weak and the itinerant
+two lattice constants, tend to reduce the anisotropy heav-
+spin wave functions are very localized at the surface. In
+ily. At larger distances, where all Mn pairs produce the
+the STM experiment Zn dopants can give rise to reso-
+[111] easy axis type landscape in Fig. 19 (d), the single
+nant tunneling between conduction states and the accep-
+barriers are around 2 meV. This limit of weakly interact-
+tor level, thought to be responsible for the negative dip
+ing Mn is also reflected in the difference in barriers (see
+seen in the curve of the tunneling conductance vs. bias
+20) between the FM and AFM, which becomes negligi-
+voltage 16 The coupling to conduction-like states can lead
+ble for weakly hybridized pairs above 1.5a. As we will
+to a more extended, bulk-like acceptor wave function seen
+show. total energy differences are also small, causing a
+at the (110) surface. As a first approximation our treat-
+very small effective exchange.
+ment of the surface should reveal some of the relevant
+properties. Our results indicate that the interactions in
+the surface are much weaker than in bulk, and magnetic
+2.
+Character of acceptor levels for Mn pairs in a (110)
+anisotropies are one order of magnitude smaller This is
+surface
+related to acceptor wave functions that are much more
+localized at the surface.
+Fig.
+21 shows the group of six impurity levels for the
+So far there are relatively few papers that attempt to
+Mn pairs in the surface. We see that for both FM and
+simulate STM images of Mn in the (110) surface! 47/88
+The
+AFM configurations, two of the occupied levels are split
+acceptor LDOS resulting from our tight-binding model
+around 0.5 eV below the others. For the closest (110)
+for a few representative pairs are shown in Fig. 22 for
+pair the acceptors are SO high in energy that the upper
+the
+FM and Fig. 23 for the AFM configurations. The

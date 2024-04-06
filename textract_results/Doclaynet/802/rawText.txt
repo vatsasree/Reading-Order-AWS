@@ -1,0 +1,98 @@
+
+abrupt collective movement could lead to mast bumping in
+8. Failure to maintain rotor rpm within the RFM
+some rotorcraft with teetering rotor systems.
+recommended range.
+9.
+Excessive yaw when increasing collective to slow rate
+Energy is a very important property of all rotating
+of descent during power recovery autorotations.
+components, and the kinetic energy stored in the rotor system
+is used to cushion the landing. More lift is produced at the
+10. During power recovery autorotations, a delay in
+bottom of an autorotation by raising the collective, which
+reapplying power.
+increases the angle of attack of the blades. The rotor rpm will
+11. Initial collective pull either too high or too low.
+also rapidly decay at this point and it is essential to properly
+12. Improper flare (too much or not enough).
+time the flare and the final collective pull to fully arrest the
+descent and cushion the landing. Upon arriving into the
+13. Flaring too low or too high (AGL).
+course line prior to the flare, the scan should focus almost
+14. Failure to maintain heading when reapplying power.
+entirely outside. The scan should include:
+15. Not landing with a level attitude.
+The horizon for attitude, ground track, and nose
+16. Landing with aircraft not aligned with the direction
+alignment;
+of travel.
+the altitude to set the flare and for closure (groundspeed):
+and
+17. Insufficient collective cushioning during full
+autorotations
+the instrument cross-check of airspeed, rotor rpm, and
+18. Abrupt control inputs on touchdown during full
+engine rpm in the descent.
+autorotations.
+Every autorotational flare will be different depending on the
+Practice Autorotation with a Power Recovery
+existing wind conditions, airspeed, density altitude (DA).
+and the aircraft gross weight. A pilot operating a helicopter
+A power recovery is used to terminate practice autorotations
+at a high DA needs to take into account the effects on the
+at a point prior to actual touchdown. After the power
+control of the helicopter when recovering from an aborted
+recovery, a landing can be made or a go-around initiated
+autorotation
+Technique (How to Practice)
+Some effects to consider are:
+At approximately 3-15 feet landing gear height AGL,
+depending upon the helicopter being used, begin to level the
+Higher rate of descent.
+helicopter with forward cyclic control. Avoid excessive nose-
+Reduced rotor rpm builds in autorotation
+high. tail-low attitude below 10 feet. Just prior to achieving
+Low initial rotor rpm response in autorotation
+level attitude. with the nose still slightly up. coordinate
+upward collective pitch control with an increase in the
+The requirement for a higher flare height.
+throttle to join the needles at operating rpm. The throttle and
+Reduced engine power performance
+collective pitch must be coordinated properly.
+Common Errors
+If the throttle is increased too fast or too much. an engine
+The following common errors should be prevented:
+overspeed can occur; if throttle is increased too slowly or too
+little in proportion to the increase in collective pitch, a loss of
+1.
+Entering the maneuver at an improper altitude or
+rotor rpm results. Use sufficient collective pitch to stop the
+airspeed.
+descent, but keep in mind that the collective pitch application
+2.
+Entering the maneuver without a level attitude (or not
+must be gradual to allow for engine response. Coordinate
+in coordinated flight).
+proper antitorque pedal pressure to maintain heading. When
+3.
+Entering the maneuver and not correcting from the
+a landing is to be made following the power recovery, bring
+initial deceleration to a steady state attitude (which
+the helicopter to a hover and then descend to a landing.
+allows excessive airspeed loss in the descent).
+In nearly all helicopters, when practicing autorotations with
+4.
+Improper transition into the descent on entry.
+power recovery, the throttle should be at the flight setting at
+5.
+Improper use of anti-torque on entry.
+the beginning of the flare. As the rotor disk begins to dissipate
+6.
+Failure to establish the appropriate crosswind
+its energy, the engine is up to speed as the needles join when
+correction, allowing the aircraft to drift.
+the rotor decreases into the normal flight rpm.
+7.
+Failure to maintain coordinated flight through the tum.
+11-7

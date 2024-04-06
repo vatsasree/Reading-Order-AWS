@@ -1,0 +1,82 @@
+
+CHAPTER 2
+AERODYNAMICS OF FLIGHT
+Chapters 2 and 3 of the Pilot's Handbook of Aeronau-
+Longitudinal axis is an imaginary line about which
+tical Knowledge (FAA-H-8083-25) apply to powered
+the aircraft rolls; it is also called the roll axis. The
+parachutes and are a prerequisite to reading this book.
+longitudinal axis is not a fixed line through the cart
+This chapter will focus on the aerodynamic fundamen-
+because the angle of incidence changes in turbulence
+tals unique to powered parachute (PPC) operations.
+and with loading changes.
+Aerodynamic Terms
+Angle of incidence is the angle formed by the chord
+line of the wing and the longitudinal axis of the PPC
+Airfoil is the term used for surfaces on a powered
+cart. The cart longitudinal axis is not the same as the
+parachute that produce lift, typically the wing itself.
+aerodynamic longitudinal axis defined in the previous
+Although many different airfoil designs exist, all air-
+paragraph. [Figure 2-2] Unlike an airplane, the angle
+foils produce lift in a similar manner.
+of incidence can change in flight because of the flex-
+ible line attachment between the wing and the cart.
+Camber refers to the curvature of a wing when look-
+Angle of incidence can change for different types of
+ing at a cross section. A wing possesses upper cam-
+flight configurations and PPC designs; this is covered
+ber on its top surface and lower camber on its bottom
+in detail in the "Moments" section.
+surface. Leading edge describes the forward edge of
+the airfoil. The rear edge of the airfoil is called the
+Trim angle is the angle between the chord line of the
+trailing edge. The chord line is an imaginary straight
+wing and the horizontal plane when the PPC is in non-
+line drawn from the leading edge to the trailing edge.
+powered gliding flight. [Figure 2-3] The PPC wing is
+[Figure 2-1]
+designed at a slight angle, with the chord line inclined
+downward to the horizontal plane to maintain the
+Leading edge
+manufacturer-designed angle of attack during gliding,
+level and climbing flight. This "trim angle" is built
+into the powered parachute by the manufacturer and
+Upper
+camber
+Chord line
+cannot be adjusted by the pilot moving the controls.
+Lower camber
+Pitch angle is the angle the PPC wing chord makes
+Trailing edge
+Flight path
+with the horizontal plane. Pitch angle is what you can
+see. Many pilots confuse the pitch angle, which you
+Relative wind
+can easily see and feel, with the angle of attack which
+may not be as perceptible. [Figure 2-4] For example,
+Figure 2-1. Aerodynamic terms of an airfoil.
+the pitch angle in an engine-out glide could be minus
+Relative wind is the direction of the airflow with re-
+8 degrees, in level flight 10 degrees above the hori-
+spect to the wing; it is usually parallel to and opposite
+zon, and in a climb it could be 28 degrees above the
+the PPC flight path. Relative wind may be affected
+horizon. These are significantly different angles you
+by movement of the PPC through the air, as well as by
+easily see. Pitch angles are covered in greater detail
+all forms of unstable, disturbed air such as wind shear,
+in Chapter 6.
+thermals, turbulence, and mountain rotors. When a
+Deck angle is the angle of the cart's lower frame
+PPC is flying through undisturbed air, the relative
+(from the front wheel to the rear wheels), to the land-
+wind is parallel to and opposite the flight path.
+ing surface. The deck on the lower part of the conven-
+Angle of attack is the angle between the relative wind
+tional cart frame can be used to visualize deck angle.
+and the wing chord line. [Figure 2-2]
+An imaginary line between the front and back wheel
+axles can also be used on unconventional carts.
+2-1

@@ -1,0 +1,26 @@
+
+subordinates the study of versions of treatment or versions of control. In particular, the
+main treatment-control comparison is unaffected by the exploration of versions of treatment
+- the usual confidence interval for a constant effect is reported - despite controlling the
+family-wise error rate in multiple comparisons that explore the possibility of versions of
+treatment with different effects. Two confidence intervals are reported, the usual interval
+for a constant effect and an interval designed to contain both effects if the two versions
+differ. If the effect is constant, then both intervals simultaneously cover that one effect with
+probability > 1-a. but if there are two versions then the second interval covers both version
+effects
+with probability 1 - a. The investigator always reports both intervals, valid
+under different assumptions. This is an unusual type of simultaneous inference: there is
+essentially one question, but there are two sets of assumptions underlying the answer. SO one
+question is answered twice, as opposed to answering several different questions. There are
+multiple assumptions rather than multiple hypotheses. The two intervals together permit
+an investigator to report the conventional confidence interval for a constant effect, without
+lengthening it for multiple testing, yet the investigator also provides some information
+about whether the study's conclusions depend on the absence of versions of treatment
+The two intervals may possibly disagree, say about whether no effect is plausible, and if
+they do disagree then they demonstrate that the assumption about versions of treatment
+is playing an important role in the interpretation of the available data. Importantly, the
+method does not presume there is a single version of treatment by virtue of failing to reject
+the null hypothesis that the two versions are equal. That is, it entertains the possibility
+that there are versions of treatment even when the convetional interval assuming a constant
+treatment effect is not empty.
+4

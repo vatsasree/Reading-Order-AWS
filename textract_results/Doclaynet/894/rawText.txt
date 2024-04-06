@@ -1,0 +1,69 @@
+
+weighing points is 75 inches, the weight of the nosewheel
+(F) is 340 pounds, and the distance between main wheels
+and nosewheel (L) is 78 inches. The total net weight of the
+CG = D (RxL)
+airplane (W) is 2,006 pounds.
+The location of the CG may be determined by using the
+=19.7
+CG = -(D+F) -
+Figure 3-13. Determining the CG with datum forward of the main
+wheels in an airplane with tailwheel landing gear.
+=-(75+340x78)
+The CG is 19.7 inches behind the datum.
+Datum Aft of the Main Wheels-Tailwheel
+=88.2
+Landing Gear
+The datum of the airplane in Figure 3-14 is located at the
+Figure 3-11. Determining the CG with datum aft of the main wheels
+intersection of the wing root trailing edge and the fuselage.
+of an airplane with nosewheel landing gear.
+This places the arm of the main gear (D) at -80 inches. The
+net weight of the tailwheel (R) is 67 pounds, the distance
+formula in Figure 3-11.
+between the main wheels and the tailwheel (L) is 222 inches,
+The CG location is a negative value, which means it is 88.2
+inches forward of the datum. This places it 13.2 inches
+and the total net weight (W) of the airplane is 1,218 pounds.
+Since the datum is aft of the main wheels, use the formula
+forward of the main wheels, exactly the same location as
+when it was measured from other datum locations
+Datum
+Location of Datum
+67.8
+The location of the datum is not important, but all
+measurements must be made from the same location.
+Datum Forward of the Main Wheels-Tailwheel
+Landing Gear
+-80
+142
+Locating the CG of a tailwheel airplane is done in the same
+L = 222.0
+way as locating it for a nosewheel airplane except the formula
+is
+(Rwi)
+Figure 3-14. The datum is aft of the main wheels, at the intersection
+of the wing trailing edge and the fuselage.
+The distance (D) between the datum of the airplane in
+Figure 3-12 and the main-gear weighing points is 7.5 inches,
+D+(R)
+the weight of the tailwheel (R) is 67 pounds, and the distance
+(L) between the main-wheel and the tailwheel weighing points
+=-80+(67,x222)
+is 222 inches. The total weight of the airplane (W) is 1,218
+pounds. Determine the CG by using the formula in Figure 3-13.
+-67.8
+Datum
+Figure 3-16. Determining the CG with datum aft of the main wheels
+(19.7
+in an airplane with tailwheel landing gear.
+D=7.5
+found in Figure 3-15.
+The CG is 67.8 inches forward of the datum or 12.2 inches
+aft of the main-gear weighing points. The CG is in exactly
+222.0
+the same location relative to the main wheels, regardless of
+229.5
+Figure 3-12. The datum of this tailwheel airplane is the wing root
+leading edge.
+3-7

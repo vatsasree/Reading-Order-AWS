@@ -1,0 +1,58 @@
+
+attractor, we represent in Figure| the projection of the trajectory of 15.11)+(5.14)+15.17 corresponding
+to the initial data X1 (to) - 0.24. x2(to) = 0.16, y((to) = 1.32, y2(to) = -2.25. 1(to) = 0.37, 22(to) =
+-3.71, where to - 0.61. on the I2 - y2 - 22 space. The simulation result confirms that system (5.11)
++
+15.14
++
+(5.17) possesses a chaotic attractor.
+6
+4
+2
+N°2
+o
+-2
+-4
+-6
+o
+-1
+O
+-4
+X2
+1
+2
+-6
+Figure 5: The projection of the chaotic trajectory of system
++
+5.14
++
+(5.17)
+on
+the
+22
+-
+y/2
+-
+2
+space.
+6
+Control of Tori
+In this section. we will numerically demonstrate the stabilization of the unstable quasi-periodic motions
+embedded in the chaotic attractor of the unidirectionally coupled Duffing oscillators [5.11] + 5.14 +
+5.17) We suppose that to stabilize the quasi-periodic solutions of 5.14 and 5.17 it is sufficient to
+control the chaos of system (5.11) For that purpose we will make use of the Ott-Grebogi-Yorke (OGY)
+control method 9 applied to the logistic map (5.10) which gives rise to the presence of chaos in [5.11].
+We proceed by briefly explaining the OGY control method for the map [69].
+Suppose that the parameter r in the logistic map 5.10 is allowed to vary in the range [3.9 E. 3.9+
+where e is a given small number. Consider an arbitrary solution { Ko E [0. 1], of the map and denote
+by J - 1,2 p. the target unstable p-periodic orbit to be stabilized In the OGY control method
+[69] at each iteration step i after the control mechanism is switched on. we consider the map 15.10 with
+the parameter value l = X1, where
+(6.18)
+provided that the number on the right-hand side of the formula (6.18) belongs to the interval [3.9-8, 3.9+
+3.9[2x(3)
+e]. In other words, we apply a perturbation in the amount of
+to
+the
+parameter
+14

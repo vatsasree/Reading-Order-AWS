@@ -1,0 +1,102 @@
+
+5
+over the 'parent' bins i can be carried out without loss of
+A. Select a configuration in the bin i. At
+information as in the case of Markov dynamics, meaning
+t>0 use eqn. (with a shift of index)
+that our MIJ represents an average over the configu-
+to weight the configurations according
+rations in i. rather than having the same value for each
+to their previous bin. At t = O set all
+configuration in i. In particular, the practitioner should
+configurations in i as equiprobable.
+be aware that non-trivial correlations of the process on a
+B. Run dynamics of duration T.
+time-scale longer than T are not captured by the descrip-
+tion in terms of the matrices M4.
+C. Calculate l for the evolved configura-
+tion and find bin j given 1.
+The extent to which a given M' can be transplanted
+to a different timepoint t or to describe a system which
+D. Associate the evolved configuration
+was initialised with different starting conditions, or with
+to bin j for the next timestep, also
+a different history of control parameters, must be judged
+recording its origin as i.
+by the practitioner If the series of M° is stable for suc-
+E. Set ML = MI + 1/nf
+cessive timepoints then this indicates that the dynamics,
+ii. Set sampling rate using eqn.
+at least with respect to 1. may have converged to some
+stationary limit. Under the assumption of stationarity in
+(c) Print the matrix M' and the vector d
+the dynamics, diagonalisation of M' to find the infinite-
+time distribution with respect to x can usefully be carried
+(d) Print any further observables derived using
+out. as well as other tactics commonly used to condense
+eqn.
+a description of the kinetics from a Markov-like matrix
+(e) Set - M'd'
+of estimated transition probabilities 17
+(f) Set
+H. S-PRES Algorithm Pseudocode
+I. Boundary Conditions for Flux Calculations
+To aid implementation a step-by-step guide to an ex-
+ample program is provided.
+S-PRES can be used in two ways, either to calcu-
+The set of starting configurations can be prepared in
+late the time dependent probability distribution of some
+any way that is of interest. E.g. one could prepare an
+static observable or to calculate the time dependent re-
+equilibrium set for a given control parameter and then
+action flux (t) between two specifically chosen 'source'
+use S-PRES to perform a quench, i.e. change the param-
+and 'sink' bins on A (which in the following we call A
+eter and observe the system dynamics. Or one could start
+and B). The latter quantity is the non-stationary ana-
+out from a single configuration and observe how trajec-
+logue of that which is usually calculated using TPS and
+tories diverge from this point. If the system is intended
+FFS methods, and the former of that which is usually
+to be set up in a stationary state then a conventional
+calculated via IS techniques. Flux calculations typically
+rare event sampling method or an initialising round of S-
+require special treatment of boundary conditions, in or-
+PRES can be run for whatever length of time is needed
+der to remove the effects of granularity in time and in
+to prepare a set of configurations with correct associated
+order to create a system which can remain far from equi-
+weights over a good range of l.
+librium indefinitely.
+In order to achieve a definition of the forward flux
+1. Prepare a set of (one or more) configurations of the
+which is strictly independent of T it is necessary that runs
+system at time t - O.
+which enter the 'sink' region, B. are halted immediately.
+This may be computationally costly if the coordinate l is
+2. Find l for each configuration, and associate it to
+costly to calculate, but cannot be avoided if an accurate
+the appropriate discrete bin w.r.t. A.
+flux is desired. If paths were allowed to enter and leave
+B. this would not correspond to the accepted definition
+3. Prepare a vector do giving the estimated occupa-
+of forward reaction flux as the probability per unit time
+tion probability of each bin on r at t - O.
+of a first passage from A to B.
+4. Prepare a vector n° giving the number of shots to
+The region B is treated as absorbing in this way: at
+make from each bin at t = O.
+the end of each timestep, the probability vector entry
+corresponding to B is set equal to zero and the entry
+5. Loop for t = O to t = DO:
+corresponding to the region A is incremented by the flux
+which has been deleted. No new configurations are actu-
+(a) Set all transition probability estimates M., =
+ally transferred to A, only some of the 'probability mass'
+O.
+tracked by d'. This 'short circuit' of the matrix is equiv-
+alent to a system with an infinite reservoir of states in
+(b) Loop for all s.t. d', + O:
+A and absorbing boundary conditions at B; which is the
+i. Repeat n' times:
+premise normally adopted for FFS.

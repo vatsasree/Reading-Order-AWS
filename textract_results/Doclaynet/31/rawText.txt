@@ -1,0 +1,34 @@
+
+MongoDB Documentation, Release 3.0.4
+Note: While MongoDB Enterprise does support Kerberos authentication, Kerberos is not supported in HTTP status
+interface in any version of MongoDB.
+Changed in version 3.0.
+Neither the HTTP status interface nor the REST API support the SCRAM-SHA-1 (page 321) challenge-response user
+authentication mechanism introduced in version 3.0.
+REST API
+The REST API to MongoDB provides additional information and write access on top of the HTTP status interface.
+While the REST API does not provide any support for insert, update, or remove operations, it does provide adminis-
+trative access, and its accessibility represents a vulnerability in a secure environment The REST interface is disabled
+by default, and is not recommended for production use.
+If you must use the REST API, please control and limit access to the REST API. The REST API does not include any
+support for authentication, even when running with authorization enabled
+See the following documents for instructions on restricting access to the REST API interface:
+Configure Linux iptables Firewall for MongoDB (page 335)
+Configure Windows netsh Firewall for MongoDB (page 339)
+6.2.6 Auditing
+New in version 2.6.
+MongoDB Enterprise includes an auditing capability for mongod and mongos instances. The auditing facility allows
+administrators and users to track system activity for deployments with multiple users and applications. The auditing
+facility can write audit events to the console. the syslog. a JSON file. or a BSON file.
+Audit Events and Filter
+To enable auditing for MongoDB Enterprise, see Configure System Events Auditing (page 398).
+Once enabled. the auditing system can record the following operations:
+schema (DDL),
+replica set,
+authentication and authorization and
+general operations.
+For details on the audit log messages, see System Event Audit Messages (page 424).
+By default, the auditing system records all these operations; however, you can set up filters (page 400) to restrict the
+events captured. To set up filters, see Configure Audit Filters (page 400).
+330
+Chapter 6. Security

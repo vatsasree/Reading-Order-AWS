@@ -1,0 +1,55 @@
+
+Luca Floris is a Cloud Technical Consultant in IBM EMEA.
+Luca joined IBM 4 years ago as a graduate through the IBM
+Graduate Scheme and he has 8 years of experience in IT,
+graduating from Plymouth University with a degree in
+Computer Science. His primary focus is containerization and
+application modernization through IBM Cloud Private and
+related technologies. He is well recognized as a technical focal
+point for IBM Cloud Private from IBM Cloud Innovation Labs in
+EMEA, and has written extensively about IBM Cloud Private on
+Kubernetes.
+Rahul Gupta is a Cloud Native Solutions Architect in IBM
+Country
+Cloud Solutioning Centre in USA. Rahul is a IBM Certified
+Smith
+Cloud Architect with 14 years of professional experience in IBM
+Cloud technologies, such as Internet of Things, Blockchain,
+and Container Orchestration Platforms. Rahul has been a
+technical speaker in various conferences worldwide. Rahul has
+authored several IBM Redbooks publications about messaging,
+mobile, and cloud computing. Rahul is a IBM Master Inventor
+and also works on MQTT protocol in OASIS board for open
+source specifications.
+Vasfi Gucer is an IBM Redbooks Project Leader with the IBM
+International Technical Support Organization. He has more
+than 23 years of experience in the areas of cloud computing,
+systems management, networking hardware, and software. He
+writes extensively and teaches IBM classes worldwide about
+IBM products. His focus has been on cloud computing for the
+last three years. Vasfi is also an IBM Certified Senior IT
+Specialist, Project Management Professional (PMP), IT
+Infrastructure Library (ITIL) V2 Manager, and ITIL V3 Expert.
+Anil Patil is a senior Solution Architect at IBM US. He is a
+Certified Cloud Solution Architect and Solution Advisor -
+DevOps with more than 18 years of IT experience in Cognitive
+Solutions, IBM Cloud, Microservices, IBM Watson API, and
+Cloud-Native Applications. His core experience is in
+Microservices, AWS, Cloud Integration, API Development, and
+Solution Architecture. He is currently a Lead Solution Architect
+and Cloud Architect for various clients in North America. Anil
+has been a Redbooks author and technical contributor for
+various IBM material and blogs, such as Cognitive Solution,
+IBM Cloud, API Connect, and Docker Container.
+Sanjay Singh is a senior Software Engineer. He has worked
+on various cloud products over 11 years of his career with IBM.
+As a technical consultant and Lab Advocate he has been
+engaged with customers in making their Cloud Adoption and
+implementation successful. He has lead adoption of IBM Cloud
+Private in one of the largest Telecom providers in India over
+eight months of engagement. His core experience is in
+Kubernetes, Openstack, AWS, Node.JS, JavaScript, Python,
+and Scripting. He holds a Btech degree in Computer Science
+from NIT Trichy (India).
+Preface
+xiii

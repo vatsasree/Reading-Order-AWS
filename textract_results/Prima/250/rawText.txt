@@ -1,0 +1,190 @@
+
+academic underground" (http://www.
+into the cache of a name server. The
+is hosted on a machine in the hacker's
+caughq.org)-precisely the kind of thing
+hacker could, for example, change the
+evil domain, BadGuysAreUs.com. So
+Kaminsky had hoped to forestall.
+name server's entry for "www.paypal.
+when you access that eBay page seek-
+Whereas some network adminis-
+com," thus blocking access to PayPal,
+ing to purchase a book about Mother
+trators may initially have been reluc-
+or worse, duping people into going to a
+Teresa, your browser sends out a DNS
+tant to patch their systems, fearing that
+site that mimics PayPal's. From there,
+query to look up the IP address of
+the upgrade itself might cause prob-
+it would be relatively simple to har-
+BadGuysAreUs.com.
+lems, most of them now seem to have
+vest user names, passwords, and other
+Assuming the hacker doesn't try
+made the change. No definitive tally is
+valuable data.
+this too often, the address won't be
+available, but Kaminsky has created a
+Such an attack would work much
+in your name server's cache, so it will
+tool on his personal Web site (http://
+like the many "phishing" scams now
+issue a series of queries to other name
+www.doxpara.com) that allows visi-
+plaguing the Internet, but in this case
+servers. Eventually, your name server
+tors to check whether the server they
+the victims wouldn't need to click on a
+will be referred to the bad guy's name
+are using has been patched. He reports
+link in a shady e-mail message. They
+server, which responds by supplying
+that as of 9 July, about 85 percent of the
+could type the correct name, "www.
+the requested IP address. Now here's
+name servers being tested were vulner-
+paypal.com," directly into a browser
+where it gets ugly: the Domain Name
+able. But by 6 August, the proportion
+and still get sent to the wrong place.
+System allows the answer to include
+had dropped to 30 percent.
+(The real PayPal would upgrade the
+additional information. The bad
+But even those who have taken
+security of the connection from http to
+guy's name server could thus be pro-
+the appropriate steps are not exactly
+https, but the victim may easily fail to
+grammed to send a false IP address for
+breathing easy. The patch is not a per-
+notice when this doesn't happen on the
+any other site-such as Citibank (http://
+fect countermeasure, as Kaminsky has
+scammer's simulated site.)
+www.citibank.com)-along with the
+emphasized on his blog: "This is just
+The attacker could also use this
+requested IP address. The fake address
+a stopgap-we're still in trouble with
+tactic to redirect e-mail. By replac-
+would then take the place of the bank's
+DNS, just less."
+ing the IP address of, say, a corpo-
+real IP address in your name server's
+rate mail server with the IP address
+cache, where it would act to redirect
+F YOU FOLLOW computing at all, you
+of a mail server that he controlled, he
+traffic from anyone trying to use that
+know that security experts routinely
+could inspect incoming correspon-
+server to reach www.citibank.com.
+uncover software glitches and vul-
+dence before passing it on to the tar-
+The ability to tack on additional
+nerabilities and then issue software
+geted company's mail server. Even
+information in a DNS response was
+patches and upgrades. What Kaminsky
+more troubling, he could add his own
+considered a valuable feature when
+has found, however, is much bigger and
+malicious code to e-mail attachments,
+the Internet was first set up-it was
+much scarier.
+which from the recipient's point of view
+designed to provide the IP addresses
+To understand why, you need to
+might appear to come from known and
+of name servers referenced in the main
+know the basics of how the DNS works.
+trusted sources.
+part of the response. At that time, which
+The Domain Name System is essentially
+Security experts had long been
+predates the Web by many years, nobody
+the Internet's phone book. It's a huge
+aware of two general ways that a
+thought much about the possibility of
+database containing the 32-bit numeric
+hacker could carry out such a "cache
+scammers using this mechanism to take
+codes that identify every single site
+poisoning" attack on a name server.
+advantage of folks purchasing things
+on the Internet. These are known as
+But both had been rendered ineffective
+through an Internet auction or doing
+Internet Protocol addresses, or IP
+years ago with changes to DNS soft-
+their banking online.
+addresses for short. Amazingly, this
+ware. Kaminsky, however, has found
+To counter such mischief, DNS soft-
+database is distributed over some
+a way for a hacker to circumvent these
+ware was changed about a decade ago
+12 million computers worldwide,
+fixes-and to combine the two exploits
+to do what is called bailiwick checking.
+known as DNS name servers.
+in a way that makes an attack espe-
+With that, any extra information added
+When you type "www.google.com"
+cially potent.
+to a DNS response is ignored if it per-
+into your browser, it must translate
+tains to a domain that is different from
+that human-readable text into an IP
+HE FIRST KIND of attack
+the one that was asked about in the
+address before it can access the site. To
+causes the targeted name
+first place. So your name server would
+do so, your computer sends a request
+server to query a second
+disregard an IP address said to be for
+to a name server upstream, probably
+name server, one that the bad
+www.citibank.com if the original query
+one maintained by your Internet ser-
+guy controls. That turns out
+was about BadGuysAreUs.com.
+vice provider.
+to be incredibly easy to do, even if the
+The second way an attacker can
+Then, if your ISP's name server has
+name server to be poisoned is behind
+poison a name server's cache relies
+the IP address for the requested site
+a corporate firewall or otherwise pro-
+on the fact that the conversation
+stored-or "cached"-it returns this
+tected from outside access.
+your computer has with the name
+information to your computer pronto.
+Suppose this hypothetical villain
+server upstream-or the conversation
+If not, it goes through what may be an
+creates a Web page that contains a
+between two name servers involved in
+elaborate process querying other name
+description of Mother Teresa-perhaps
+answering your query-is fundamen-
+servers to find the address.
+an eBay ad for a copy of her definitive
+tally insecure. One computer sends
+Kaminsky has discovered a way for
+biography. Unbeknownst to you, the
+out a request to another and then
+a hacker to insert a false IP address
+page includes an embedded image that
+waits for an answer from it. But the
+30
+INT
+IEEE SPECTRUM
+OCTOBER 2008
+WWW.SPECTRUM.IEEE.ORG

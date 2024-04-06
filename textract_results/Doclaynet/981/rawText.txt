@@ -1,0 +1,131 @@
+
+17
+number of publications in the years 1950 to 1985. Here
+of Lane and Lynn perturbatively to weakly overlapping
+we can give only an outline of the main developments.
+resonances
+The development of the statistical theory of CN reac-
+The first attempt to construct a comprehensive statis-
+tions depended on the availability of a suitable theoret-
+tical theory is due to Moldauer (1961 1963 1964 1969
+ical framework to describe resonance reactions. Such a
+1975 1976 1980) (see also references to further work
+framework is needed to formulate statistical assumptions
+therein). In order to go beyond the regime of isolated
+on the resonance parameters. But to a large extent the
+resonances, Moldauer used an expansion of the scatter-
+availability of such a framework depended on the devel-
+ing matrix in terms of its poles in the complex energy
+opment of nuclear-structure theory. Early attempts to
+plane. This form of the S-matrix had been proposed
+formulate statistical models mirror the development of
+by Humblet and Rosenfeld (1961) In contrast to the R-
+the dynamical theory of nuclei.
+matrix theory, the Humblet-Rosenfeld theory is a dy-
+The R-matrix theory by Wigner and Eisenbud (1947)
+namical theory: The parameters of the pole expansion
+was formulated at a time when virtually nothing was
+are, in principle, completely determined by the Hamil-
+known about nuclear structure and is, by necessity, a
+tonian, and there are no arbitrary parameters. Unfor-
+very formal theory: Except for the short range of the
+tunately an explicit analytical connection between the
+nucleon-nucleon interaction, it does not refer to any spe-
+Hamiltonian and the positions of the poles and the val-
+cific feature of the nuclear Hamiltonian Resonances are
+ues of the residues, is not known. Thus, the Humblet-
+constructed as follows. The nucleus is thought to be en-
+Rosenfeld theory is effectively a formal theory like the R-
+closed by fictitious boundaries (one for each two-body
+matrix theory. Moreover, the following difficulty arises.
+fragmentation). On these boundaries fictitious bound-
+For isolated resonances there is a one-to-one correspon-
+ary conditions are imposed As a result. the spectrum
+dence between a resonance and a pole of the scattering
+of the nuclear Hamiltonian in the "internal region" (the
+matrix, see Eq. (18). The parameters of the pole possess
+domain enclosed by the boundaries) is discrete. The
+a direct physical interpretation as partial width ampli-
+eigenvalues and eigenfunctions depend on numerous pa-
+tudes and as energy and total width of the resonance.
+rameters (distance of the boundaries from the center of
+In the general case of many overlapping resonances the
+mass, values of the boundary conditions). Green's theo-
+Humblet-Rosenfeld expansion uses the same parameters
+rem is used to connect these discrete levels with the chan-
+(residues and locations of the poles of the S-matrix plus
+nels, and the levels become CN resonances Even today
+a smooth background matrix). But the simple interpre-
+the resulting form of the scattering matrix is extremely
+tation valid for isolated resonances does not apply. More-
+useful for the analysis of experimental data containing
+over, the theory is not manifestly unitary. For isolated
+several partly overlapping resonances ("multi-level R-
+resonances the unitarity constraint leads to the simple
+matrix fit"). However, few-level approximations to the
+sum rule (19) while it imposes complicated relations be-
+S-matrix are not automatically unitary. Moreover, the
+tween the pole parameters for overlapping resonances.
+form of the S-matrix is rather unwieldy and depends
+These have never been untangled. Therefore, the choice
+explicitly on the parameters just mentioned. For these
+of statistical assumptions for the pole parameters was
+reasons, the R-matrix has never been used as the starting
+far from obvious. At some point. Moldauer used the K-
+point of a statistical approach.
+matrix formulation (35) of the S-matrix, assumed that
+Lane and Lynn (1957 calculated the average cross sec-
+the energies E1 and matrix elements Wau in Eq.
+34
+tion for neutron capture reactions in the regime of iso-
+obeyed GOE statistics, and determined the distribution
+lated resonances. The calculation was possible without
+of pole parameters via a numerical simulation His re-
+referring to a comprehensive theory of resonance reac-
+lentless efforts met with limited success but kept interest
+tions. Indeed, in the regime < d each resonance is
+in the problem. Some of his results are reviewed in Sec-
+independently described by a Breit-Wigner formula as
+tion V.F
+in Eqs. (18) or 1250 If one assumes that the distribution
+Feshbach's
+unified
+theory
+of
+nuclear
+reac-
+of resonance parameters of isolated resonances follows the
+tions
+Feshbach
+1958
+1962
+1964)
+was
+the
+first
+GOE, the partial width amplitudes in each channel are
+theory of CN reactions that expressed the scattering
+Gaussian-distributed random variables. For each reso-
+matrix in terms of the Hamiltonian of the system with-
+nance the total width is related to the partial widths
+out the help of arbitrary parameters. It uses projection
+Tass by the sum rule (19) The resonance energies do
+operators onto the spaces of open and of closed channels.
+not enter the calculation of the energy-averaged cross
+The projection of the nuclear Hamiltonian onto the
+section. The task consists in calculating the ensemble
+space of closed channels defines a self-adjoint operator
+average of where a and b are two specific chan-
+with a discrete spectrum. The bound states of that
+nels (here: the neutron and the gamma decay channel).
+operator generate the resonances in the full problem.
+This can be done using the GOE and as input values for
+The theory was used by Lemmer and Shakin (1964) for
+the averages of the partial widths. the strength functions
+a first calculation of elastic neutron scattering on 15N
+(Tap)/d. see Section [V.A. A correction factor deduced
+using the nuclear shell model. Quasibound shell-model
+from R-matrix theory accounted for the effect of weak
+states appeared as neutron resonances. Although not
+resonance overlap. Moldauer (1961) extended the result
+related to the statistical theory, that work demonstrated

@@ -1,0 +1,82 @@
+
+US 8,546,063 B2
+61
+62
+-continued
+LC1-12
+(AII)
+(Rb2)nz
+Rbo
+5
+(Rby)
+000-Ab-V
+LC1-13 10
+(Rb2)n2
+In formula (All). Rb represents a hydrogen atom. a halo-
+gen atom, or an alkyl group having from 1 to 4 carbon atoms
+As the examples of preferred substituents that the alkyl group
+15
+represented by Rbo may have, a hydroxyl group and a halogen
+atom are exemplified. As the halogen atom represented by
+Rb a fluorine atom, a chlorine atom, a bromine atom, and an
+iodine atom are exemplified Rbo preferably represents a
+LC1-14
+(Rb2)nz
+hydrogen atom. a methyl group. a hydroxymethyl group. or a
+20
+trifluoromethyl group. and especially preferably a hydrogen
+atom or a methyl group.
+Ab represents a single bond, an alkylene group, a divalent
+linking group having a monocyclic or polycyclic alicyclic
+25
+hydrocarbon structure, an ether bond, an ester bond, a carbo-
+nyl group, or a divalent group of combining these groups, and
+LC1-15
+preferably a single bond or a linking group represented by
+(Rby)
+-Ab,-CO2-
+30
+Ab, represents a straight chain or branched alkylene group,
+or a monocyclic or polycyclic cycloalkylene group, and pref-
+erably a methylene group, an ethylene group, a cyclohexylene
+group, an adamantylene group, or a norbomylene group.
+V represents a group having a lactone structure. Specifi-
+LC1-16 35
+cally, V represents a group having a structure represented by
+any of formulae (LC1-1) to (LC1-17).
+(Rb2)nz
+Of the repeating units represented by formula (AII), as
+repeating units having an especially preferred lactone group
+O
+O
+40 when Ab represents a single bond, the following repeating
+units are exemplified In the specific examples, Rx represents
+LC1-17
+O
+H. CH CH2OH, or CF.
+(Rb2)n2
+45
+Rx
+Rx
+O
+O
+50
+The lactone structural part may have or may not have a
+substituent (Rb2). As preferred substituents (Rb2), an alkyl
+group having from 1 to 8 carbon atoms, a cycloalkyl group
+having from 4 to 7 carbon atoms, an alkoxyl group having
+from 1 to 8 carbon atoms, an alkoxyearbony group having
+55
+Rx
+Rx
+from 2 to 8 carbon atoms, a carboxyl group, a halogen atom,
+a hydroxyl group, a cyano group, and an acid-decomposable
+group are exemplified, and more preferred substituents are an
+alkyl group having from 1 to 4 carbon atoms, a cyano group, 60
+and an acid-decomposable group. n2 represents an integer of
+O to 4. When n2 is 2 or more, each substituent may be the same
+with or different from every other substituent A plurality of
+substituents (Rb2) may be bonded to each other to form a ring.
+65
+As repeating unit having a lactone structure, a repeating
+unit represented by the following formula (All) is preferred.

@@ -1,0 +1,83 @@
+
+MIT-CTP 4103
+Is a color superconductor topological?
+Yusuke Nishida
+Center for Theoretical Physics, Massachusetts Institute of Technology, Cambridge, Massachusetts 02139, USA
+(Dated: January 2010)
+A fully gapped state of matter, whether insulator or superconductor, can be asked if it is topo-
+logically trivial or nontrivial. Here we investigate topological properties of superconducting Dirac
+fermions in 3D having a color superconductor as an application. In the chiral limit, when the pair-
+ing gap is parity even, the right-handed and left-handed sectors of the free space Hamiltonian have
+nontrivial topological charges with opposite signs. Accordingly, a vortex line in the superconduc-
+tor supports localized gapless right-handed and left-handed fermions with the dispersion relations
+E = tup (v is a parameter dependent velocity) and thus propagating in opposite directions along
+the vortex line. However, the presence of the fermion mass immediately opens up a mass gap for
+such localized fermions and the dispersion relations become E = p2. When the pairing
+gap is parity odd, the situation is qualitatively different. The right-handed and left-handed sectors of
+the free space Hamiltonian in the chiral limit have nontrivial topological charges with the same sign
+and therefore the presence of the small fermion mass does not open up a mass gap for the fermions
+localized around the vortex line. When the fermion mass is increased further, there is a topological
+phase transition at m = V12 12 and the localized gapless fermions disappear. We also elucidate
+the existence of gapless surface fermions localized at a boundary when two phases with different
+topological charges are connected A part of our results is relevant to the color superconductivity
+of quarks.
+PACS numbers: 21.65.Qr. 12.38.-t
+leader)
+I. INTRODUCTION
+sulators and superconductors motivates us to ask the fol-
+lowing question: Is a color superconductor topological?
+A fully gapped state of matter can be asked if it is
+In order to shed light on this question, we investigate in
+topologically trivial or nontrivial. The most well-known
+this paper the topological properties of superconducting
+topological state of matter is the quantum Hall effect in
+Dirac fermions in 3D. In Sec. II, we start with the mean-
+two dimensions (2D) [1-3], in which the time reversal
+field model Hamiltonian of the color superconductivity of
+symmetry is explicitly broken. Recently the time rever-
+quarks and point it out that the free space Hamiltonian
+sal symmetric extensions of the quantum Hall effect have
+can be characterized by a Z valued topological charge.
+been theoretically proposed and experimentally observed
+In Sec. III, we compute the topological charge of the free
+both in 2D [4-6][7] and 3D (8-10)[11-15], which are re-
+space Hamiltonian when the pairing gap is parity even as
+ferred to as topological insulators (the 2D topological in-
+a function of the fermion mass and show that its value is
+sulator is also known as the quantum spin Hall effect).
+closely linked to the existence of gapless fermions local-
+Generally the topological state of matter is characterized
+ized around a vortex line. The low-energy spectrum of
+by the nontrivial topological charge of the single-particle
+such fermions is also determined in this section.
+Hamiltonian and accompanied by topologically protected
+gapless edge/surface states with linear dispersions (Dirac
+fermions).
+Another class of topological states of matter arises in
+superconductors Although the ordinary nonrelativistic
+s-wave superconductor is topologically trivial, the weakly
+paired phase of the Pa +ipy superconductor in 2D is topo-
+logically nontrivial [16] and Sr2RuO4 is its candidate ma-
+terial [17]. In addition to the gapless edge/surface states,
+the vortex in the topological superconductor supports
+In Sec. IV, we turn to the case where the pairing gap
+gapless fermions localized around the vortex core. It is
+is parity odd. By studying the topological charge of the
+also known from the pioneering work by Jackiw and Rossi
+free space Hamiltonian, we show that there is a topolog-
+that the relativistic s-wave superconductor in 2D has the
+ical phase transition as a function of the fermion mass,
+similar properties [18]. Such a system has recently re-
+which is also reflected in the existence of gapless fermions
+ceived renewed interest because it can be realized on the
+localized around a vortex line. In Sec. V, we elucidate the
+surface of the 3D topological insulator in contact with
+existence of gapless surface fermions localized at a bound-
+the s-wave superconductor [19]. It is pointed out that
+ary when two phases with different topological charges
+the Balian-Werthamer state realized in the B phase of
+are connected. Finally, Sec. VI is devoted to the sum-
+the superfluid SHE is also topological [20-23].
+mary of this paper and implications of our results for the
+Such progress on the discoveries of the topological in-
+color superconductor are discussed.

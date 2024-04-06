@@ -1,0 +1,53 @@
+
+Radian Group Inc.
+Notes to Consolidated Financial Statements - (Continued)
+VIEs
+As a provider of credit enhancement, we have entered into insurance contracts with VIEs and derivative contracts with
+counterparties where we have provided credit protection directly on variable interests and, in some cases, obtained the
+contractual rights of our counterparties with respect to the VIEs. VIEs include corporations, trusts or partnerships in which
+equity investors do not have a controlling financial interest or do not have sufficient equity at risk to finance activities without
+additional subordinated financial support.
+An entity is considered the primary beneficiary and is required to consolidate a VIE if its variable interest: (i) gives it the
+power to most significantly impact the economic performance of the VIE: and (ii) has the obligation to absorb losses or the
+right to receive residual benefits that could potentially be significant to the VIE. For all VIEs in which we have a variable
+interest, we determine whether we are the primary beneficiary. In determining whether we are the primary beneficiary, a
+number of factors are considered, including the structure of the entity, provisions in our contracts that grant us additional
+rights
+to influence or control the economic performance of the VIE upon the occurrence of an event of default or a servicer
+termination event or the breach of a performance trigger, and our obligation to absorb significant losses. Due to the continued
+deterioration of the performance of many of our financial guaranty transactions, the breach of these performance tests or other
+events giving rise to our right to influence or control the economic performance of the VIE could occur. When we obtain
+control rights, we perform an analysis to reassess our involvement with these VIEs to determine whether we have become the
+primary beneficiary.
+Fair Value of Financial Instruments
+Our estimated fair value measurements are intended to reflect the assumptions market participants would use in pricing
+an asset or liability based on the best information available Assumptions include the risks inherent in a particular valuation
+technique (such as a pricing model) and the risks inherent in the inputs to the model. Changes in economic conditions and
+capital market conditions, including but not limited to. credit spread changes, benchmark interest rate changes, market volatility
+and declines in the value of underlying collateral, could cause actual results to differ materially from our estimated fair value
+measurements We define fair value as the current amount that would be received to sell an asset or paid to transfer a liability in
+an orderly transaction between market participants at the measurement date. In the event that our investments or derivative
+contracts were sold, commuted, terminated or settled with a counterparty or transferred in a forced liquidation, the amounts
+received or paid may be materially different from those determined in accordance with the accounting standard regarding fair
+value measurements Differences may also arise between our recorded fair value and the settlement or termination value with a
+counterparty based upon consideration of information that may not be available to another market participant. Those
+differences, which may be material, are recorded as transaction realized gains/(losses) in our consolidated statements of
+operations in the period in which the transaction occurs.
+We have included the additional disclosures required by the update to the accounting standard regarding fair value
+measurements and disclosures pertaining to the reconciliation of Level III fair value measurements. See Note 5 for additional
+information
+In May 2011, the Financial Accounting Standards Board ("FASB") issued an update to the accounting standard regarding
+fair value measurements and disclosure. This update changes the language used to describe the requirements in GAAP for
+measuring fair value and for disclosing information about fair value measurements. The amendments: (i) clarify the FASB's
+intent about the application of existing fair value measurement and disclosure requirements; and (ii) change a particular
+principle or requirement for measuring fair value or for disclosing information about fair value measurements. The
+amendments in this update do not require additional fair value measurements and are not intended to establish valuation
+standards or affect valuation practices outside of financial reporting. We adopted this standard effective January 1, 2012. The
+adoption of this update did not have a significant impact on our fair value measurements. Additional disclosures regarding
+unobservable market inputs related to our Level III instruments required under this update are presented in Note 5.
+When determining the fair value of our liabilities, we are required to incorporate into the fair value of those liabilities an
+adjustment that reflects our own non-performance risk. Our CDS spread is an observable quantitative measure of our non-
+performance risk and is used by typical market participants to determine the likelihood of our default. As our CDS spread
+tightens or widens, it has the effect of increasing or decreasing, respectively, the fair value of our liabilities with a
+corresponding impact on our results of operations.
+182

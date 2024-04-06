@@ -1,0 +1,100 @@
+
+a light pressure against the instrument to drive the spring-
+Castings are normally lower in strength and are more brittle
+loaded indenter into the material to be tested. The hardness
+than a wrought product of the same material. For intricate
+reading is instantly indicated on the dial.
+shapes or items with internal passages, such as turbine blades,
+casting may be the most economical process. Except for
+Several typical readings for aluminum alloys are listed in
+engine parts, most metal components found on an aircraft
+Figure 7-13. Note that the harder the material is, the higher
+are wrought instead of cast.
+the Barcol number. To prevent damage to the point, avoid
+sliding or scraping when it is in contact with the material
+All metal products start in the form of casting. Wrought
+being tested. If the point should become damaged, it must be
+metals are converted from cast ingots by plastic deformation.
+replaced with a new one. Do not attempt to grind the point.
+For high-strength aluminum alloys, an 80 to 90 percent
+reduction (dimensional change in thickness) of the material
+Each tester is supplied with a test disk for checking the
+is required to obtain the high mechanical properties of a fully
+condition of the point. To check the point, press the
+wrought structure.
+instrument down on the test disk. When the downward
+pressure brings the end of the lower plunger guide against
+Both iron and aluminum alloys are cast for aircraft uses. Cast
+the surface of the disk. the indicator reading should be within
+iron contains 6 to 8 percent carbon and silicon.
+the range shown on the test disk.
+Cast iron is a hard un-malleable pig iron made by casting or
+Forging
+pouring into a mold. Cast aluminum alloy has been heated
+Forging is the process of forming a product by hammering
+to its molten state and poured into a mold to give it the
+or pressing. When the material is forged below the
+desired shape.
+recrystallization temperature, it is called cold forged. When
+worked above the recrystallization temperature, it is referred
+Extruding
+to as hot forged. Drop forging is a hammering process that
+The extrusion process involves the forcing of metal through
+uses a hot ingot that is placed between a pair of formed dies in
+an opening in a die, thus causing the metal to take the shape
+a machine called a drop hammer and a weight of several tons
+of the die opening. The shape of the die will be the cross
+is dropped on the upper die. This results in the hot metal being
+section of an angle. channel. tube, or some other shape. Some
+forced to take the form of the dies. Because the process is
+metals, such as lead. tin. and aluminum. may be extruded
+very rapid, the grain structure of the metal is altered, resulting
+cold: however, most metals are heated before extrusion The
+in a significant increase in the strength of the finished part.
+main advantage of the extrusion process is its flexibility.
+For example, because of its workability, aluminum can be
+Casting
+economically extruded to more intricate shapes and larger
+Melting the metal and pouring it into a mold of the desired
+sizes than is practical with other metals.
+shape forms casting. Since plastic deformation of the metal
+does not occur, no alteration of the grain shape or orientation
+Extruded shapes are produced in very simple, as well as
+is possible. The cooling rate, the alloys of the metal, and
+extremely complex, sections In this process, a cylinder of
+the thermal treatment can control the gain size of the metal.
+aluminum, for instance. is heated to 750-850 °F and is then
+forced through the opening of a die by a hydraulic ram. The
+Alloy and Temper
+Barcol Number
+opening is the shape desired for the cross section of the finished
+extrusion The extrusion process forms many structural parts,
+1100-O
+35
+such as channels, angles, T-sections, and Z-sections.
+3003-O
+42
+Aluminum is the most extruded metal used in aircraft.
+3003-H14
+56
+Aluminum is extruded at a temperature of 700-900 °F (371-482
+2024-O
+60
+°C) and requires pressure of up to 80,000 psi (552 MPa). After
+extrusion, the product frequently is subjected to both thermal
+5052-O
+62
+and mechanical processes to obtain the desired properties.
+5052-H34
+75
+Extrusion processes are limited to the more ductile materials
+6061-T
+78
+Cold Working/Hardening
+2024-T
+85
+Cold working applies to mechanical working performed at
+temperatures below the critical range. It results in a strain
+Figure 7-13. Typical Barcol readings for aluminum alloy.
+hardening of the metal. In fact, the metal often becomes so
+7-29

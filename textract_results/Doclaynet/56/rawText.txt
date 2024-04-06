@@ -1,0 +1,168 @@
+
+4
+ground state. Precisely in the middle of the N = 2
+10
+Coulomb blockade valley, i.e. for E = + €0.1)/2 -
+10-
+*TA
+-U' - N/A - -0.6. the spin polarization changes sign, as
+10-3
+to the right (left) hand side from that point the electron
+10
+8
+(hole) like virtual processes dominate in the renormaliza-
+10?
+6
+tion of the level position.
+-10-7
+Note that the abrupt jump of the dot polarization is
+-10-s
+4
+due to the fact that the underscreened Kondo model is
+-10-3
+extremely susceptible to even a tiny magnetic field. The
+2
+-10
+reason is that the ground state of the system consists
+-10
+O
+of a Fermi liquid and a decoupled residual spin S - 2
+0.8
+-0.6
+-0.4
+-0.2
+0.0
+0.2
+10
+and that residual spin at zero temperature can be polar-
+b
+10
+I
+ized by any infinitesimal magnetic field. In the case of
+22
+10
+a weakly coupled second lead there is a second stage of
+10-5
+3
+the Kondo screening at TK when the remaining spin de-
+10-7
+gree of freedom is quenched by the weakly coupled lead's
+-10-7
+2
+electrons.35 In that case the sudden step in the polar-
+-10-5
+ization turns into a very steep crossover with a width of
+-10-3
+max(T, T), where T is the experimental temperature.
+1
+-10
+Since the dot spin polarization is rather difficult
+-10
+to detect experimentally, we have computed the level-
+0
+-0.8
+-0.6
+-0.4
+-0.2
+0.0
+0.2
+resolved single particle spectral density Ajj'o(w) -
+10
+C
+Im [GB, (w) + (w)], where (w) denotes
+10-1
+*TA,
+the corresponding retarded Green's function. This quan-
+10-3
+0
+tity contains the information about the transport prop-
+103
+-1
+erties of the dot. Given that the dot is strongly cou-
+10
+pled to one of the leads, the conductivity through
+-2
+-10
+the setup at voltage bias eV is given by dI/dV ~
+-10
+-3
+-10-3
+-4
+The results for the level-resolved normalized spectral
+-10
+-5
+functions TS E. . in the case of non-
+-10
+-0.8
+-0.6
+-0.4
+-0.2
+0.0
+0.2
+magnetic lead (p = 0) are shown in Fig. The spectral
+10
+d
+functions are plotted as a function of energy w and aver-
+10
+nI
+AP-0
+age level position E. To resolved the low-energy behavior
+103
+2.0
+of spectral functions logarithmic scale for w is used. Fur-
+10-5
+1.6
+thermore, only the Coulomb blockade valleys with N = 1
+10-7
+and N = 2 electrons in the dot are shown. The behav-
+-10
+1.2
+ior of spectral functions for blockade valley with N = 3
+-10
+0.8
+electrons is similar to that with a single electron due to
+-10
+the particle-hole symmetry.
+-10
+0.4
+First of all, we note that the two Coulomb blockade
+-10
+0.0
+regimes with N - 1 and N = 2 are characterized by fun-
+-0.8
+-0.6
+-0.4
+-0.2
+0.0
+0.2
+damentally different fixed points. In the N - 1 regime
+E/D
+(-0.2 < E < 0.2) the effective low-energy model is a
+Fermi liquid with fully screened spin S = 1/2 (S =
+1
+FIG. 3: (color online) The density plots of the normalized
+Kondo model). On the other hand, in the two-electron
+level-resolved spectral function
+regime (-1 -0.2) the effective model is a singu-
+(c) and the full spectral function AP=0
+lar Fermi liquid,24 i.e. a normal Fermi liquid plus a free
+(d) in the case when the dot is attached to a nonmagnetic
+spin-1 with weak residual ferromagnetic coupling to the
+electrode (p = 0). The parameters are the same as in Fig.
+2
+conduction channel. These two distinct ground states
+with r = 0.04 Note the logarithmic scale on the frequency
+axis.
+of the system are separated by a quantum phase transi-
+tion,36.37 which occurs when sweeping the gate voltage
+through the boundary of N - 1 (N = 3) and N - 2
+Coulomb valleys. The quantum phase transition is of
+observed in the dependence of the level-resolved spec-
+Kosterlitz-Thouless type,37 with exponentially decreas-
+tral functions. In the N = 1 Coulomb valley the diag-
+ing Kondo temperature when approaching the transition
+onal elements of the spectral function exceed the uni-
+from the normal Fermi liquid side. The different be-
+tary value of nT. while the off-diagonal elements become
+havior associated with two distinct fixed points can be
+negative and their absolute value is also larger than .

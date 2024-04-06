@@ -1,0 +1,39 @@
+
+The BHT offers significant branch performance benefits. The BHT allows each PU to take
+instruction branches that are based on a stored BHT, which improves processing times for
+calculation routines. In addition to the BHT, z14 servers use the following techniques to
+improve the prediction of the correct branch to be run:
+BTB
+PHT
+BTB data compression
+The success rate of branch prediction contributes significantly to the superscalar aspects of
+z14 servers. This success is because the architecture rules prescribe that, for successful
+parallel execution of an instruction stream, the correctly predicted result of the branch is
+essential.
+The z14 branch prediction includes the following enhancements over z13:
+Branch prediction search pipeline extended from five to six cycles to accommodate new
+predictors for increased accuracy/performance.
+New predictors:
+- Perceptron (neural network direction predictor)
+- SSCRS (hardware-based super simple call-return stack)
+Capacity increases:
+- Level 1 Branch Target Buffer (BTB1): 1 K rows x 6 sets 2 K rows x 4
+sets
+- Level 2 Branch Target Buffer (BTB2): 16 K rows x 6 sets 32 K rows x 4 sets
+Better power efficiency: Several structures were redesigned to maintain their accuracy
+while less power is used through smart access algorithms.
+New static IBM IA® regions expanded from four to eight. To conserve space, prediction
+structures do not store full target addresses. Instead, they use the locality and limited
+ranges of "4gig regions" of virtual instruction addresses - IA(0:31).
+3.4.10 Wild branch
+When a bad pointer is used or when code overlays a data area that contains a pointer to
+code, a random branch is the result. This process causes a 0C1 or 0C4 abend. Random
+branches are difficult to diagnose because clues about how the system got there are not
+evident.
+With the wild branch hardware facility, the last address from which a successful branch
+instruction was run is kept. z/OS uses this information with debugging aids, such as the SLIP
+command, to determine from where a wild branch came. It can also collect data from that
+storage location. This approach decreases the number of debugging steps that are
+necessary when you want to know from where the branch came.
+106
+IBM z14 (3906) Technical Guide

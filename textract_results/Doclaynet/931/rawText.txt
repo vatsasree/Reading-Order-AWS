@@ -1,0 +1,132 @@
+
+9
+EP 3 800 019 A1
+10
+extensions ("dpos") of about 0.0002 inch to 0.011 inch.
+ment represented by FIG. 11d from about 0.135 inch to
+and clamp set-back distances ("dset") of about 0.150 inch
+about 0.570 inch. This particular abrasion was deter-
+to 0.330 inch. For example, one approach was to reduce
+mined to be reduced with larger radial knife extensions
+the knife angle Oh (within the holder) from a conventional
+dop FIG. 11 e represents what is believed to be an em-
+angle of about fifteen degrees to as low as 11.25 degrees.
+5
+bodiment that retains the inward bevel of the clamp 26,
+In theory, as the rake-off angle 0, approaches zero, the
+but further includes a thicker clamp 26 and extended knife
+resultant stress in the sliced product should be reduced
+position. Based on these investigations it was concluded
+and the instances of slice cracking will be decreased and
+that, depending on the configuration of the knife assem-
+the slice quality should increase However, in order to
+bly used, a sufficiently low rake-off angle e, is considered
+maintain the same relative radial knife extension pos.
+10
+to be less than 23 degrees, more preferably less than 20
+defined as a distance between the cutting edge 48 of the
+degrees, and most preferably about 17 degrees.
+knife 14 and a line ("Lholder") tangent to an inside radius
+[0026] Furthermore, the knife 14 of FIG. 11e has a
+of the trailing knife holder 27, and gap setting "gap at
+ground bevel that is biased to one side, preferably facing
+these extremely low angle configurations, it was required
+away from the impeller 10, to improve the slice quality.
+to make extremely long lateral knife extensions ("dext")
+15
+As used herein, a "biased bevel" refers to a knife edge
+of about 0.1 to about 0.2 inch. Surprisingly, the compro-
+that is not symmetrical, but instead has different bevels
+mises in knife position that these minimum knife angle
+on its opposites sides in terms of angle and/or length, for
+configurations required did not result in the expected im-
+example, as exemplified by the different biased bevels
+provements in slice quality metrics. One embodiment
+represented in FIG. 12. The knife tip geometries repre-
+combined a knife angle Oh within the holder of about 12.5
+20
+sented in FIG. 12 were investigated during development.
+degrees (knife angle relative to the tangent of about
+As represented, knives with double (centered) bevels
+4.5 degrees). a rake-off angle 0, of about 17 degrees, a
+and biased (single or biased) bevels were evaluated, as
+radial knife extension Pos of about 0.011 inch and a
+were knives with different blade widths. The fundamental
+clamp set-back of about 0.200 inch.
+difference between the biased bevel knives in FIG. 12 is
+[0025] Several different clamps 26 with different ge-
+25
+the angle of the primary (wider) bevel 54. Initial evalua-
+ometries were also evaluated in an effort to lower the
+tions were conducted following prior art best practices
+rake-off angle o, and the probability that slice cracking
+with an 8.5 degree inward biased bevel (FIG. 13b). mean-
+would occur. Some of these evaluations are represented
+ing that the primary bevel 54 faces toward the center of
+in FIGS. 11a through 11e, which include different (radially
+the impeller 10 at different knife inclinations Surprisingly,
+outward and inward) clamp bevels. FIG. 11a represents
+30
+the performance with this orientation was poorer than
+a prior art configuration including a knife 14 having a cor-
+expected. Following exhaustive analysis of the geome-
+rugated shape for making shaped cuts, a knife angle On
+try. the primary bevel 54 of the knife 14 was concluded
+within the knife holder 27 of about 15 degrees, a radial
+to interfere with the path of the potato after slicing. The
+knife extension pos of about 0.070 inch. a clamp set back
+biased bevel knife 14 was then inverted (outward biased
+dset of about 0.260 inch. and a rake-off angle o, of about
+35
+bevel in FIG. 13c) to minimize any interference with the
+21 degrees. FIG. 11b represents an experimental con-
+unsliced portion of the potato. Data from subsequent
+figuration in which the knife angle Oh within the knife hold-
+ing validated this approach, such that an outward biased
+en 27 was about 15 degrees, a radial knife extension pos
+bevel with the primary bevel 54 facing away from the
+of about 0.003 inch. a clamp set back set of about 0.160
+center of the impeller 10 delivered improved slice thick-
+inch, and the rake-off angle e, is about 27 degrees. So-
+40
+ness uniformity. Based on the results of the investigation,
+lutions to two immediate issues needed to be resolved:
+primary bevels 54 of about 7 to 10 degrees are believed
+slice cracking and abrasion on the peaks of slices when
+to be acceptable. One embodiment incorporates an 8.5
+attempting to produce slices having large amplitudes of
+degree biased bevel with the primary bevel 54 facing
+0.100 inch (about 2.5 mm) or greater. FIGS. 11c and 11d
+away from the impeller 10.
+represent subsequent steps in the investigation In FIG.
+45
+[0027] The knives 14 were initially positioned at a
+11c, the fingers 50 of the clamp 26 were beveled on their
+"standard" position, in which the tips 14a of the knives
+surfaces facing away from the impeller 10 to reduce the
+14 were positioned according to prior art practice a dis-
+instances of abrasion on the peaks of the slice which
+tance of about 0.003 inch (about 75 micrometers) radially
+contact the clamp 26. The bevel reduced the knife angle
+inward from the nominal inner radius of its shoe 22, which
+Oh, but resulted in a locally greater rake-off angle e, that
+50
+meant different lateral knife positions for each different
+increased slice cracking. The rake-off angle e, was then
+knife angle within the knife holder 27. During testing, lat-
+decreased further by moving the bevel to the radially in-
+eral positions of the knife tips 14a were varied. In one
+ward side of the clamp 26 facing the impeller 10 (FIG.
+embodiment, the knife tip 14a was located at a lateral
+11d), thereby maintaining a smooth transition for slices.
+distance of 0.195 inch (4.95mm) and a radial distance of
+In addition, the bend angle was reduced and the finger
+55
+0.011 inch (0.28mm), resulting in the configuration shown
+lengths shortened In order to address abrasion on the
+in FIG. 11e.
+peaks which contact the inner sliding surface of the shoe
+[0028] According to a preferred aspect of the invention,
+22, knife extension values were explored using equip-
+an outward position of the knife bevel relative to the im-
+6

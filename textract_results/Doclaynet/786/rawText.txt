@@ -1,0 +1,89 @@
+
+Stall Recovery Template
+1. Wing leveler or autopilot
+1. Disconnect
+2. a) Nose-down pitch control
+2. a) Apply until impending stall indications are eliminated
+b) Nose-down pitch trim
+b) As needed
+3. Bank
+3. Wings Level
+4. Thrust/Power
+4. As needed
+5. Speed brakes/spoilers
+5. Retract
+6. Return to the desired flight path
+Figure 12-19. Stall recovery procedure.
+the AOA until the stall warning is eliminated. The pilot then
+be retracted when a positive rate of climb is attained, and flaps
+rolls the wings level with coordinated use of the rudder and
+retracted, if flaps were set for takeoff. The target airspeed on
+smoothly applies power as required The airplane should be
+recovery is Vx if (simulated) obstructions are present. or Vy.
+accelerated to Vx (if simulated obstacles are present) or Vx
+The pilot should anticipate the need for nose-down trim as the
+during recovery and climb. Considerable forward elevator/
+airplane accelerates to Vx or Vy after recovery.
+stabilator pressure will be required after the stall recovery
+as the airplane accelerates to Vx or Vy. Appropriate trim
+Full Stall
+input should be anticipated The flap setting should be
+It is not recommended that full stalls be practiced unless a
+reduced from full to approach. or as recommended by the
+qualified flight instructor is present. A power-off or power-on
+manufacturer. Then, with a positive rate of climb, the landing
+full stall should only be practiced in a structured lesson with
+gear is selected up. The remaining flaps are then retracted as
+clear learning objectives and cautions discussed The goals
+a positive rate-of-climb continues
+of the training are (a) to provide the pilots the experience
+of the handling characteristics and dynamic cues (e.g.,
+Power-On Approach to Stall (Takeoff and Departure)
+buffet. roll off) near and at full stall and (b) to reinforce the
+A power-on approach to stall is trained and checked to
+proper application of the stall recovery procedures. Given
+simulate problematic takeoff scenarios. A power-on approach
+the associated risk of asymmetric thrust at high angles of
+to stall may be performed from straight-and-level flight
+attack and low rudder effectiveness due to low airspeeds,
+or from shallow and medium banked turns (20 degrees of
+this reinforces the primary step of first lowering the AOA,
+bank). To initiate a power-on approach to stall maneuver,
+which allows all control surfaces to become more effective
+the area surrounding the airplane should always be cleared
+and allows for roll to be better controlled Thrust should only
+to look for potential traffic. The airplane is slowed to the
+be used as needed in the recovery.
+manufacturer's recommended lift-off speed. The airplane
+should be configured in the takeoff configuration. Trim should
+Accelerated Approach to Stall
+be adjusted for this speed. Engine power is then increased
+Accelerated approach to stall should be performed with a bank
+to that recommended in the AFM/POH for the practice of
+of approximately 45°, and in no case at a speed greater than
+power-on approach to stall. In the absence of a recommended
+the airplane manufacturer's recommended airspeed or the
+setting, use approximately 65 percent of maximum available
+specified design maneuvering speed (VA). The entry altitude
+power. Begin a turn, if desired, while increasing AOA to
+for this maneuver should be no lower than 5,000 feet AGL
+induce a stall warning (e.g., aural alert, buffet. etc.). Other
+specified (reduced) power settings may be used to simulate
+The entry method for the maneuver is no different than
+performance at higher gross weights and density altitudes.
+for a single-engine airplane. Once at an appropriate speed,
+begin increasing the back pressure on the elevator while
+When the airplane reaches the stall warning, the recovery
+maintaining a coordinated 45 turn. A good speed reduction
+is made first by reducing the AOA until the stall warning is
+rate is approximately 3-5 knots per second Once a stall
+eliminated The pilot then rolls the wings level with coordinated
+warning occurs, recover promptly by reducing the AOA
+use of the rudder and applying power as needed. However,
+until the stall warning stops. Then roll the wings level with
+if simulating limited power available for high gross weight
+coordinated rudder and add power as necessary to return to
+and density altitude situations, the power during the recovery
+the desired flightpath.
+should be limited to that specified The landing gear should
+12-27

@@ -1,0 +1,65 @@
+
+Notice how in the traditional environment that an enormous amount is assumed to be already
+present in the environment and (hopefully) correctly installed and configured. The operating
+system, the product and language run time, and the fixed configuration must all be present
+before you can deploy an application to it.
+In the cloud-native approach, your image supplies the application code and all its
+dependencies, including the product and run time, including its dependencies within the
+operating system. You can be sure that what you deliver to any environment is always
+consistent.
+To understand a bit more about the differences, let us look at how you can build and nurture a
+traditional server. We typically build the server by starting with a raw operating system,
+starting the operating system, installing the run time, adding any necessary fix packs, and
+performing any necessary environmental configurations. We might perform some verification
+tests on this server, and then start deploying our applications.
+Figure 4-2 shows an overview of this process.
+Code
+A
+Deployed live to
+-
+-
+each running server
+Code
+Code
+Code
+Code
+in the HA pair
+A
+B
+Fixed
+Fixed
+Configuration
+Configuration
+Environment
+Environment
+Key
+Configuration
+Configuration
+Created new for
+each new release
+Product/language
+Product/language
+Remains same for
+Runtime
+Runtime
+each new release
+VM
+VM
+Created/installed then progressively "nurtured"
+with further fix packs and configurations over time
+Figure 4-2 Building and nurturing a traditional sever
+All that installation and deployment work had to happen before you could service a single
+request. Over time, you might decide to add further operating system upgrades or fix packs to
+the run time. All these actions had to be done with the server running, and required special
+commands to be run to install or deploy things to the live server.
+What are the challenges of this approach? The build of the server requires many steps that
+involve running proprietary commands on a live running server. These are complex
+commands, and even if they are automated it is hard to be 100% sure that after the sequence
+of commands you end up with exactly the same server configuration in each of a high
+availability (HA) pair or across multiple environments, such as development, test, and
+production. When further ongoing configuration changes and deployments are performed,
+they can potentially result in configuration divergence between environments. This situation
+can lead to the classic diagnosis problem of "Well, it worked in my environment!" Creating an
+exact replica of an environment becomes more difficult the more nurtured the environment is.
+Chapter 4. Cloud-native concepts and technology
+91

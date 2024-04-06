@@ -1,0 +1,112 @@
+
+8
+The behavior of ext (1) with varying vaccination period
+T depends on the form of the logarithmic susceptibil-
+ity x(t). Let us first consider the case where x(t) has
+uN
+a single local minimum (at t = t.), and lx(t) mono-
+tonically decays to zero with increasing t txl. Here,
+So(t)
+once the vaccine accumulation has reached saturation
+V
+S
+I/N
+I
+Y
+V
+R
+with increasing T (which happens for ET = M), func-
+tion - M min monotonically decreases with
+u
+u
+u
+u
+further increase in T. Indeed,
+FIG. 1: The SVIR epidemic model with susceptible, vacci-
+nated, infected and recovered sub-populations The arrows
+indicate processes leading to changes of sub-population sizes;
+(23)
+the corresponding rates are scaled per individual.
+where a. gives the position of the minimum of XT(t)
+For B > III 2 + H the SIR model possesses a sin-
+over t and is given by equation axt(t.-a.T)/da.=0;
+gle endemic state. This state corresponds, in the mean-
+we choose 0 a. < 1 and take into account that
+field theory, to an attracting fixed point on the two-
+mino<<<TXT O. In Eq. (23) we have used that,
+dimensional phase plane of susceptibles and infected. At
+if x(t) is minimal for t = t., then dx/dt > O for > t.
+u < 3-r)(r/8)2 - this attracting point is a focus.
+and dx/dt < o for t <t. It follows from Eq. [23] that,
+The populations of susceptibles, infected and recovered
+once the vaccine accumulation has reached saturation,
+exhibit decaying oscillations in time as the system ap-
+further increase in T will only reduce the effect of the
+proaches the endemic state. It was found in Ref. 14
+vaccine. This result is understandable because, if T in-
+that, in this parameter range, the populations oscillate
+creases beyond M/E. the actual average vaccination rate
+also on the optimal disease extinction path. These oscil-
+3 decreases
+lations are illustrated in Fig.
+A counterintuitive situation may occur if x(t) is os-
+We will now incorporate vaccination and introduce a
+cillating. Here the inequality (23) may be violated As
+sub-population of vaccinated X4 - V. The vaccination
+a result. the dependence of the effect of the vaccine on
+is described by the transition rate W(X,r) - Eo(t) for
+T and, consequently, on the actual vaccination rate Ea
+T1
+= -1,14 = ,Tix61,4 - O. The corresponding term in
+may be nonmonotonic. An example of this behavior is
+discussed in the next section.
+the Hamiltonian Eq. 121 has the form Ea(t)H(1) with
+H(1)(x.p) - X1 (ePu-pl 1)
+(24)
+V. RESONANCES IN THE STOCHASTIC SVIR
+Vaccinated individuals leave at the same rate is as in-
+MODEL
+dividuals in other populations. For simplicity, we as-
+sume that the immunity from the vaccination is never
+We now apply some of our results to an important and
+lost. In this case fluctuations of the vaccinated pop-
+widely used stochastic epidemic model, the Susceptibles-
+ulation do not affect fluctuations of other populations,
+Vaccinated-Infected-Recovered (SVIR) model. The
+and P4 = 0 along the optimal extinction path. Then
+model is sketched in Fig.[I] In the absence of vaccination,
+from Eq. (14), the logarithmic susceptibility is x(t) =
+&o(t) = O. the SVIR model reduces to the stochastic SIR
+(0) (t), Plopt (0)
+model with population turnover, which was originally in-
+troduced to describe the spread of measles, mumps, and
+and ILA are calculated for the SIR model.
+rubella, see 1 In the SIR model, susceptible in-
+The Fourier spectrum of the logarithmic susceptibility
+dividuals are brought in, individuals in all population
+x(w) is plotted in Fig. (3)(a). It corresponds to the optimal
+groups leave (for example, die), a susceptible individual
+extinction path shown in Fig. 2
+As one can see, the
+can become infected upon contacting an infected indi-
+spectrum has a peak at the characteristic frequency of
+vidual, and an infected individual can recover. If we set
+oscillations of the system in the absence of vaccination
+X1 = S, X2 = I, and X3 = R. the rates of the cor-
+wo (for the chosen parameter values we = 5.2u).
+responding processes are: (i) influx of the susceptibles,
+We now consider the effect of the resonant peak in x(w)
+W(X,r) - uN for T1 = 1, Ti#1 - 0. (ii) leaving, with
+on vaccination. The dependence of the scaled change of
+the same rate for all populations, W(X,r) = X for
+the disease extinction barrier Sext - Q(1)/N on vaccina-
+(1)
+Ti = 1, Tj#i = O, (iii) infection, W(X,r) = BX1X2/N
+tion period T is shown in Fig. (b). The solid line
+in
+for T1 = -1,r2 = 1,ri#1,2 = o, and (iv) recovery of the
+Fig. 3 (b) shows the behavior of Sext (1) where there is no
+infected, W(X,r) = YX2 for T2 = -1,13 = 1,Ti#2.3 = O.
+limit on vaccine accumulation or, equivalently, for such
+Fig. III
+periods where the limitation does not come into play and

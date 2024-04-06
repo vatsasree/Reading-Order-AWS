@@ -1,0 +1,105 @@
+
+obtained by taking the logarithms on both sides of mobile domain. These findings also augur well for
+Equation 2 to yield
+understanding surfing in future 3G systems that will
+share similar device properties with WAP devices
+while offering more Web-like surfing opportunities to
+even casual cell phone users.
+log (P(L)) -3 2 2 L
+REFERENCES
+(3)
+1. Adamic, L. The small world Web. In Proceedings of the Third European
+Conference on Research and Advanced Technology for Digital Libraries
+(Paris, Sept. 22-24). Springer-Verlag, 1999, 443-452.
+As a log-log plot, the equation presents as a
+2. Albert, R., Jeong, H., and Barabasi, A. Diameter of the World-Wide
+straight line with a slope of approximately 3/2 for
+Web. Nature 401 (Sept. 9, 1999), 130-131.
+3. Bak, P. How Nature Works: The Science of Self-Organized Criticality.
+small values of L and large values of the variance. As
+Springer-Verlag. New York, 1996.
+L gets larger, the second term provides a downward
+4. Brin, S. and Page, L. The anatomy of a large-scale hypertextual Web
+search engine. In Proceedings of the Seventh International World Wide
+correction. Thus, Equation 3 implies that, up to a
+Web Conference (Brisbane, Australia, Apr. 14-18). Elsevier Science,
+constant given by the third term, the probability of
+1998, 107-117.
+finding a group surfing at a given level scales inversely
+5. Dixit, A. and Pindyck, R. Investment Under Uncertainty. Princeton
+University Press, Princeton, NJ, 1994.
+in proportion to its depth P (L). We verified this
+6. Huberman, B. and Adamic, L. Growth dynamics of the World-Wide
+Pareto scaling by plotting the available data on a log-
+Web. Nature 401 (Sept. 9, 1999), 131.
+arithmic scale; Figure 2 shows that the inverse pro-
+7. Huberman, B., Pirolli, P., Pitkow, J., and Lukose, R. Strong regulari-
+ties in World Wide Web surfing. Science 280, 5360 (Apr. 3, 1998),
+portionality holds over a range of depths. Although
+95-97.
+the graph in Figure 2 essentially shows a Pareto plot it
+8. Ramsay, M. and Nielsen, J. WAP usability deja vu: 1994 all over again.
+Nielsen Report (2000); Nielsen Norman Group, www.nngroup.com.
+can be viewed as a Zipf Distribution, Pareto, or Power
+9. Seshardi, V. The Inverse Gaussian Distribution. Clarendon Press,
+Law, as all three can be considered to contain the same
+Oxford, U.K., 1993.
+information but stated in different ways [3, 11]. A
+10. Smyth, B. and Cotter, P. The plight of the navigator: Solving the nav-
+igation problem for wireless portals. In Proceedings of the Second Inter-
+similar experiment in [7] found patterns similar to
+national Conference on Adaptive Hypermedia and Adaptive Web Systems
+those demonstrated for WAP users, further strength-
+(Malaga, Spain, May 29-31). Springer-Verlag, 2002, 328-337.
+11. Troll, G. and beim Graben, P. Zipf's law is not a consequence of the
+ening the hypothesis that mobile Web and regular
+central limit theorem. Physical Review E 57, 2 (1998), 1347-1355.
+Web users browse the same way.
+12. Watts, D. and Strogatz, S. Collective dynamics of 'small-worlds net-
+These results indicate that the surfing patterns of
+works.' Nature 393 (June 4, 1998), 440-442.
+WAP portals reflect the same strong regularities found
+in Web surfing, and that the Universal Law of Web
+Surfing [2,1 7] is also the Universal Law of Mobile Web
+MARTIN HALVEY (martin.halvey@ucd.ie) is a Ph.D. candidate in the
+Surfing. Even though WAP and Web both offer
+School of Computer Science and Informatics in the College of Engi-
+neering, Mathematical, and Physical Sciences at University
+ostensibly different paradigms of information access,
+College Dublin, Dublin, Ireland.
+users tend to surf and browse for information in
+MARK T. KEANE (mark.keane@ucd.ie) is chair of the School of
+essentially the same way in both contexts.
+Computer Science and Informatics at University College Dublin,
+This law demonstrates the regularity with which
+Dublin, Ireland, and on secondment to Science Foundation Ireland as
+its director of ICT.
+users surf the Web and is useful for predicting mobile
+BARRY SMYTH (barry.smyth@ucd.ie) is the Digital Chair of
+behavior. For example, there should be attendant ben-
+Computer Science in the School of Computer Science and Informatics
+efits to using this model to aid user surfing, boot-
+at University College Dublin. He is also a founder and chief technical
+strapping intelligent systems that aid users surfing
+officer of Changing Worlds Ltd., Dublin, Ireland.
+WAP pages [10] by aggressively promoting links to
+aid user navigation or prefetching pages to combat
+Permission to make digital or hard copies of all or part of this work for personal or
+classroom use is granted without fee provided that copies are not made or distributed
+slow download times [8]. As outlined in [7], this law
+for profit or commercial advantage and that copies bear this notice and the full citation
+may also be used in conjunction with spreading acti-
+on the first page. To copy otherwise, to republish, to post on servers or to redistribute
+to lists, requires prior specific permission and/or a fee.
+vation to predict expected usage of WAP sites; that is,
+it may be possible to reorganize the structure of a
+WAP site to obtain a desired usage pattern by moti-
+vating the appropriate behaviors.
+The Universal Law of Web Surfing [2, 7] has
+proved to be the Universal Law of Mobile Web Surf-
+ing, affording more tools to help overcome the short-
+comings of the mobile Web and aid development of
+new and novel techniques in user navigation in the
+2006 ACM 0001-0782/06/0300 $5.00
+COMMUNICATIONS OF THE ACM March 2006/Vol. 49, No. 3
+81

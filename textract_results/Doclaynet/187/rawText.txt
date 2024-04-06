@@ -1,0 +1,110 @@
+
+Cyclic-Forward
+Cyclic-Right
+Cyclic-Rearward
+Cyclic-Left
+Cyclic-Forward
+Pedal
+Pedal
+Pedal
+Pedal
+Pedal
+Some left in hover, more
+Most left pressure in
+Changing from left to
+Most right pedal
+Some right to stop turn,
+left to start turn to left
+turn
+right pressure
+pressure in turn
+then left to maintain
+heading
+Collective
+Collective
+Collective
+Collective
+Collective
+Adjust collective as
+Adjust collective as
+Adjust collective as
+Adjust collective as
+Adjust collective as
+necessary to maintain
+necessary to maintain
+necessary to maintain
+necessary to maintain
+necessary to maintain
+proper hover height
+proper hover height
+proper hover height
+proper hover height
+proper hover height
+Throttle
+As necessary to
+As necessary to
+As necessary to
+As necessary to
+As necessary to
+maintain rpm
+maintain rpm
+maintain rpm
+maintain rpm
+maintain rpm
+Normally left pedal
+Normally left pedal
+Normally left pedal
+Normally left pedal
+application requires
+application requires
+application requires
+application requires
+more throttle
+more throttle
+more throttle
+more throttle
+Figure 9-6. Left turns in helicopters with a counterclockwise rotating main rotor are more difficult to execute because the tail rotor
+demands more power. This requires you to compensate with additional left pedal and increased throttle Refer to this graphic throughout
+the remainder of the discussion on a hovering turn to the left.
+hold rearward cyclic pressure to keep the helicopter over
+Control pressures and direction of application change
+the same spot.
+continuously throughout the turn. The most dramatic change
+is the pedal pressure (and corresponding power requirement)
+The horizontal stabilizer has a tendency to lift the tail during
+necessary to control the rate of turn as the helicopter moves
+a tailwind condition. This is the most difficult portion of
+through the downwind portion of the maneuver.
+the hovering turn. Horizontal and vertical stabilizers have
+several different designs and locations, including the canted
+stabilizers used on some Hughes and Schweizer helicopters.
+Turns can be made in either direction: however, in a high
+The primary purpose of the vertical stabilizer is to unload
+wind condition, the tail rotor may not be able to produce
+the work of the antitorque system and to aid in trimming the
+enough thrust, which means the pilot cannot control a turn
+helicopter in flight should the antitorque system fail. The
+to the right in a counterclockwise rotor system. Therefore,
+horizontal stabilizer provides for a more usable CG range
+if control is ever questionable, first attempt to make a 90
+turn to the left. If sufficient tail rotor thrust exists to turn
+and aids in trimming the helicopter longitudinally.
+the helicopter crosswind in a left turn, a right turn can be
+Because of the helicopter's tendency to weathervane,
+successfully controlled The opposite applies to helicopters
+maintaining the same rate of turn from the 180 position
+with clockwise rotor systems. In this case, start the turn to
+actually requires some pedal pressure opposite the direction
+the right. Hovering turns should be avoided in winds strong
+of turn. If a pilot does not apply opposite pedal pressure,
+enough to preclude sufficient aft cyclic control to maintain
+the helicopter tends to turn at a faster rate. The amount of
+the helicopter on the selected surface reference point
+pedal pressure and cyclic deflection throughout the turn
+when headed downwind Check the flight manual for the
+manufacturer's recommendations for this limitation.
+depends on the wind velocity. As the turn is finished on the
+upwind heading, apply opposite pedal pressure to stop the
+turn. Gradually apply forward cyclic pressure to keep the
+helicopter from drifting.
+9-8

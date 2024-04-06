@@ -1,0 +1,162 @@
+
+BOOKSHELF
+T
+he Craft of System Security, Sean
+Part I provides a basic introduction
+Smith and John Marchesini.
+to MDL and an overview of the con-
+Security practitioners, develop-
+cepts in statistics and information the-
+ers, managers, administrators, and
+ory needed to understand MDL. Part
+users who read this book can glean an
+II addresses universal coding, the
+understanding of today's security chal-
+information-theoretic notion on
+lenges-and anticipate tomorrow's.
+which MDL is built. Part III gives a
+This book reveals why each tool in the
+Springer; www.springer.com; 978-
+formal treatment of MDL as a theory
+modern security practitioner's toolkit
+1-84628-942-2; 254 pp.
+of inductive inference based on uni-
+exists and demonstrates exactly how
+versal coding. Part IV provides a com-
+to use it to solve real problems.
+After quickly reviewing the history
+Q
+uantum Computer Science: An
+prehensive overview of the statistical
+Introduction, N. David Mermin.
+theory of exponential families with an
+of computer security, the authors dis-
+The author provides a concise intro-
+emphasis on their information-theo-
+cuss the modern landscape, showing
+duction to quantum computation,
+retic properties. The text includes sev-
+how security challenges and responses
+developing the basic elements of this
+eral summaries, paragraphs offering
+have evolved and offering a coherent
+new branch of computational theory
+the reader a fast track through the
+framework for understanding today's
+without assuming any background in
+material, and boxes highlighting the
+systems and vulnerabilities. Next, they
+physics.
+most important concepts.
+systematically introduce the basic
+Beginning with an introduction to
+MIT Press; mitpress.mit.edu; 0-262-
+building blocks for securing contem-
+the quantum theory from a computer-
+07281-5; 504 pp.
+porary systems, apply them to today's
+science perspective, the book illustrates
+applications, and consider important
+the quantum-computational approach
+emerging trends such as hardware-
+with several elementary examples of
+H
+andbook of Dynamic System
+Modeling, Paul A. Fishwick, ed.
+based security. Other topics covered
+quantum speedup, then moves on to
+The topic of dynamic models tends to
+include using operating system security
+the major applications: Shor's factor-
+be splintered across various disciplines,
+tools and structures, identifying soft-
+ing algorithm, Grover's search algo-
+making it difficult to uniformly study
+ware security defects, from buffer over-
+rithm, and quantum error correction.
+the subject. Moreover, the models have
+flows to development process flaws,
+Cambridge University Press; www.
+a variety of representations, from tra-
+and understanding cryptographic prim-
+cambridge.org 978-0-521-87658-2;
+ditional mathematical notations to
+itives and their use in secure systems.
+236 pp.
+diagrammatic and immersive depic-
+Addison-Wesley Professional; WWW.
+tions. Collecting all these expressions
+awprofessional.com; 0-321-43483-8;
+T
+he Minimum Description Length
+of dynamic models, this book explores
+592 pp.
+Principle, Peter D. Grünwald. The
+a panoply of different modeling meth-
+minimum description length principle is
+ods available for dynamic systems.
+intelligent Computing Everywhere,
+a powerful method of inductive infer-
+The book first introduces the gen-
+Alfons Schuster, ed. This book reflects
+ence, the basis of statistical modeling,
+eral concepts, representations, and
+the current perception in various fields
+pattern recognition, and machine learn-
+philosophy of dynamic models, fol-
+that modern computing applications
+ing. MDL methods are particularly
+lowed by a section on modeling
+are becoming increasingly challenged in
+well-suited for dealing with model selec-
+methodologies that explains how to
+terms of complexity and intelligence. It
+tion, prediction, and estimation prob-
+portray designed models on a com-
+investigates the relevance and relation-
+lems in situations where the models
+puter. After addressing scale, hetero-
+ship that artificial intelligence maintains
+under consideration can be arbitrarily
+geneity, and composition issues, the
+with "modern strands of computing"
+complex and overfitting the data is a
+book covers model types often char-
+such as pervasive computing and ambi-
+serious concern.
+acterized by specific visual- or text-
+ent intelligence, bioinformatics, neu-
+This extensive, step-by-step intro-
+based grammars. It concludes with
+roinformatics, computing and the mind,
+duction to the MDL principle pro-
+case studies that employ two well-
+nonclassical computing and novel com-
+vides a comprehensive reference
+known commercial packages to con-
+puting models, as well as DNA com-
+accessible to graduate students and
+struct, simulate, and analyze dynamic
+puting and quantum computing.
+researchers in statistics, pattern clas-
+models.
+The book examines each subject
+sification, machine learning, and data
+CRC Press; www.crcpress.com;
+from two main viewpoints: The first
+mining; to philosophers interested in
+1-58488-565-3; 760 pp.
+provides a state-of-the-art introduc-
+the foundations of statistics; and to
+tion to a field such as DNA comput-
+researchers in other applied sciences
+ing, and the second investigates the
+that involve model selection, includ-
+Send book announcements to
+subject from an artificial intelligence
+ing biology, econometrics, and exper-
+newbooks@ computer.org.
+perspective.
+imental psychology.
+November 2007
+103

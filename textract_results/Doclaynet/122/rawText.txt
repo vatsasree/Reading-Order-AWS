@@ -1,0 +1,91 @@
+
+Theoretical Priors On Modified Growth Parametrisations
+'Yong-Seon Song, Lukas Hollenstein, Gabriela Caldera-Cabral and 'Kazuya Koyama
+Institute of Cosmology & Gravitation Dennis Sciama Building,
+University of Portsmouth Portsmouth PO1 3FX, United Kingdom
+Département de Physique Théorique, Université de Genève,
+24 Quai Ernest Ansermet, 1211 Genève 4. Switzerland
+(Dated: October 30, 2018)
+Next generation surveys will observe the large-scale structure of the Universe with unprecedented
+accuracy. This will enable us to test the relationships between matter over-densities, the curvature
+perturbation and the Newtonian potential Any large-distance modification of gravity or exotic
+nature of dark energy modifies these relationships as compared to those predicted in the standard
+smooth dark energy model based on General Relativity. In linear theory of structure growth such
+modifications are often parameterised by virtue of two functions of space and time that enter the
+relation of the curvature perturbation to, first, the matter over- density, and second, the Newtonian
+potential. We investigate the predictions for these functions in Brans-Dicke theory, clustering dark
+energy models and interacting dark energy models. We find that each theory has a distinct path in
+the parameter space of modified growth. Understanding these theoretical priors on the parameter-
+isations of modified growth is essential to reveal the nature of cosmic acceleration with the help of
+upcoming observations of structure formation
+PACS numbers: draft
+I. INTRODUCTION
+neither phenomenologically nor theoretically. Gravity
+on cosmological scales can be modified to accelerate the
+cosmic expansion without dark energy. The degeneracy
+Our understanding of the laws of physics we gained on
+between GR and modified gravity (MG) models in the
+Earth has already been challenged by cosmological obser-
+background expansion history is broken by the growth
+vations of the formation of galaxies and the accelerated
+history of structure formation Any departure from the
+expansion of the Universe In order to establish a
+growth history in sDE is probed by two functions ex-
+cosmological standard model without inconsistencies be-
+pressing new degrees of freedom: the mass screening, Q.
+tween observations and known physics, it is unavoidable
+changes the relationship between the curvature pertur-
+either to assume the presence of as yet undetected dark
+bation and the matter over-densities, while the effective
+materials filling 95% of the energy of the Universe, or
+anisotropic stress, n. alters the relationship between the
+to modify some of the fundamental laws of physics such
+curvature perturbation and the Newtonian potential.
+as Einstein's General Relativity. The information on the
+Here we study whether the possible detection of non-
+underlying physics of the Universe is provided by look-
+trivial Q and 77 can be considered as a probe of the break-
+ing at the formation of the large scale structure (LSS)
+down of the sDE model at cosmological scales. We show
+of matter in the Universe. While current observations
+that non-trivial Q and " functions are also induced in
+have revealed the breakdown of our knowledge of physics
+on cosmological scales, the future observation of the LSS
+other GR models via clustering of dark energy or inter-
+will provide a clue to reveal the nature of the late-time
+actions between dark energy and dark matter. GR will
+cosmic acceleration: which part of our physical picture
+be confirmed (or excluded) by looking at the relation be-
+should be modified - matter or gravity, and how it is
+tween Q and n. not merely by a departure of Q and/or
+modified 32
+n from unity. We find that both MG models 33 34
+and exotic GR models 35 provide unique distinguish-
+The current standard cosmological model was estab-
+able trajectories that are well presented in the plane of
+lished based upon unknown dark materials and the va-
+two transformed parameters: = + 1/n)/2 param-
+lidity of General Relativity (GR) on cosmological scales.
+eterises the relation between the lensing potential and
+We call this standard model smooth dark energy (sDE). It
+matter over-densities and 11 = Q/n represents the re-
+consists of the following energy components: 5% baryons
+lation between the Newtonian potential and the matter
+as described by the standard model of particle physics
+over-densities. We examine these parameters in various
+and 95% of unobserved dark particles - 20% of collision-
+models and show that each theory has a distinct path
+less dark matter, fitting galaxy formation and the peaks
+on the plane of those parameters. The understanding of
+in the spectrum of cosmic microwave background (CMB)
+these theoretical priors is essential to reveal the nature of
+anisotropies, and 75% dark energy explaining the cosmic
+the cosmic acceleration from future structure formation
+acceleration, described by a perfect fluid that is homo-
+observations
+geneous (smooth) on sub-horizon scales. It is difficult to
+This paper is organised as follows. In section II we
+accept dark energy as a standard building block of energy
+introduce the smooth dark energy (sDE) model and the
+components of the Universe as it is not yet supported
+modified growth parameters Q and n. Then we investi-

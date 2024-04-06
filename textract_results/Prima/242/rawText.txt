@@ -1,0 +1,123 @@
+
+viewpoints
+ing. In software engineering, the pro-
+cess models have evolved into several
+forms that range from highly struc-
+tured preplanning (waterfalls, spirals,
+Vs, and CMM) to relatively unstruc-
+tured agile (XP, SCRUM, Crystal, and
+evolutionary). No one process is best
+for every problem.
+Despite long experience with these
+processes, none consistently delivers
+reliable, dependable, and affordable
+software systems. Approximately one-
+third of software projects fail to deliver
+anything, and another third deliver
+something workable but not satisfac-
+tory. Often, even successful projects
+took longer than expected and had sig-
+nificant cost overruns. Large systems,
+which rely on careful preplanning, are
+00
+routinely obsolescent by the time of
+delivery years after the design started.
+Faithful following of a process, by it-
+self, is not enough to achieve the re-
+sults sought by engineering.
+Engineering Practice
+Gerald Weinberg once wrote, "If soft-
+ware engineering truly is engineering,
+then it ought to be able to learn from
+the evolution of other engineering
+disciplines." Robert Glass and his col-
+leagues provocatively evaluated how
+often software engineering literature
+met. The ACM Risks Forum docu-
+engineering design metrics into the
+does this. They concluded that the lit-
+ments a seemingly unending series of
+software development process. Sang-
+erature relies heavily on software anec-
+surprises from systems on which such
+wan gives a successful example. 7
+dotes and draws very lightly from other
+attention has been lavished. Writing
+Failure tolerance. Henry Petroski
+engineering fields. Walter Tichy found
+in ACM SIGSOFT in 2005, Riehle sug-
+writes, "An idea that unifies all engi-
+that fewer than 50% of the published
+gested a cultural side of this: where
+neering is the concept of failure. Vir-
+software engineering papers tested
+researchers and artists have a high tol-
+tually every calculation an engineer
+their hypotheses, compared to 90% in
+erance, if not love, for surprises, engi-
+performs is a failure calculation
+most other fields.8
+neers do everything in their power to
+to provide the limits than cannot be
+So software engineering may suffer
+eliminate surprises.6 Many of our soft-
+exceeded." There is probably no more
+from our habit of paying too little at-
+ware developers have been raised in a
+important task in engineering than
+tention to how other engineers do en-
+research tradition, not an engineering
+that of risk management. Software en-
+gineering. In a recent extensive study
+tradition.
+gineers could more thoroughly exam-
+of practices engineers expect explicitly
+Design metrics, including design to
+ine and test their engineering solutions
+or tacitly, Riehle found six we do not do
+tolerances. Every branch of modern
+for their failure modes, and calculating
+well.
+engineering involves design metrics
+the risks of all failures identified.
+Predictable outcomes (principle of
+including allowable stresses, toler-
+Separation of design from imple-
+least surprise). Engineers believe that
+ances, performance ranges, structural
+mentation. For physical world projects,
+unexpected behaviors can be not only
+complexity, and failure probabilities
+engineers and architects represent a
+costly, but dangerous; consequently,
+for various conditions. Engineers use
+design with blueprints and hand off
+they work hard to build systems whose
+these metrics in calculations of risk
+implementation to construction spe-
+behavior they can predict. In software
+and in sensitivity analyses. Software
+cialists. In current practice, software
+engineering, we try to eliminate sur-
+engineers do not consistently work
+engineers do both, design and build
+prises by deriving rigorous specifica-
+with such measures. They tend to use
+(write the programs). Would separa-
+tions from well-researched require-
+simple retrospective measures such
+tion be a better way?
+ments, then using tools from program
+as lines of code or benchmark per-
+Reconciliation of conflicting forces
+verification and process management
+formance ranges. The challenge is to
+and constraints. Today's engineers
+to assure that the specifications are
+incorporate more of these traditional
+face many trade-offs between conflict-
+MARCH 2009
+VOL. 52
+NO. 3
+COMMUNICATIONS OF THE ACM
+25

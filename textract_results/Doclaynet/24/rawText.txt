@@ -1,0 +1,48 @@
+
+36.1. DESCRIPTION
+CHAPTER 36. PERLDIAG
+Ambiguous call resolved as CORE::%s(), qualify as such or use &
+(W ambiguous) A subroutine you have declared has the same name as a Perl keyword, and you have used the
+name without qualification for calling one or the other. Perl decided to call the builtin because the subroutine is not
+imported.
+To force interpretation as a subroutine call. either put an ampersand before the subroutine name. or qualify the
+name with its package. Alternatively, you can import the subroutine (or pretend that it's imported with the use
+subs pragma).
+To silently interpret it as the Perl operator. use the CORE: : prefix on the operator (e.g. CORE::1og($x)) or declare
+the subroutine to be an object method (see Subroutine Attributes in perlsub or attributes).
+Ambiguous range in transliteration operator
+(F) You wrote something like tr/a-z-0// which doesn't mean anything at all. To include a - character in a
+transliteration, put it either first or last. (In the past. tr/a-z-0// was synonymous with tr/a-y//. which was
+probably not what you would have expected.)
+Ambiguous use of %s resolved as %s
+(W ambiguous)(S) You said something that may not be interpreted the way you thought. Normally it's pretty easy
+to disambiguate it by supplying a missing quote, operator, parenthesis pair or declaration.
+'l' and '<' may not both be specified on command line
+(F) An error peculiar to VMS. Perl does its own command line redirection. and found that STDIN was a pipe, and
+that you also tried to redirect STDIN using '<'. Only one STDIN stream to a customer. please.
+'l' and '>' may not both be specified on command line
+(F) An error peculiar to VMS. Perl does its own command line redirection. and thinks you tried to redirect stdout
+both to a file and into a pipe to another command You need to choose one or the other, though nothing's stopping
+you from piping into a program or Perl script which 'splits' output into two streams, such as
+pen(OUT, ">SARGV[0]") or die "Can't write to SARGV[0] $1":
+while (<STDIN>) {
+print;
+print OUT:
+}
+close OUT:
+Applying %s to %s will act on scalar(%s)
+(W misc) The pattern match (//). substitution (s///). and transliteration (tr///) operators work on scalar values.
+If you apply one of them to an array or a hash. it will convert the array or hash to a scalar value - the length of an
+array, or the population info of a hash - and then work on that scalar value. This is probably not what you meant to
+do. See grep in perifunc and map in perlfunc for alternatives.
+Args must match #! line
+(F) The setuid emulator requires that the arguments Perl was invoked with match the arguments specified on the #!
+line. Since some systems impose a one-argument limit on the #! line, try combining switches; for example, turn -W
+-U into -wU.
+Arg too short for msgsnd
+(F) msgsnd() requires a string at least as long as sizeof(long).
+%s argument is not a HASH or ARRAY element
+(F) The argument to exists() must be a hash or array element, such as:
+$foo{$bar}
+$ref->{"susie"} [12]
+584

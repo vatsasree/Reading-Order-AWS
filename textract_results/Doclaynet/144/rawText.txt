@@ -1,0 +1,125 @@
+
+13
+[1] D. N. Christodoulides, F. Lederer, and Y. Silberberg,
+Szameit, I.L. Garanovich, M. Heinrich, A. Minovich, F.
+Nature 424, 817 (2003).
+Dreisow, A.A. Sukhorukov, T. Pertsch, D.N. Neshev, S.
+[2] F. Lederer, G.I. Stegeman, D.N. Christodoulides, G. As-
+Nolte, W. Krolikowski, A. Tunnermann, A. Mitchell, and
+santo, M. Segev, and Y. Silberberg, Phys. Rep. 463, 1
+Y.S. Kivshar, Phys. Rev. A 78, 031801(F (2008).
+(2008).
+[17] K.G. Makris and D.N. Christodoulides, Phys. Rev. E
+[3] H. S. Eisenberg, Y. Silberberg, R. Morandotti, J. S.
+73, 036616 (2006); S. Longhi, Phys. Rev. E 74, 026602
+Aitchison, Phys. Rev. Lett. 85, 1863 (2000)
+(2006); A. Szameit, T. Pertsch, F. Dreisow, S. Nolte, A.
+[4] T. Pertsch, T. Zentgraf, U. Peschel, A. Bräuer, and F.
+Tünnermann, U. Peschel, and F. Lederer, Phys. Rev. A
+Lederer, Phys. Rev. Lett. 88, 093901 (2002).
+75. 053814 (2007).
+[5] R. Iwanow, D.A. May-Arrioja, D.N. Christodoulides,
+[18] R. Iwanow, R. Schiek, G.I. Stegeman, T. Pertsch, F. Led-
+G.I. Stegeman, Y. Min, and W. Sohler, Phys. Rev. Lett.
+erer, Y. Min, and W. Sohler, Phys. Rev. Lett. 93. 113902
+95. 053902 (2005).
+(2004); S. Suntsov, K.G. Makris, D.N. Christodoulides,
+[6] A. Szameit, F. Dreisow, H. Hartung, S. Nolte, A.
+G.I. Stegeman, A. Hache, R. Morandotti, H. Yang, G.
+Tunnermann and F. Lederer, Appl. Phys. Lett. 90,
+Salamo, and M. Sorel, Phys. Rev. Lett. 96. 063901
+241113 (2007).
+(2006); Y.V. Kartashov, L. Torner, and V.A. Vysloukh,
+[7] U. Peschel, T. Pertsch, and F. Lederer, Opt. Lett. 23.
+Phys. Rev. Lett. 96. 073901 (2006): M. Molina, Y. Kar-
+1701 (1998).
+tashov. L. Torner, and Y. Kivshar, Opt. Lett. 32, 2668
+[8] R. Morandotti, U. Peschel, J. S. Aitchison, H. S. Eisen-
+(2007): A. Szameit, Y.V. Kartashov, F. Dreisow, T.
+berg, and Y. Silberberg, Phys. Rev. Lett. 83, 4756
+Pertsch, S. Nolte, A. Tinnermann and L. Torner, Phys.
+(1999): T. Pertsch, P. Dannberg, W. Elflein, A. Bräuer,
+Rev. Lett. 98, 173903 (2007): X. Wang, A. Bezryadina,
+and F. Lederer, Phys. Rev. Lett. 83. 4752 (1999).
+Z. Chen, K.G. Makris, D.N. Christodoulides, and G.I.
+[9]
+G. Lenz, I. Talanina, and C.M. de Sterke, Phys. Rev.
+Stegeman, Phys. Rev. Lett. 98, 123903 (2007).
+Lett. 83. 963 (1999).
+[19] I.L. Garanovich A.A. Sukhorukov and Y. S. Kivshar,
+[10] B.A. Usievich, V.A. Sychugov, J.Kh. Nirligareev, and
+Phys. Rev. Lett. 100, 203904 (2008); A. Szameit, I.L.
+K.M. Golant, Opt. Spectrosc. 97. 790 (2004); N. Chiodo,
+Garanovich M. Heinrich, A.A. Sukhorukov F. Dreisow,
+G. DellaValle, R. Osellame, S. Longhi, G. Cerullo, R.
+T. Pertsch. S. Nolte, A. Tunnermann and Yu. S.
+Ramponi, P. Laporta, and U. Morgner, Opt. Lett. 31,
+Kivshar, Phys. Rev. Lett. 101, 203902 (2008).
+1651 (2006); H. Trompeter, T. Pertsch. F. Lederer, D.
+[20] H. Kosaka, T. Kawashima A. Tomita, M. Notomi, T.
+Michaelis, U. Streppel, A. Bräuer, and U. Peschel, Phys.
+Tamamura, T. Sato, S. Kawakami, Appl. Phys. Lett.
+Rev. Lett. 96, 023901 (2006); H. Trompeter, W. Kro-
+74. 1212 (1999) : J. Witzens, M. Loncar, A. Scherer,
+likowski, D. N. Neshev, A. S. Desyatnikov, A. A. Sukho-
+IEEE J. Sel. Topics Quantum Electron 8. 1246 (2002) :
+rukov. Yu. S. Kivshar, T. Pertsch, U. Peschel, and F.
+Z. Lu. S. Shi, J.A. Murakowski, G.J. Schneider, C.A.
+Lederer, Phys. Rev. Lett. 96. 053903 (2006).
+Schuetz, D.W. Prather, Phys. Rev. Lett. 96, 173902
+[11] A. Szameit, T. Pertsch. S. Nolte, A. Tunnermann, U.
+(2006); P. T. Rakich, M. S. Dahlem, S. Tandon, M.
+Peschel, and F. Lederer, J. Opt. Soc. Am. B 24. 2632
+Ibanescu, M. Soljacic, G. S. Petrich, J. D. Joannopou-
+(2007)
+los, L. A. Kolodziejski, E. P. Ippen, Nat. Mater. bf 5, 93
+[12] G. Lenz. R. Parker, M. C. Wanke, and C. M. Sterke,
+(2006).
+Opt. Commun 218, 87 (2003): J. Wan, M. Laforest, C.
+[21] See, for instance: J. M. Ziman, Principles of the Theory
+M. de Sterke, and M.M. Dignam, Opt. Commun 247,
+of Solids (second edition, Cambridge University Press,
+353 (2005).
+Cambridge, 1979).
+[13] S. Longhi, Opt. Lett. 30. 2137 (2005): S. Longhi, M.
+[22] S.G. Krivoshlykov,Quantum-Theoretica Formalism for
+Marangoni, M. Lobino, R. Ramponi, P. Laporta, E.
+Inhomogeneous Graded-Index Waveguides (Akademie-
+Cianci, and V. Foglietti, Phys. Rev. Lett. 96, 243901
+Verlag, Berlin 1994).
+(2006): S. Longhi, M. Lobino, M. Marangoni, R. Ram-
+[23] J.R. Klein, Am. J. Phys. 48, 1035 (1080); D.F. Styer,
+poni, P. Laporta, E. Cianci, and V. Foglietti, Phys. Rev.
+Am. J. Phys. 58. 742 (1990): P.A. Bélanger, Opt. Lett.
+B 74, 155116 (2006); R. Iyer, J. S. Aitchison. J. Wan, M.
+16. 196 (1991); V.M. Pérez-Garca, P. Torres, J.J. Garcia-
+M. Dignam, and C. M. de Sterke, Opt. Express 15. 3212
+Ripoll, and H. Michinel, J. Opt. B: Quantum Semiclass.
+(2007); F. Dreisow, M. Heinrich, A. Szameit, S. Döring,
+Opt. 2. 353 (2000); S. Longhi, G. Della Valle, and D.
+S. Nolte, A. Tinnermann, S. Fahr, and F. Lederer, Opt.
+Janner, Phys. Rev. E 69. 056608 (2004): A.K. Potemkin
+Express 16, 3474 (2008).
+and E.A. Khazanov, Quantum Electron. 35. 1042 (2005).
+[14] I.L. Garanovich, A.A. Sukhorukov and Y.S. Kivshar,
+[24] F. W. J. Olver, Asymptotics and Special Functions (Aca-
+Phys. Rev. E 74, 066609 (2006); I. L. Garanovich, A.A.
+demic Press, New York and London, 1974).
+Sukhorukov, and Y.S. Kivshar, Opt. Express 15. 9547
+[25] It should be noted that for special initial field distribu-
+(2007); I.L. Garanovich, Phys. Lett. A 372, 3922 (2008)
+tions with low decaying tails, yet carrying a finite power,
+[15] I.L. Garanovich, A. Szameit, A.A. Sukhorukov, T.
+the spectrum F(k) may diverge, and the decay law may
+Pertsch, W. Krolikowski, S. Nolte, D. Neshev. A.
+be slower than ~ 1/V [see: K. Unnikrishnan, Am. J.
+Tünnermann, and Y. S. Kivshar, Opt. Express 15. 9737
+Phys. 65. 526 (1997); F. Lillo and R. N. Mantegna, Phys.
+(2007).
+Rev. Lett. 84. 1061 (2000)]. This curious circumstance
+[16] M.J. Ablowitz and Z.H. Musslimani, Phys. Rev. Lett.
+happens, for instance, for beams with power-law decay
+87, 254102 (2001); I.L. Garanovich, A.A. Sukhorukov,
+tails. However, for such special beams the moment (x2)
+and Yu. S. Kivshar, Opt. Express 15, 9547 (2007); A.
+is unbounded In this work we will limit ourselves to con-

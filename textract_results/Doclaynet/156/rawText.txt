@@ -1,0 +1,69 @@
+
+FUEL
+KG
+280
+USED
+280
+560
+510
+510
+3990
+3990
+12 °C 12
+Brass cone
+Detent plate
+Outlet port
+FOB: 8990 KG
+TAT
+GU
+Inlet port
+Bored
+05 H01
+passageway
+Valve housing
+Figure 14-39. The graphic depiction of the fuel system on this
+electronic centralized aircraft monitor (ECAM) fuel page includes
+Figure 14-41. A cone valve is open when the bored cone aligns the
+valve position information.
+inlet and the outlet ports. It shuts off the flow when the un-bored
+portion of the cone is aligned with the inlet port(s).
+transport category aircraft as shutoff valves. While many are
+motor operated, there are several applications in which gate
+Poppet Valves
+valves are hand operated.
+Selector valves are also commonly the poppet type. As the
+Cone Valves
+handle is rotated in this valve, a cam on the attached shaft lifts
+the poppet off the seat of the desired port being selected At
+A cone valve, also called a plug valve, consists of a machined
+the same time, spring-assisted poppets close off the ports that
+valve housing into which a rotatable brass or nylon cone
+are not selected Detents lock the valve into position when
+is set. The cone is manually rotated by the pilot with an
+the cam pushes a poppet fully off of its seat. There is also a
+attached handle. Passageways are machined through the
+positive detent when the cam engages none of the poppets,
+cone so that, as it is rotated. fuel can flow from the selected
+which is the OFF position of the valve. [Figure 14-42) Note
+source to the engine. This occurs when the passageway
+that a similar mechanism is use in some selector valves, but
+aligns with the desired fuel input port machined into the
+balls are used instead of poppets.
+housing. Figure 14-41 shows a cross sectional view of a cone
+valve. The cone can also be rotated to a position so that the
+passageway(s) does not align with any fuel input port. This
+From reserve tank
+is the fuel OFF position of the valve.
+To main strainer
+From tank 2
+Cam moved
+by selector
+valve handle
+From tank 1
+Figure 14-40. This motor-operated gate valve has a red position
+Figure 14-42. The internal mechanism of a poppet-type fuel
+indicating lever that can be used by maintenance personnel to
+selector valve.
+identify the position of the valve. The lever can be moved by the
+technician to position the valve.
+14-26

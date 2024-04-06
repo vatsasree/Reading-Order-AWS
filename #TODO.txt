@@ -1,0 +1,4 @@
+#TODO
+
+get jsons for english documents 242, 250 to test if Textract gives correct Reading Order for English documents
+also compare and check results for other downloaded results, check Downloads folder for all json

@@ -1,0 +1,63 @@
+
+are often predrilled with a small pilot hole, enlarged with a
+diamond-coated or carbide drill bit and reamed with a carbide
+reamer to final hole size.
+Back counterboring is a condition that can occur when
+carbon/epoxy parts mate metal substructure parts. The back
+Figure 7-85. Klenk-type drill for drilling Kevlar®.
+edge of the hole in the carbon/epoxy part can be eroded or
+radiused by metal chips being pulled through the composite.
+The condition is more prevalent when there are gaps between
+the parts or when the metal debris is stringy rather than small
+chips. Back counterboring can be minimized or eliminated
+by changing feeds and speeds, cutter geometry, better part
+clamp-up adding a final ream pass, using a peck drill. or
+combination of these.
+When drilling combinations of composite parts with metal
+parts, the metal parts may govern the drilling speed. For
+example, even though titanium is compatible with carbon/
+epoxy material from a corrosion perspective, lower drilling
+speeds are required in order to ensure no metallurgical
+damage occurs to the titanium Titanium is drilled with low
+speed and high feed. Drill bits suitable for titanium might not
+be suitable for carbon or fiberglass. Drill bits that are used
+for drilling titanium are often made from cobalt-vanadium:
+drill bits used for carbon fiber are made from carbide or
+are diamond coated to increase drill life and to produce an
+Figure 7-86. Drilling and cutting tools for composite materials.
+accurate hole. Small-diameter high-speed steel drill bits, such
+as No. 40 drill. which are used to manually drill pilot holes,
+are typically used because carbide drills are relatively brittle
+and are easily broken. The relatively low cost of these small
+HSS drill bits offsets the limited life expectancy. High-speed
+steel drill bits may last for only one hole.
+The most common problem with carbide cutters used in hand-
+drill operations is handling damage (chipped edges) to the
+cutters. A sharp drill with a slow constant feed can produce
+a 0.1 mm (0.004-inch) tolerance hole through carbon/epoxy
+plus thin aluminum, especially if a drill guide is used. With
+hard tooling, tighter tolerances can be maintained When the
+structure under the carbon/epoxy is titanium, drills can pull
+Figure 7-87. Autofeed drill.
+titanium chips through the carbon/epoxy and enlarge the hole.
+In this case. a final ream operation may be required to hold
+tight hole tolerances. Carbide reamers are needed for holes
+Processes and Precautions
+through carbon/epoxy composite structure. In addition, the
+Composite materials are drilled with drill motors operating
+exit end of the hole needs good support to prevent splintering
+between 2,000 and 20,000 rpm and a low feed rate. Drill
+and delaminations when the reamer removes more than
+motors with a hydraulic dash pod or other type of feed control
+about 0.13 mm (0.005-inch) on the diameter. The support
+are preferred because they restrict the surging of the drill
+can be the substructure or a board held firmly against the
+as it exits the composite materials This reduces breakout
+back surface. Typical reaming speeds are about one-half of
+damage and delaminations. Parts made from tape products
+the drilling speed.
+are especially susceptible to breakout damage: parts made
+from fabric material have experienced less damage. The
+composite structure needs to be backed with a metal plate
+or sheet to avoid breakout Holes in composite structures
+7-51

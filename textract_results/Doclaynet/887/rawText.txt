@@ -1,0 +1,72 @@
+
+As discussed earlier, all patterns are left hand unless indicated
+Inbound to an uncontrolled airport, the CTAF frequency
+otherwise Sectional aeronautical charts list a right hand
+should be monitored to listen for other aircraft in the pattern
+pattern along with the airport information as shown in
+to find out what is the active runway being used by other air
+Figure 10-6. The segmented circle of Figure 10-5 and the
+traffic. [Figure 10-8]
+airport shown in Figure 10-6 both clearly show the patterns
+for this airport.
+When approaching an airport for landing, the traffic pattern
+should be entered at a 45° angle to the downwind leg, headed
+toward a point abeam of the midpoint of the runway to be
+used for landing as shown in Figures 10-1 and 10-7. Arriving
+aircraft should be at the proper traffic pattern altitude before
+entering the pattern and should stay clear of the traffic
+flow until established on the entry leg. Entries into traffic
+patterns while descending create specific collision hazards
+and should always be avoided. During the WSC 45° entry
+into the pattern, the WSC aircraft must pass through the
+larger airplane pattern. so it is essential that alert see-and-
+avoid procedures plus additional radio communications be
+practiced during this transition
+The entry leg should be of sufficient length to provide a
+clear view of the entire traffic pattern and to allow the pilot
+adequate time for planning the intended path in the pattern
+and the landing approach.
+The downwind leg is a course flown parallel to the landing
+Figure 10-5. Left hand pattern for one direction and right hand
+runway but in a direction opposite to the intended landing
+pattern for other direction.
+direction. This leg for the slower WSC aircraft should be
+approximately 1/4 to 1/2 mile out from the landing runway,
+91
+and at the specified traffic pattern altitude unless the airport
+READ
+specifically specifies a lower altitude for WSC aircraft.
+91
+[Figure 10-91 The faster airplanes would be 1/2 to 1 mile
+CARSON(CXP)
+out from the landing runway. During this leg. the before
+AWOS-3 119.925
+landing check should be completed. Pattern altitude should
+Right Pattern for Runway 9
+be maintained until abeam the approach end of the landing
+runway. At this point, power should be reduced and a descent
+Stewart
+begun. The downwind leg continues past a point abeam the
+approach end of the runway to a point approximately 45°
+from the approach end of the runway, and a medium bank
+11
+turn is made onto the base leg.
+The base leg is the transitional part of the traffic pattern
+between the downwind leg and the final approach leg.
+Depending on the wind condition, it is established at a
+sufficient distance from the approach end of the landing
+runway to permit a gradual descent to the intended touchdown
+Figure 10-6. Example of traffic pattern indicator on sectional
+point. The ground track of the aircraft while on the base leg
+showing right hand pattern for runway 9. See Figure 10-5 for
+should be perpendicular to the extended centerline of the
+segmented circle for this airport.
+landing runway, although the longitudinal axis of the aircraft
+may not be aligned with the ground track when it is necessary
+A segmented circle in Figure 10-7 provides traffic patterns
+to turn into the wind to counteract drift. While on the base
+so there is no air traffic over the lower right hand area, which
+leg and before turning onto the final approach, the pilot must
+could be a hazard or populated area.
+ensure that there is no danger of colliding with another aircraft
+10-6

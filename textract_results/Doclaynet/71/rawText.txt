@@ -1,0 +1,34 @@
+
+from the deuteron when deep inelastic scattering from the neutron is performed. This
+technique minimizes off-shell effects since at very low momentum the neutron is practically
+a spectator in the deuteron. Another method (Afnan et al., 2000, 2003; Bissey et al., 2001;
+Petratos et al., 2006) is to perform deep inelastic scattering from 3He and 3H at very high T.
+In forming the ratio of the scattering rates from these two nuclei, the nuclear effects cancel
+to a high degree in extracting the Fn /F2 ratio.
+Two proposed methods avoid nuclear effects altogether. Both a ratio of charge-current
+neutrino to antineutrino scattering from the proton and parity-violating deep inelastic elec-
+tron scattering at high x from the proton are sensitive to the d/u ratio. Nevertheless, both
+of these methods are fraught with technical difficulties, particularly at high T.
+The primary problem with measuring the neutron structure function is that there exists
+no practical free neutron target. Typically, a deuteron target is employed in experiments.
+The neutron structure function is then extracted from a measurement of the proton and
+deuteron structure functions by employing a model for the deuteron wave function. As
+an example, we consider the covariant approach of (Thomas and Melnitchouk, 1998). In
+this case, the proton and neutron structure functions are convoluted with a nucleon density
+function in the deuteron. The neutron is also off shell, SO that a model for the off-shell
+behavior is necessary. Then the expression for the deuteron structure function is given by
+P(+
+(II.47)
+where PN/D(y) is the probability of finding a nucleon of momentum y' in the deuteron
+and goff FP is the off shell correction. The extraction process is iterative. First, the off-
+shell effect is subtracted from the measured deuteron structure function Then the proton
+structure function, convoluted as indicated by the first term in Eq. (11.47), is subtracted from
+the remainder, leaving the convoluted neutron structure function. The neutron structure
+function is then deconvoluted to give the neutron structure function. The last three steps
+are then repeated until convergence is achieved.
+The results (Thomas and Melnitchouk, 1998) of this procedure for the ratio of the neutron
+to proton structure functions are shown in Fig. II.10. In this work a covariant deuteron
+wave function and a consistent off-shell correction were used (Melnitchouk et al., 1994).
+Another application (Burov et al., 2004) of the covariant approach indicates that data for
+the deuteron structure function at very high I are essential for constraining the high I
+28

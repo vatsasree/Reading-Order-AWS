@@ -1,0 +1,111 @@
+
+408
+IEEE TRANSACTIONS ON PATTERN ANALYSIS AND MACHINE INTELLIGENCE, VOL. 23, NO. 4, APRIL 2001
+variables Pkj ,Sj). Thus, T represents a generalization
+3.4 Computational Considerations
+based on subsample order statistics [35] of the Wilcoxon-
+For large sample sizes such as those encountered in the
+Mann-Whitney statistic. The statistic T is a U-statistic and
+olfactory classification task, the calculation of the observed
+can be shown to have an asymptotically normal distribution
+value of T via (4) and of the distribution FT via the available
+[35]. However, for small sample sizes-and especially for
+recurrence, are computationally intensive exercises. For the
+unbalanced designs or unequal subset sizes Kj, in which
+example, results presented in Sections 4.2 and 4.3, the
+case FT is skewed-inference based on the asymptotic
+following estimators are used.
+distribution is inappropriate; the exact distribution (or a
+Let Su be a uniform random sample of size U from the
+small-sample approximation thereof-see Section 3.4) is
+collection of subset pairs A. The estimator for T is given by
+necessary. A recurrence for the exact distribution FT under
+the null hypothesis H is given in [25] for ko k1 = 1.
+(9)
+Classification based on the generalized Wilcoxon-Mann-
+(So,S1)ESu
+Whitney statistic T given in (4) is particularly relevant to
+The estimator standard deviation OF < 1/(2Vu), indicating
+interpoint distance-based nonparametric discriminant ana-
+how large U must be taken (and, consequently, the required
+lysis [25]. Different choices for the parameters yield
+computational demand) in order to have an estimator with
+desirable power characteristics against different alternatives
+some prescribed accuracy. Equation (9) can be employed
+[35]. The issue of adaptively selecting the parameters
+using either observed data or sequences generated under
+ro,r1,ko,k1 will be addressed in Section 3.6.
+the null hypothesis. To obtain the quantile estimator for FT,
+3.2 Extension to K > Classes
+we consider a collection {T1, 7v} of such estimators taken
+under H. Then,
+The proposed classifier has been developed for the simple
+two-class problem. The extension to K > 2 classes can be
+addressed in two ways. The statistic T can be generalized to
+(10)
+the K sample case and a recurrence for the joint distribution
+FT1,...,TK is available [25]. Another approach is that of
+with an accuracy dependent on U, V, and t.
+addressing the K class problem through consideration of
+3.5 Classifier Consistency
+a collection of two class subproblems [9], [14].
+Our hypothesis testing approach to the two-class decision
+3.3 Relationship to Machine Learning
+problem ([1], p. 183) allows us to address the issue of
+From a machine learning perspective, the classifier g based
+"classifier consistency" from the standpoint of consistent
+on T is a classic example of "classification by ensemble"
+tests of hypotheses. Note that the null hypothesis H F =
+[11], [8], [20]. The statistic T represents the most funda-
+F1 implies Fp(z,X;|Y;=0) = Fp(z,X;|Y;=1) for any fixed observation
+mental approach to constructing ensembles of classifiers. In
+Z. For simplicity, consider as alternative hypotheses stochastic
+a manner similar to bagging [2], subsamples So and S1 are
+ordering; the random variable p(z, Xi|Yi = 0) is defined to be
+taken (without replacement) from the training database Dn,
+stochastically smaller than XiY 1), denoted as
+and represents a classifier for Z based on
+these subsamples. Thus, all possible subsample classifiers
+obtained are then combined in T via the simplest possible
+if
+method for combining individual classification decisions
+from an ensemble of classifiers: an unweighted vote.
+Observing a value of T 1/2 means that a majority of the
+for every X, with strict inequality for at least one X. From
+subclassifiers in the ensemble favors
+Fig. 3, we see that, for the left panel in which the test
+class 1. A more appropriate classification criterion is the
+observation (TCIf7712) is TCE-present (class 1), we have
+event {I{F(7(2)>1/2)} 1}. This event represents evidence in
+p(z,Xi|Y = 0) st = For the TCE-absent ob-
+favor of class 1 VS. class 0 in that the vote count is
+servation (Kero0203) depicted in the right panel of Fig. 3,
+probabilistically large (under H). Thus, the classifier proposed
+p(z,Xi|Y = as desired for a class 0
+in (6), based on the unweighted ensemble vote T, accounts for
+observation. For situations such as these, we have the
+the character of the distribution FT. As noted above, this
+following result.
+distribution is strongly influenced by unequal sample sizes
+Theorem. For a fixed observation Z, the classifier g given in (6)
+(no # n1), unequal subset sizes (ro # r1), and/or unequal
+based on the statistic T given in (4) is consistent against
+rank choices (ko # k1). In effect, (6) implicitly weights the
+alternatives of stochastic ordering of the class-conditional
+ensemble votes in a probabilistically appropriate way.
+interpoint distance distributions.
+The combination methodology employed here is
+straightforward and allows for analysis via mathematical
+Proof. For fixed values of ro,r1, ko, k1, as No,N1 -> 00 with
+statistics. However, more elaborate combination methods
+(0,1), T(2) is asymptotically normal
+such as those presented in [20] may be beneficial in terms of
+under and lim -1-1/2) = T a.s., where T is given by
+classification performance. In particular, using fewer care-
+(8). Under HA p(z, p(z,Xi|Y = 1) (see, for
+fully selected subsets SO that the ensemble does not employ
+example, Fig. 3, left panel) lim T(2) > a.s. and
+SO many classifiers is worthy of consideration, but makes
+lim I{7(z)>F;'(1/2)} a.s., while under HA p(z,Xi|Yi =
+the analysis of the statistic significantly more difficult.
+0) p(z,X|Y;=1) (see, for example, Fig. 3, right panel)

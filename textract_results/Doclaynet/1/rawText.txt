@@ -1,0 +1,85 @@
+
+load factor. This means that an aircraft with a normal
+This speed is called the "design maneuvering speed" (VA).
+unaccelerated stalling speed of 50 knots can be stalled at 100
+which is the speed below which you can move a single
+knots by inducing a load factor of 4 Gs. If it were possible
+flight control, one time, to its full deflection. for one axis
+for this aircraft to withstand a load factor of nine, it could
+of airplane rotation only (pitch, roll or yaw), in smooth
+be stalled at a speed of 150 knots. A pilot should be aware
+air. without risk of damage to the airplane. VA must be
+of the following:
+entered in the FAA-approved Airplane Flight Manual/
+The danger of inadvertently stalling the aircraft by
+Pilot's Operating Handbook (AFM/POH) of all recently
+increasing the load factor. as in a steep turn or spiral:
+designed airplanes. For older general aviation airplanes,
+this speed is approximately 1.7 times the normal stalling
+When intentionally stalling an aircraft above its
+speed. Thus, an older airplane that normally stalls at 60
+design maneuvering speed, a tremendous load factor
+knots must never be stalled at above 102 knots (60 knots x
+is imposed.
+1.7 = 102 knots). An airplane with a normal stalling speed
+of 60 knots stalled at 102 knots undergoes a load factor
+Figures 5-53 and 5-54 show that banking an aircraft greater
+equal to the square of the increase in speed, or 2.89 Gs (1.7
+than 72° in a steep turn produces a load factor of 3. and the
+x 1.7 = 2.89 Gs). (The above figures are approximations to
+stalling speed is increased significantly. If this turn is made
+be considered as a guide. and are not the exact answers to
+in an aircraft with a normal unaccelerated stalling speed of
+any set of problems. The design maneuvering speed should
+45 knots, the airspeed must be kept greater than 75 knots to
+be determined from the particular airplane's operating
+prevent inducing a stall. A similar effect is experienced in a
+limitations provided by the manufacturer.) Operating at or
+quick pull up or any maneuver producing load factors above
+below design maneuvering speed does not provide structural
+G. This sudden. unexpected loss of control, particularly in
+protection against multiple full control inputs in one axis or
+a steep turn or abrupt application of the back elevator control
+full control inputs in more than one axis at the same time.
+near the ground, has caused many accidents
+Since the leverage in the control system varies with different
+Since the load factor is squared as the stalling speed doubles,
+aircraft (some types employ "balanced" control surfaces while
+tremendous loads may be imposed on structures by stalling
+others do not). the pressure exerted by the pilot on the controls
+an aircraft at relatively high airspeeds.
+cannot be accepted as an index of the load factors produced
+in different aircraft. In most cases, load factors can be judged
+The following information primarily applies to fixed-wing
+by the experienced pilot from the feel of seat pressure. Load
+airplanes. The maximum speed at which an airplane may
+factors can also be measured by an instrument called an
+be stalled safely is now determined for all new designs.
+"accelerometer," but this instrument is not common in general
+40
+5
+50
+60
+4
+70
+80
+3
+100
+.120
+2
+150
+1
+o
+O
+1
+2
+3
+4
+5
+6
+8
+20 40 60 80 100 120 140 160 180 200 220 240 260
+"G" Load
+Accelerated stall speed
+Figure 5-54. Load factor changes stall speed.
+5-35

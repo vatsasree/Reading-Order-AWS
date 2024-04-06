@@ -1,0 +1,79 @@
+
+AOA
+AOA
+AOA
+Chord line
+Flight path
+Cart can swing under
+wing at riser
+attachment point
+Center of gravity
+Gliding
+Level flight
+Climbing flight
+Figure 6-1. The cart and wing pitch together.
+creates a porpoising effect. Gradually increase the
+While airborne, you will turn in the same direction
+throttle to full to avoid the abrupt porpoising.
+of the foot steering control that you push: push right
+foot-go right; push left foot-go left.
+Clearing Turns
+Similar to the pendulum effect with throttle, there
+Pilots should perform clearing turns prior to begin-
+can also be a swinging pendulum effect during turns.
+ning any maneuver and any turns. Proper clearing
+For example, if you are in a stabilized right, medium-
+procedures combined with proper visual scanning
+banked turn (approximately 20 to 45 degrees bank),
+techniques are the most effective strategy for colli-
+the pendulum is swinging out opposing the lift com-
+sion avoidance. The essential idea of the clearing turn
+ponent of the wing. If an abrupt left turn is initiated,
+is to be certain that the next maneuver is not going
+the wing will start to turn but the momentum of the
+to proceed into another aircraft's flightpath. Refer to
+cart cannot respond as quickly. This results in the pi-
+Chapter 9.
+lot not coordinating the pendulum effect, and can be
+avoided with smoother and less abrupt turns so the
+Turning the Powered Parachute
+cart can keep up with the wing.
+Steering lines run from the foot controls, through a
+Feel of the PPC
+series of pulleys parallel to the risers and suspension
+lines and are connected to the trailing edge of the cor-
+The ability to sense a flight condition, without relying
+responding side of the wing. The right steering line at
+on cockpit instrumentation, is often called "feel of the
+the front end is attached to the right steering control
+PPC," but senses in addition to "feel" are involved
+at the cockpit (either foot or hand control), and the
+other end is directly attached to the trailing edge of the
+Sounds inherent to flight are an important sense in
+right side of the wing. Hence, when you push a foot
+developing "feel." The air rushes past the PPC pilot,
+steering control, you pull on a steering line and "pull-
+who is not typically masked by enclosures When the
+down" the trailing edge of the corresponding side of
+level of sound increases, it indicates that speed is in-
+the wing, which creates drag on that side of the wing's
+creasing. Also, the powerplant emits distinctive sound
+trailing edge. The drag from the pulled-down trail-
+patterns in different conditions of flight as the RPM
+ing edge slows down and drops that side's wing, and
+is adjusted The sound of the engine in cruise flight
+the opposite side of the wing simultaneously pivots
+may be different from that in a climb, and different
+around the vertical and longitudinal axes in a coor-
+again from that in a descent and can aid the pilot in
+dinated turn. The PPC is designed to fly straight into
+estimating not only the present airspeed but the air-
+the relative wind, which is a key factor in the PPC's
+speed trend.
+ability to automatically perform a coordinated turn.
+The sources of actual "feel" are important to the pilot.
+[Figure 6-2]
+The pilot's own body responds to forces of accelera-
+tion. These "G" loads imposed on the cart are also felt
+by the pilot. Increased G loads force the pilot down
+6-2

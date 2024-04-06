@@ -1,0 +1,87 @@
+
+FORT WORTH CENTER
+H-2-3-4.L-4-6-13-14-15-176 (KZFW)
+134.4
+Abilene -134.25 127.45
+Ardmore -132.975 128.1
+Big Spring
+-133.7
+Blue Ridge -127.6 124.87
+Brownwood -127.45
+Clinton-Sherman -132.45 128.4 126.3
+Cumby -132.85 132.02 126.57
+Dublin -135.375 128.32 127.15
+EI Dorado -133.875 128.2
+Frankston -135.25 134.025
+Gainsville -134.15 126.77
+Hobbs -133.1
+Keller -135.275 134.15 133.25
+Lubbock -133.35 127.7
+126.45
+Marshall -135.1 128.125
+Figure 2-11. Center radar displays.
+McAlester -135.45 132.2
+Midland (Site A) -133.1 132.075
+Mineral Wells -135.6 127.0
+AA3373
+Monroe -135.1
+Oklahoma City -133.9 132.45
+/UAL33
+Paducah -134.55 133.5 133.35 126.45
+1200
+VG123
+1111 296
+Paris -127.6
+Plainview -126.45
+3333
+-
+San Angelo -132.075 126.15
+x
+NAMOSA
+Scurry -135.75 126.725
+1704143
+Shreveport -135.1 132.275
+Texarkana -134.475 133.95
+126.57
+N1467F
+143
+Tyler -135.25 134.025
+Waco -133.3
+UN712
+AAL353
+Wichita Falls (Site Nr1) - 134.55 132.925
+70.23
+2734
+Wichita Falls - (Site Nr2) - 133.5 127.95
+x
+Figure 2-13. A/FD center frequencies listing.
+Another common Center clearance is "Leaving (altitude)
+fly (heading) or proceed direct when able." This keeps the
+Figure 2-12. A center controller's scope.
+terrain/obstruction clearance responsibility in the flight deck
+until above the minimum IFR altitude. A controller cannot
+A common clearance in these situations is "When able,
+issue an IFR clearance until an aircraft is above the minimum
+proceed direct to the Astoria VOR "The words "when able"
+IFR altitude unless it is able to climb in VFR conditions
+mean to proceed to the waypoint, intersection, or NAVAID
+when the pilot is able to navigate directly to that point using
+On a Center controller's scope, 1 NM is about 1/28 of an inch.
+onboard available systems providing proper guidance, usable
+When a Center controller is providing Approach/Departure
+signal. etc. If provided such guidance while flying VFR. the
+control services at an airport many miles from the radar
+pilot remains responsible for terrain and obstacle clearance
+antenna, estimating headings and distances is very difficult
+Using the standard climb gradient, an aircraft is 2 miles
+Controllers providing vectors to final must set the range on
+from the departure end of the runway before it is safe to
+their scopes to not more than 125 NM to provide the greatest
+turn (400 feet above ground level (AGL)). When a Center
+possible accuracy for intercept headings. Accordingly, at
+controller issues a heading, a direct route, or says "direct
+locations more distant from a Center radar antenna, pilots
+when able." the controller becomes responsible for terrain
+should expect a minimum of vectoring.
+and obstruction clearance.
+2-10

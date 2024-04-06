@@ -1,0 +1,110 @@
+
+We first give a high-level idea of the algorithm
+quences.
+referring to lines of the pseudo code given below. We
+Algorithm GraphRV
+"force" the routes of any two agents to form a tunnel
+INPUT: A starting node v E V and a label / of the
+for every possible combination of starting nodes and
+agent.
+labels of the two agents. By Proposition this suffices
+OUTPUT: A rendezvous route r.
+to guarantee rendezvous. Any starting configuration of
+GraphRVREC(v.1,0
+robot i placed at node v and robot j placed at node w
+by the adversary corresponds to a quadruple (i,j,s',s")
+function
+where s' is a sequence of ports inducing a path from v
+GraphRVREC(node v. label 1. integer p, boolean mode)
+to w and s" is a sequence of ports inducing the reverse
+1 k:=1;r:=1;
+path from w to v.
+2 while not rendezvous and or mode) do
+Each agent constructs its route in phases. At the
+3
+4
+beginning and at the end of each phase the agent is in
+ifiorljthen
+its starting node. At phase k the previously constructed
+5
+if/=ithen
+6
+initial part of the route Thist is extended while the
+else 81
+agent processes quadruple Pk (some of the extensions
+7
+let = (p1, Pn); 1;r(81) A;
+are null). This extension guarantees that the routes
+8
+while m <n and Pm is a port do
+of agents of the corresponding starting configuration
+9
+r(s1):= r(s1) (em)
+will form a tunnel. When agent with label I processes
+where em corresponds to port Pm;
+quadruple Pk - (i,j,8',8") nothing happens if / + i
+10
+let am be the port corresponding
+and (line 4). If / - i. agent i tries to extend its
+to em at its other endpoint;
+route to guarantee rendezvous with agent j under the
+11
+m : m m 1;
+12
+hypothesis that a path from v to w corresponds to the
+sequence s' of ports and the reverse path corresponds to
+13
+then
+the sequence s". For this to happen, the agent first tries
+14
+let w he the current node:
+to follow the path r(s') induced by the sequence 8' of
+15
+:=GraphRVREC(w.l',k-1,false)
+ports (lines 8-11). This attempt is considered successful
+16
+r(s1)
+if the following conditions are satisfied:
+at consecutive nodes of the traversed path, ports
+17
+with numbers from the sequence s' are available,
+18 k=k+1;
+the reverse path corresponds to the sequence 8"
+19 return
+of ports.
+When the attempt is successful (the condition of
+line 13 is satisfied) the agent is at node w and it
+simulates the first k - 1 phases of the execution of
+the algorithm by agent with label j starting from w.
+w
+The effect of this simulation is the path Tsim Upon
+Tv
+completion of this part, agent with label i returns to
+Tw
+w. Now the agent is able to further extend its path
+to form a tunnel with the route of agent j (line 16).
+Finally, whether the attempt to follow the path r(s') is
+successful or not, the agent with label i backtracks to v
+route of agent i:
+(line 17). If - j, the above actions are performed with
+r
+ru
+q
+route of agent
+the roles of i and j reversed and the role of s' and s"
+Tw 4 To
+reversed.
+tunnel:
+Algorithm GraphRV calls the recursive function
+To
+GraphRVREC This function is called in two different
+modes controlled by the boolean mode. In the "main"
+Figure 1: Tunnel between the routes of two agents
+mode (mode = true) the function is executed indef-
+initely, until rendezvous. In the "simulation" mode
+(mode - false), the function is executed for all values
+THEOREM 3.1. Algorithm GraphRV guarantees asyn-
+up to a given P. or until rendezvous, whichever comes
+chronous rendezvous for arbitrary two agents starting
+first. The symbol ( denotes the concatenation of se-
+from any nodes of an arbitrary connected graph.

@@ -1,0 +1,104 @@
+
+identifies speech turns, and an analyzer of nonver-
+8. J-M. Van Thong et al., "SpeechBot: A Speech Recog-
+bal cues based on video analysis to rapidly review
+nition-Based Audio Indexing System for the Web,"
+records of human interaction.
+Proc. 6th RIAO Conf. (Content-Based Multimedia
+Information Access), Center for the Advanced Study
+of Information Systems, Paris, 2000, pp. 106-115.
+M
+ultimedia data introduces several challenges
+9. B. Logan and A. Salomon, "A Music Similarity Func-
+to knowledge management systems, includ-
+tion Based on Signal Analysis," Proc. IEEE Int'l
+ing the uncertainties associated with media
+Conf. Multimedia and Expo, IEEE Press, Piscataway,
+analyzers and the need for good scalability and
+N.J., 2001, pp. 952-955.
+effective user interfaces. Architectures capable of
+10. J. Ashley and M. Flickner et al., "The Query by
+handling system complexity will also play a crucial
+Image Content (QBIC) System," Proc. ACM Sigmod
+role in deploying multimedia-based KM solutions.
+Conf., ACM Press, New York, 1995, p. 475.
+Nonetheless, the prospects for fully exploiting
+11. E.W. Brown et al., "Towards Speech as a Knowledge
+multimedia content are promising. The experience
+Resource," IBM Systems J., vol. 40, no. 4, 2001, pp.
+gained in developing multimedia retrieval systems
+985-1001.
+such as SpeechBot shows that even with current lim-
+12. A. Waibel al., "Meeting Browser: Tracking and Sum-
+itations in speech recognition technology, analyzers
+marizing Meetings," Proc. DARPA Broadcast News
+can achieve good performance when searching mul-
+Transcription and Understanding Workshop, Morgan
+timedia sources. Given current trends in audio and
+Kaufmann, Lansdowne, Va., 1998, pp. 281-286.
+video analysis, multimedia storage and distribution
+over the Internet, developments in XML represen-
+Pedro J. Moreno is a senior member of the techni-
+tations, and integration with knowledge portals, we
+cal staff at Compaq Computer Corp. Cambridge
+expect multimedia data to become truly pervasive
+Research Laboratory. His research interests are
+and as important, if not more so, than textual
+multimedia indexing, speech recognition, and
+sources in KM systems.
+applications of machine learning. He received a
+PhD in electrical and computer engineering from
+Carnegie Mellon University. He is a member of the
+References
+IEEE and ESCA. Contact him at pedro.moreno@
+1. G. Salton and M.J. McGill, Introduction to Modern
+compaq.com.
+Information Retrieval, McGraw-Hill, New York,
+1983.
+J-M. Van Thong is a senior member of the techni-
+2. L.R. Rabiner and B.H. Juang, Fundamentals of
+cal staff at Compaq Computer Corp. Cambridge
+Speech Recognition, Prentice Hall, Upper Saddle
+Research Laboratory. His research interests are
+River, N.J., 1993.
+speech recognition, multimedia indexing, and user
+3. J.S. Garafolo, C.G.P. Auzanne, and E.M. Voorhees,
+interfaces. He received a PhD in computer science
+"The TREC Spoken Document Retrieval Track: A
+from the Pierre and Marie Curie University in
+Success Story," Proc. 6th RIAO Conf. (Content-
+Paris. Contact him at jm.vanthong@compaq.com.
+Based Multimedia Information Access), Center for
+the Advanced Study of Information Systems, Paris,
+Beth Logan is a member of the technical staff at
+2000, pp. 1-20.
+Compaq Computer Corp. Cambridge Research
+4. M.G. Brown et al., "Open-Vocabulary Speech Index-
+Laboratory. Her research interests are acoustic mod-
+ing for Voice and Video Mail Retrieval," Proc. ACM
+eling and indexing of speech and music. She received
+Multimedia, ACM Press, New York, 1996, pp. 307-
+a PhD in electrical engineering from the University
+316.
+of Cambridge. She is a member of the IEEE. Con-
+5. F. Kubala et al., "Integrated Technologies for Index-
+tact her at beth.logan@compaq.com.
+ing Spoken Language," Comm. ACM, vol.43, no. 2,
+2000, pp. 48-56.
+Gareth J.F. Jones is a lecturer in the Department of
+6. H.D. Wactlar et al., "Lessons Learned from Building
+Computer Science, University of Exeter. His
+a Terabyte Digital Video Library," Computer, Feb.
+research interests include multimedia, cross-lan-
+1999, pp. 66-73.
+guage, and context-aware retrieval. He received a
+7. S. Srinivasan and D. Petkovic, "Phonetic Confusion
+PhD in electrical and electronic engineering from
+Matrix-Based Spoken Document Retrieval," Proc.
+the University of Bristol. He is a member of the
+23rd Int'l Conf. Information Retrieval, ACM Press,
+Institute of Electrical Engineers. Contact him at
+New York, 2000, pp. 81-87.
+G.J.F.Jones@exeter.ac.uk.
+66
+Computer

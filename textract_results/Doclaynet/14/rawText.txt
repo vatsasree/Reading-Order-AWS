@@ -1,0 +1,96 @@
+
+NAVWEPS 00-80T-80
+STABILITY AND CONTROL
+to zero. When an aircraft is in equilibrium,
+aircraft from some trimmed angle of attack.
+there are no accelerations and the aircraft
+If the aerodynamic pitching moments created
+continues in a steady condition of flight. If
+by this displacement tend to return the air-
+the equilibrium is disturbed by a gust or deflec-
+craft to the equilibrium angle of attack the
+tion of the controls, the aircraft will experi-
+aircraft has positive static longitudinal
+ence acceleration due to unbalance of moment
+stability.
+or force.
+The static stability of a system is defined by
+DYNAMIC STABILITY
+the initial tendency to return to equilibrium
+conditions following some disturbance from
+While static stability is concerned with the
+equilibrium. If an object is disturbed from
+tendency of a displaced body to return to
+equilibrium and has the tendency to return
+equilibrium, dynamic stability is defined by
+to equilibrium, positive static stability exists.
+the resulting motion with time. If an object is
+If the object has a tendency to continue in the
+disturbed from equilibrium, the time history
+direction of disturbance, negative static stability
+of the resulting motion indicates the dynamic
+or static instability exists. An intermediate
+stability of the system. In general, the system
+condition could occur where an object dis-
+will demonstrate positive dynamic stability
+placed from equilibrium remains in equilibrium
+if the amplitude of motion decreases with
+in the displaced position. If the object subject
+time. The various conditions of possible
+to a disturbance has neither the tendency to
+dynamic behavior are illustrated by the time
+return nor the tendency to continue in the dis-
+history diagrams of figure 4.2.
+placement direction, neutral static stability ex-
+The nonoscillatory modes shown in figure
+ists. These three categories of static stability
+4.2 depict the time histories possible without
+are illustrated in figure 4.1. The ball in a
+cyclic motion. If the system is given an initial
+trough illustrates the condition of positive
+disturbance and the motion simply subsides
+static stability. If the ball is displaced from
+without oscillation, the mode is termed "sub-
+sidence" or "deadbeat return. Such a
+motion
+equilibrium at the bottom of the trough, the
+initial tendency of the ball is to return to the
+indicates positive static stability by the tend-
+equilibrium condition. The ball may roll
+ency to return to equilibrium and positive dy-
+back and forth through the point of equilib-
+namic stability since the amplitude decreases
+rium but displacement to either side creates
+with time. Chart B illustrates the mode of
+the initial tendency to return. The ball on a
+"divergence" by a noncyclic increase of ampli-
+hill illustrates the condition of static insta-
+tude with time. The initial tendency to con-
+bility Displacement from equilibrium at the
+tinue in the displacement direction is evidence
+hilltop brings about the tendency for greater
+of static instability and the increasing ampli-
+displacement. The ball on a flat, level surface
+tude is proof of dynamic instability. Chart C
+illustrates the condition of neutral static sta-
+illustrates the mode of pure neutral stability.
+bility. The ball encounters a new equilibrium
+If the original disturbance creates a displace-
+ment which remains constant thereafter, the
+at any point of displacement and has neither
+lack of tendency for motion and the constant
+stable nor unstable tendencies.
+amplitude indicate neutral static and neutral
+The term "static" is applied to this form of
+dynamic stability.
+stability since the resulting motion is not
+The oscillatory modes of figure 4.2 depict the
+considered. Only the tendency to return to
+time histories possible with cyclic motion.
+equilibrium conditions is considered in static
+One feature common to each of these modes is
+stability. The static longitudinal stability of
+that positive static stability is demonstrated in
+an aircraft is appreciated by displacing the
+the cyclic motion by tendency to return to
+245

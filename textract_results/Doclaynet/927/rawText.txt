@@ -1,0 +1,81 @@
+
+the vectors of propeller forces in Figure 5-44. each section of
+a propeller blade moves downward and forward The angle
+at which this air (relative wind) strikes the propeller blade
+is its AOA. The air deflection produced by this angle causes
+the dynamic pressure at the engine side of the propeller blade
+to be greater than atmospheric pressure, thus creating thrust.
+The shape of the blade also creates thrust because it is
+cambered like the airfoil shape of a wing. As the air flows
+past the propeller, the pressure on one side is less than that
+Figure 5-43. Airfoil sections of propeller blade.
+on the other. As in a wing. a reaction force is produced in the
+direction of the lesser pressure. The airflow over the wing
+often used interchangeably. An increase or decrease in one is
+has less pressure, and the force (lift) is upward In the case
+usually associated with an increase or decrease in the other.
+of the propeller, which is mounted in a vertical instead of a
+The pitch of a propeller may be designated in inches. A
+horizontal plane, the area of decreased pressure is in front of
+propeller designated as a "74-48" would be 74 inches in
+the propeller. and the force (thrust) is in a forward direction.
+length and have an effective pitch of 48 inches. The pitch
+Aerodynamically, thrust is the result of the propeller shape
+and the AOA of the blade.
+is the distance in inches, which the propeller would screw
+through the air in one revolution if there were no slippage.
+Thrust can be considered also in terms of the mass of air
+When specifying a fixed-pitch propeller for a new type of
+handled by the propeller. In these terms, thrust equals mass
+aircraft, the manufacturer usually selects one with a pitch
+of air handled multiplied by slipstream velocity minus
+that operates efficiently at the expected cruising speed of the
+velocity of the aircraft. The power expended in producing
+aircraft. Every fixed-pitch propeller must be a compromise
+thrust depends on the rate of air mass movement. On average,
+because it can be efficient at only a given combination of
+thrust constitutes approximately 80 percent of the torque (total
+airspeed and revolutions per minute (rpm). Pilots cannot
+horsepower absorbed by the propeller). The other 20 percent
+change this combination in flight.
+is lost in friction and slippage. For any speed of rotation,
+the horsepower absorbed by the propeller balances the
+When the aircraft is at rest on the ground with the engine
+horsepower delivered by the engine. For any single revolution
+operating, or moving slowly at the beginning of takeoff.
+of the propeller, the amount of air handled depends on the
+the propeller efficiency is very low because the propeller is
+blade angle, which determines how big a "bite" of air the
+restrained from advancing with sufficient speed to permit
+propeller takes. Thus, the blade angle is an excellent means of
+its fixed-pitch blades to reach their full efficiency. In this
+adjusting the load on the propeller to control the engine rpm.
+situation. each propeller blade is turning through the air at
+an AOA that produces relatively little thrust for the amount
+The blade angle is also an excellent method of adjusting the
+of power required to turn it.
+AOA of the propeller. On constant-speed propellers, the blade
+angle must be adjusted to provide the most efficient AOA at
+To understand the action of a propeller, consider first its
+all engine and aircraft speeds. Lift versus drag curves, which
+motion. which is both rotational and forward. As shown by
+are drawn for propellers as well as wings, indicate that the
+most efficient AOA is small, varying from +2° to +4°. The
+actual blade angle necessary to maintain this small AOA
+varies with the forward speed of the aircraft.
+Thrust
+Fixed-pitch and ground-adjustable propellers are designed
+for best efficiency at one rotation and forward speed. They
+are designed for a given aircraft and engine combination A
+propeller may be used that provides the maximum efficiency
+for takeoff. climb. cruise, or high-speed flight. Any change in
+these conditions results in lowering the efficiency of both the
+Chord line
+propeller and the engine. Since the efficiency of any machine
+Forward velocity
+Relative wind
+is the ratio of the useful power output to the actual power
+input. propeller efficiency is the ratio of thrust horsepower
+Figure 5-44. Propeller blade angle.
+to brake horsepower. Propeller efficiency varies from 50 to
+5-29

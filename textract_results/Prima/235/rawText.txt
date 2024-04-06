@@ -1,0 +1,192 @@
+
+264
+IEEE TRANSACTIONS ON PATTERN ANALYSIS AND MACHINE INTELLIGENCE, VOL. 23, NO. 3, MARCH 2001
+(a)
+(b)
+(c)
+(a)
+(b)
+(c)
+Fig. 7. An example of MHIs with similar statistics. (a) Test input of
+Fig. 8. Example of error where failure is caused, by both the inadequacy
+move 13 at 30°. (b) Closest match which is move 6 at 0°. (c) Correct
+of using image differencing to estimate image motion and the lack of the
+match.
+variance data in the recognition procedure. (a) Test input of move 16.
+(b) Closest match which is move 15. (c) Correct match.
+template with similar statistics. For example, consider sitting
+and crouching motions when viewed from the front. The
+Table 2 provides the same statistics as the first table, but
+observed motions are almost identical and the coarse
+now using two cameras. Notice that the classification now
+temporal template statistics do not distinguish them well.
+contains only three errors. The improvement of the result
+reflects the fact that for most pairs of this suite of
+4.3 Combining Multiple Views
+movements, there is some view in which they look distinct.
+A simple mechanism to increase the power of the method is
+Because we have 90° between the two input views, the
+to use more than one camera. Several approaches are
+system can usually correctly identify most movements.
+possible. For this experiment, we use two cameras placed
+We mention that if the approximate calibration between
+such that they have orthogonal views of the subject. The
+cameras is not known (and is not to be estimated) one can
+recognition system now finds the minimum sum of
+still logically combine the information by requiring con-
+Mahalanobis distances between the two input templates
+sistency in labeling. That is, we remove the interangle
+and two stored views of a movement that have the correct
+constraint, but do require that both views select the same
+angular difference between them, in this case 90°. The
+movement. The algorithm would be to select the move
+assumption embodied in this approach is that we know the
+whose Mahalanobis sum is least, regardless of the angle
+approximate angular relationship between the cameras.
+between the target views. If available, angular order
+information-e.g., camera 1 is to the left of camera 2-can
+TABLE 2
+be included. When this approach is applied to the aerobics
+Results Using Two Cameras Where the Angular
+data shown here, we still get similar discrimination. This is
+Interval Is Known and Any Matching Views
+not surprising because the input views are SO distinct.
+Must Have the Same Angular Distance
+To analyze the remaining errors, consider Fig. 8, which
+shows the input for move 16. Left to right are the 30° MHIs
+Closest Closest Correct Median
+Rank
+for the input, the best match (move 15), and the correct
+Dist
+Move
+Dist
+Dist
+match. The test subject performed the move much less
+Test 1
+2.13
+1
+2.13
+6.51
+1
+precisely than the original aerobics instructor. Because we
+2
+12.92
+2
+12.92
+19.58
+1
+were not using a Mahalanobis variance across subjects, the
+3
+7.17
+3
+7.17
+18.92
+current experiment could not accommodate such variation.
+1
+In addition, the test subject moved her body slowly while
+4
+1.07
+4
+1.07
+7.91
+1
+wearing low frequency clothing resulting in an MHI that
+5
+16.42
+5
+16.42
+32.73
+1
+has large gaps in the body region. We attribute this type of
+6
+0.88
+6
+0.88
+3.25
+1
+failure to our simple (i.e., naive) motion analysis; a more
+Test 7
+3.02
+7
+3.02
+7.81
+1
+robust motion detection mechanism would reduce the
+8
+36.76
+8
+36.76
+49.89
+1
+number of such situations.
+9
+5.10
+8
+6.74
+8.93
+3
+10
+0.68
+10
+0.68
+3.19
+1
+5 SEGMENTATION AND RECOGNITION
+11
+1.20
+11
+1.20
+3.68
+1
+The final element of performing recognition is the temporal
+12
+2.77
+12
+2.77
+15.12
+1
+segmentation and matching. During the training phase, we
+measure the minimum and maximum duration that a
+Test 13
+0.57
+13
+0.57
+2.17
+1
+6.07
+movement may take, Tmin and Tmax. If the test motions are
+14
+14
+6.07
+16.86
+1
+performed at varying speeds, we need to choose the right T
+15
+2.28
+15
+2.28
+8.69
+1
+for the computation of the MEI and the MHI. Our current
+16
+1.86
+15
+2.35
+6.72
+2
+system uses a backward looking variable time window.
+17
+2.67
+8
+3.24
+7.10
+3
+Because of the simple nature of the replacement operator,
+18
+1.18
+18
+1.18
+4.39
+1
+we can construct a highly efficient algorithm for approx-
+limating a search over a wide range of T.

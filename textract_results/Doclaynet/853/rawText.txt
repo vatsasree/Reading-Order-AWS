@@ -1,0 +1,96 @@
+
+2
+After providing general results in Sec. III we limit our
+attention to symmetric initial conditions and potentials
+where the tagged particle has no average drift. A general
+relation between the mean square displacement of the
+tagged particle and reflection probability of the non inter-
+acting particle is given in Eq. (37). Detailed calculations
+of the mean square displacement of the tagged particle
+then follow. for special choices of force fields and initial
+conditions, in Sec. As we discuss in sub-section III D
+in certain limits our problem is related to order statistics
+37|, a fact worth mentioning since it allows us to solve
+t
+our problem and related ones using known methods. In
+Sec. [V] we discuss non-Brownian kinds of motion and
+the Percus relation. A brief report of part of our results
+was recently published 21
+II.
+MODEL AND METHODS
+-2
+-1
+O
+1
+2
+In our model, 2N+1 identical point particles with hard
+core particle-particle interactions are undergoing Brow-
+nian motion in one dimension, so particles cannot pass
+FIG. 1: Schematic motion of Brownian particles in a box.
+each other. The diffusion constant of particles free of
+where particles cannot penetrate through each other. The
+interaction is D. As mentioned, towards the end of the
+center tagged particle label is O. its trajectory is restricted by
+paper we discuss the more general case where the dynam-
+collisions with neighboring particles. The straight line is the
+ics between collision events is not necessarily Brownian
+Jepsen line. it follows ut as explained in the text. As explained
+An external potential V(x) acts on the particles. The
+in the text. in an equivalent non-interacting picture, we allow
+system stretches from -I to T: however, unless stated
+particles to pass through each other, and at time t we search
+otherwise we will let I - 8 and obtain a thermody-
+for the position of the particle which has N particles to its
+namic limit where N/L is fixed. We tag the center parti-
+right and N to its left (i.e. the center particle).
+cle, which clearly has N particles to its left and N to
+it right. Initially the tagged particle is at the origin
+T - O. The motion of a single particle in the absence of
+the label of the interacting particles (see Fig. ID. The
+interactions with other particles is described by a single
+tagged particle whose coordinate is denoted with cr(t),
+particle Green function g(x, TO. t), with the initial condi-
+is the center particle j = 0 (bold line in Fig. ID Initially
+tions g(x, TO. 0) = 8(x-xo). - In the case of over damped
+the tagged particle is at the origin TO = O. Since
+Brownian motion the Green function is the solution of
+particles do not pass each other, their order is clearly
+the Fokker-Planck equation 38
+maintained, and the number of particles to the left and
+right of the tagged particle N is fixed.
+dg(x.xo.t) at - D dx2 g(x,xo,t), (1)
+In Fig. the straight line which starts at a - O is
+called the Jepsen line and follows x(t) - vt. where v is
+a test velocity We label the interacting particles
+where F(x) - V'(x) is the force field, T is the tem-
+according to their initial position, increasing to the right
+perature and ky is Boltzmann's constant The initial
+(see Fig. [I]. The tagged particle starts just to the right
+conditions of N particles residing initially to the right
+of the Jepsen line so at t - 0 the label of the particle
+(left) of the test particle are drawn from the probability
+to the right of the Jepsen line is zero. In this system
+density function (PDF) fR(xo) (fL(xo)) respectively. We
+we have 2N + 1 particles. Hence initially we have N
+consider an ensemble of trajectories and average over tra-
+particles to the left of the Jepsen line and including the
+jectories and initial conditions (see details below). Our
+tagged particle N + 1 particles to the right.
+goal is to obtain the PDF of the position IT of the tagged
+Let (t) be the label number of the first particle sit-
+center particle P(xT) in the large N limit.
+uated to the right of the Jepsen line. According to our
+rules, at t = 0 we have = 0, and then the random
+variable will increase or decrease in steps of +1 or
+A. The Jepsen Line
+according to:
+i) if a particle crosses the Jepsen line from left to right
+A schematic diagram of the problem is presented in
+O
+Fig. for particles in a box. Initial positions of particles
+ii) if a particle crosses the Jepsen line from right to left
+are given by where j = -
+N.
+O.
+N where j is
++ 1. Thus the counter is performing a ran-

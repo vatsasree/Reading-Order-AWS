@@ -1,0 +1,120 @@
+
+5
+Kosterlitz-Thouless shapes for d = 1 and power-law shapes
+is known via other means, e.g. numerical simulations, a B,
+for d > 1. For illustration purposes, here we analyze only
+y and 8 can be calculated accordingly, for which the extrap-
+the latter case, but this technique can be easily adapted to the
+olation technique gives very accurate results [23. If the
+1 case [19].
+exact value of Ic is not known, then we set S = O. and solve
+Eqs. (14). (15). (16) and the 8 = 0 equation to determine
+a 8. Y and Ic self-consistently, which also leads to accurate
+A. Scaling Ansatz
+results [19. 24]. Next we present typical ground-state phase
+diagrams for (d = 2)- and (d = 3)-dimensional hypercubic
+From now on we consider a two-species mixture with =
+lattices obtained from this extrapolation technique.
+t - U++ - Uss - U.U+s - V. no - ne - n. and
+u. When d > 1, we propose the following ansatz
+which includes the known power-law critical behavior of the
+B. Numerical Results
+tip of the lobes
+In Figs.
+and 2 the results of the third-order strong-
+(13)
+coupling expansion (dotted lines) are compared to those of the
+extrapolation technique (hollow pink-squares and solid black-
+where A(x) - and B(x) =a+Bx+
+circles) when V = 0.5U and V = -0.85U. respectively, in
+ya2 + 8.3 are regular functions of = 2dt/U, the
+two (d = 2 or 2 = 4) and three = 3 or 2 = 6) dimensions
+critical point which determines the location of the lobes, and
+We recall here = -
+zv is the critical exponent for the (d + 1)-dimensional XY
+no nj = n. and Hy = HI is.
+model which determines the shape of the lobes near I =
+In Fig. we show the chemical potential 11 (in units of U)
+2dt./U. In Eq. (13). the plus sign corresponds to the particle
+versus I = 2dt/U phase diagram for (a) two-dimensional and
+branch. and the minus sign corresponds to the hole branch.
+(b) three-dimensional hypercubic lattices, where we choose
+The form of the ansatz is taken to be the same for both single-
+the interspecies interaction to be repulsive V = 0.5U. Com-
+and two-partice (or single- and two-hole) excitations, but the
+paring Eqs. (8) and (9) with Eqs. (II) and (12). we expect
+parameters are very different.
+that the excited state of the system to be the usual superfluid
+The parameters a. b. C and d depend on U. V and n. and
+for all V > 0 for all t. The dotted lines correspond to phase
+they are determined by matching them with the coefficients
+boundary for the Mott insulator to superfluid state as deter-
+given by our third-order expansion such that A(x) = +
+mined from the third-order strong-coupling expansion. and
+whol)/(2U). Here, upar and whol are our strong-coupling ex-
+the hollow pink-squares correspond to the extrapolation fits
+pansion results determined from Eqs. (8) and (9) for the
+for the single-particle and single-hole excitations discussed in
+single-particle and single-hole excitations, or from Eqs. (II)
+the text. We recall here that an incompressible super-counter
+and (12) for the two-particle and two-hole excitations, respec-
+flow
+phase (7-9.13 also exists outside of the Mott insulator
+tively. Writing our strong-coupling expansion results for the
+lobes, but our current formalism cannot be used to locate its
+particle and hole branches in the form upar =
+phase boundary.
+and = to a = (et +eo)/2.
+-
+To determine the U, V and n dependence of the parameters
+TABLE I. List of the critical points (location of the tips) I, =
+B, Y. 8, Ic and 21. we first expand the left hand side of
+2dt./U for the first two Mott insulator lobes that are found from
+B(x)(xc-x)* = in powers of x. and
+the chemical potential extrapolation technique described in the text.
+match the coefficients with the coefficients given by our third-
+Here. in = = na = n. and
+order expansion, leading to
+the the = us These critical points for the single-particle or single-
+hole excitations are determined from Eqs. 8 and (9). and they tend
+to move in as V increases, and are independent of the sign of V.
+(14)
+d=2
+V/U Ynln=2nln=2
+(15)
+0.0
+0.234 0.138
+0.196 0.116
+0.1
+0.234 0.138
+0.196 0.115
+(16)
+0.2
+0.233 0.137
+0.195 0.115
+0.3
+0.230 0.136
+0.194 0.114
+0.4
+0.227 0.134
+0.193 0.113
+6x3
+0.5
+0.223 0.131
+0.190 0.112
+avet-ejjet-ej
+0.6
+0.217 0.128
+0.187 0.110
+(17)
+0.7
+0.208 0.123
+0.182 0.107
+0.8
+0.197 0.116
+0.174 0.102
+We fix ZV at its well-known values such that ZIA 12 2/3 for
+0.9
+0.193 0.113
+0.163 0.095
+d = 2 and ZV = 1/2 for d > 2. If the exact value of x

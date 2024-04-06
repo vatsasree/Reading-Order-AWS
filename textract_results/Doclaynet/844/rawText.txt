@@ -1,0 +1,129 @@
+
+12
+Ewald Puchwein, Volker Springel, Debora Sijacki, & Klaus Dolag
+1x105
+redshift z of infall
+satellite galaxies
+65 3
+2 1.5
+1
+0.5
+0.25
+0
+BCG
+0.3
+ICL
+satellite galaxies
+BCG
+0.25
+ICL
+8x104
+0.2
+0.15
+6x104
+0.1
+0.05
+4x104
+O
+0
+0.1
+0.2
+0.3
+0.4
+0.5
+0.6
+0.7
+0.8
+0.9
+1
+scale factor a of infall
+Figure 12. Distribution (fraction per bin, each histogram is nor-
+2x104
+malized to unity) of stars according to the time of their infall into
+the forming cluster. Results are shown for stars assigned to satel-
+lite galaxies, the BCG, and the ICL at redshift = = O. Method
+4 was used for making a distinction between BCG and ICL. All
+curves were averaged over four clusters that were simulated with
+O
+AGN. The same weight was used for each of them
+0.1
+1
+10
+100
+1000
+distance r from halo centre [kpc/h]
+liberated and joins the ICL increases with the galaxy's stel-
+lar mass. The most massive galaxies are also most likely to
+Figure 11. Distance of newly formed stars from the centres of
+the halos in which they were formed Distributions are given for
+merge with the BCG, as can be seen by the strong increase
+stars that at = = O end up in satellite galaxies, the BCG. and
+of the BCG fraction Accordingly, the fraction of stars that
+the ICL of a M cluster. Method 4 was used for making
+remains bound to an infalling galaxy decreases with stellar
+a distinction between BCG and ICL. Interestingly, a significant
+mass. This can be understood due to the shorter dynami-
+fraction of intracluster stars is not formed in halo centres. The
+cal friction timescale for massive galaxies, while at the same
+increase of all distributions with distance for , values smaller
+time their tidal radius is larger.
+than ~ 1h- kpc is due to the increasing volume per radial bin.
+Furthermore, we investigated what fraction of intraclus-
+ter stars comes from completely dissolved galaxies. We did
+this by constructing a merger tree. For each SUBFIND (sub-
+the centre. This further suggests that it takes a significant
+)halo found in one snapshot we searched for the descendant
+amount of time after the infall of a galaxy into a cluster
+(sub-)halo in the next snapshot that contains the largest
+until stars are efficiently stripped from it. Keeping this in
+number of the object's original star particles. In case this
+mind, it is not at all surprising that Murante et al.
+(2007)
+would yield the cluster's main halo as descendant, we also
+find that most of the stripping happens at = < 1.
+check which subhalo of the cluster contains the largest num-
+We also checked the stellar masses of the galaxies in
+ber of the satellite galaxy's stars. If this subhalo still con-
+which the different components (satellite galaxy, BCG, and
+tains more than 10% of the original galaxy's star particles
+ICL stars) resided when they fell into the forming cluster.
+we consider it as the descendant, and not the cluster's main
+This is illustrated in Fig.[ The lower panel shows the dis-
+halo. This allows us to follow satellite galaxies even when
+tribution of all infalling stars according to the stellar mass
+they are strongly tidally stripped between two subsequent
+of the galaxy in which they fell into the cluster. The upper
+simulation snapshots.
+panel shows for each stellar mass bin of the infalling galaxy
+We find that the fraction of intracluster stars that comes
+the fraction of stars that at z = 0 reside in the cluster's satel-
+from dissolved galaxies, i.e. galaxies that either merged with
+lite galaxies, the BCG, and the ICL. Again, the results were
+the BCG or were completely tidally disrupted, depends on
+averaged over four clusters to reduce noise in the curves.
+halo mass. While we have performed this analysis only for
+For stellar masses below ~ 4 X 10 Mo, the fraction of
+four clusters, we find a systematic trend where this fraction
+stars that get stripped from an infalling galaxy and become
+drops from 75% for a 5 X 1013 h- M group to 22% for
+a
+intracluster stars strongly increases in our simulations This
+3 X 1014 Mo cluster.
+is because these objects are poorly resolved, as also shown
+As discussed above, the mean fraction of stars that gets
+by our analysis of the convergence of the properties of the
+stripped from an infalling galaxy and becomes part of the
+satellite galaxy population in Sect.
+However, looking at
+ICL depends on the mass of the galaxy. On the other hand,
+the lower panel we see that only very few stars fall into the
+this also means that the fraction of intracluster stars may
+cluster in such small, poorly resolved galaxies. Their disrup-
+be biased in simulations that do not reproduce the correct
+tion does therefore not significantly bias our predictions for
+galaxy stellar mass function. Getting the latter right in cos-
+the ICL. On the other hand, for more massive and well re-
+mological hydrodynamical simulations is, however, a long-
+solved galaxies, we find that the fraction of stars that gets
+standing problem which has not yet been solved satisfac-
+© 0000 RAS, MNRAS 000, 000-000

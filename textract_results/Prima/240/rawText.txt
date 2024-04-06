@@ -1,0 +1,114 @@
+
+aiming to capture the entire set of metadata require-
+How is that benefit influenced by the decision
+ments and implement a centralized architecture.
+maker role? It would be reasonable to assume that
+Metadata quality. The design and initial imple-
+a middle-tier manager and a CEO would each
+mentation of the metadata layer is only the begin-
+benefit, though in different ways; and
+ning. As organizations enhance their business
+What stages of the decision process benefit most
+activities or transition to new ones, information sys-
+from metadata? Decision making is a multi-stage
+items, the underlying data, and metadata must all be
+process where preliminary cycles of elaboration
+updated accordingly. Poor-quality metadata can result
+and search for data may precede the final deci-
+not only from poor analysis of requirements or from
+sion. Metadata may affect not only that decision
+an invalid design approach but also from the failure to
+but the efficiency of preliminary stages of data
+detect changes in the business and reflect them in the
+exploration as well.
+metadata layer. With metadata being at the functional
+core of information systems, poor quality might in
+Securing organizationwide support is typically the
+turn degrade the quality of the data, cause operational
+greatest challenge in any successful metadata imple-
+failures, and violate information security. To keep
+mentation. Such support cannot be achieved without
+metadata functional and its quality high, organiza-
+identifying and communicating the merits of meta-
+tions need to invest in its ongoing administration and
+data to the technical community, to business users,
+maintenance. Metadata must be constantly updated
+and to corporate decision makers alike. Those merits,
+to reflect evolving changes in data models, business
+however, as well as the drawbacks, have yet to be fully
+rules, information flow, end-user configuration, and
+explored, and many questions remain to be answered
+underlying technology.
+before metadata value is fully known.
+C
+METADATA RESEARCH
+REFERENCES
+Given these challenges, is metadata implementation
+1. Even, A., Shankaranarayanan, G., and Watts, S. Enhancing decision
+making with process metadata: Theoretical framework, research tool,
+worth the effort? IT/IS researchers and practition-
+and exploratory examination. In Proceedings of the 39th Hawaii Inter-
+ers understand only metadata's technical merits but
+national Conference on System Sciences (HICSS-39) (Kauai, HI, Jan.
+not its business benefits, why should business man-
+4-7). IEEE Press, Los Alamitos, CA, 2006.
+2. Fisher, C., Chengalur-Smith, I., and Ballou, D. The impact of experi-
+agers care about metadata? Wouldn't it be reasonable
+ence and time on the use of data quality information in decision mak-
+for COTS product vendors to focus on technical
+ing. Information Systems Research 14, 2 (June 2003), 170-188.
+3. Jarke, M., Lenzerini, M., Vassiliou, Y., and Vassiliadis, P. Fundamen-
+metadata, designing it exclusively for IT profession-
+tals of Data Warehouses. Springer-Verlag, Heidelberg, Germany, 2000.
+als while ignoring the business decision makers? The
+4. Kimball, R., Reeves, L., Ross, M., and Thornthwaite, W. The Data
+answer is not obvious, as the benefits of metadata are
+Warehouse Lifecycle Toolkit. Wiley Computer Publishing, New York,
+2000.
+not yet well known. Recent studies [1, 2, 6] suggest
+5. Marco, D. Building and Managing the Meta Data Repository: A Full
+that metadata may significantly benefit business
+Lifecycle Guide. John Wiley and Sons, Inc., New York, 2000.
+decision makers, hence, ought to be further explored
+6. Nevo, D. and Wand, Y. Organizational memory information systems:
+A transactive memory approach. Decision Support Systems 39, 4 (June
+by the academic research community.
+2005), 549-562.
+Data-quality management is a promising area for
+7. Sen, A. Metadata management: Past, present, future. Decision Support
+Systems 37, 1 (Apr. 2004), 151-173.
+metadata [9]. Due to the rapid growth of data volume
+8. Shankaranarayanan, G. and Even, A. Managing metadata in data ware-
+and complexity, poor data quality represents a grow-
+houses: Pitfalls and possibilities. Communications of the AIS 14, 13
+ing hazard to information systems. Metadata enables
+(Sept. 2004), 247-274.
+9. Shankaranarayanan G., Ziad, M., and Wang, R. Managing data qual-
+decision makers to gauge data quality and is critical
+ity in dynamic decision-making environments: An information prod-
+for the administration of processes and security
+uct approach. Journal of Database Management 14, 4 (Oct.-Dec.
+2003), 14-32.
+within decision-support environments (such as a data
+10. Vaduva, A. and Vetterli, T. Metadata management for data warehous-
+warehouse).
+ing: An overview. International Journal of Cooperative Information Sys-
+Managerial decision making stands to benefit from
+tems 10, 3 (Sept. 2001), 273-298.
+metadata [1, 2]. Understanding this benefit involves
+several questions:
+GANESAN SHANKARANARAYANAN (gshankar@bu.edu) is an
+assistant professor in the Boston University School of Management,
+Boston, MA.
+What types of decision making are most likely to
+ADIR EVEN (adir@bu.edu) is a Ph.D. student in the Information
+benefit from metadata? Metadata is likely to be
+Systems Department at the Boston University School of Management,
+useful in rational, data-driven, analytical decision
+Boston, MA.
+making scenarios. Not clear is whether it provides
+similar benefit in decision processes that are more
+intuitive or politically charged;
+2006 ACM 0001-0782/06/0200 $5.00
+94
+February 2006/Vol. 49, No. 2 COMMUNICATIONS OF THE ACM

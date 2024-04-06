@@ -1,0 +1,107 @@
+
+8
+AW (EB model)
+BCSI model. However, before that, we show in Figs 10
+12 the conductivities and the optical integrals for the
+AW
+original MFLI model.
+o
+Conductivities (Original MFLI)
+with lattice
+-40
+NS
+without lattice
+0.2
+SC
+0.2
+0.4
+0.6
+0.8
+0.1
+w in eV
+FIG. 9: AW vs the cut-off for the EB model. It remains neg-
+O
+ative for larger cut-offs. Parameters are the same as before.
+0.2
+0.6
+1
+The dot indicates the value of W(oo) = AWK
+win eV
+Original MFLI
+of the lattice (the dashed line in Fig. 9
+SC
+140
+NS
+C. Marginal Fermi liquid model
+130
+a -0.75
+For their analysis of the optical integral, Norman and
+Pépin³0 introduced a phenomenological model for the self
+energy which fits normal state scattering rate measure-
+120
+O
+50
+100
+ments by ARPES41 It constructs the NS (w) out
+r (meV)
+of two contributions - impurity scattering and electron-
+electron scattering which they approximated phenomeno-
+FIG. 10: Top the conductivities in the NS and SCS in the
+logically by the marginal Fermi liquid form of aw at small
+original MFLI model of Ref 30. We set r = 70 meV, a = 0.75,
+frequencies (MFLI model). The total E is
+A
+= 32meV, we = 71 meV. Note that a' (w) in the SCS
+begins at = A Bottom - the behavior of Wk with .
+-
+(17)
+In Fig [10] we plot the conductivities in the NS and the
+SCS and Kubo sums WK vs at a = 0.75 showing that
+where What is about ~ of the bandwidth, and f(x) = 1
+the spectral weight in the SCS is indeed larger than in the
+for x < 1 and decreases for I > 1. In Ref 30 f(x) was
+NS. In Fig [1] we show the behavior of the optical sums
+assumed to scale as 1/x at large x such that " is flat at
+W(we) in NS and SCS. The observation here is that only
+large w. The real part of ((w) is obtained from Kramers-
+~ 75-80% of the Kubo sum is recovered up to the scale of
+Krönig relations. For the superconducting state, they
+the bandwidth implying that there is indeed a significant
+obtained by cutting off the NS expression on the lower
+spectral weight well beyond the bandwidth. And in Fig
+end at some frequency ws (the analog of wo + A that we
+12 we show the behavior of AW(wc). We see that it does
+had for EB model):
+not change sign and remain positive at all Wc, very much
+unlike the BCS case. Comparing the behavior of W (wc)
+"(w) = (r + a/w/) - w1)
+(18)
+with and without a lattice (solid and dashed lines in Fig.
+12 we see that the 'finite bandwidth effect just shifts the
+where ((x) is the step function. In reality, E" which fits
+curve in the positive direction. We also see that the solid
+ARPES in the NS has some angular dependence along the
+line flattens above roughly half of the bandwidth, i.e., at
+Fermi surface42 but this was ignored for simplicity. This
+these frequencies AW(we) = AWK. Still, we found that
+model had gained a lot of attention as it predicted the
+AW continues going down even above the bandwidth
+optical sum in the SCS to be larger than in the NS, i.e.,
+and truly saturates only at about 2eV (not shown in the
+AW > O at large frequencies. This would be consistent
+figure) supporting the idea that there is 'more' left to
+with the experimental findings in Refs. 8.9 if, indeed,
+one
+recover from higher frequencies.
+identifies AW measured up to leV with AWK.
+The rationale for AWK > 0 in the original MFLI
+We will show below that the sign of AW in the MFLI
+model has been provided in Ref. 30 They argued that
+model actually depends on how the normal state results
+this is closely linked to the absence of quasiparticle peaks
+are extended to the superconducting state and, moreover,
+in the NS and their restoration in the SCS state because
+will argue that AWK is actually negative if the extension
+the phase space for quasiparticle scattering at low ener-
+is done such that at O = o the results are consistent with
+gies is smaller in a superconductor than in a normal state.

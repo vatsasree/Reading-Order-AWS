@@ -1,0 +1,184 @@
+
+viewpoints
+the author is interested in receiving roy-
+Moving Forward
+alties). And of course the content is also
+OERs have the
+Our experience with OERs over the past
+available for free on the Connexions
+eight years has convinced us that the
+Web site, which will keep the commer-
+potential to aid in
+movement has real potential to enable
+cial costs from rising above what the
+the democratization
+a revolutionary advancement of the
+value added justifies.
+world's standard of education at all lev-
+of the world of
+els. Moreover, as it grows and spreads,
+Roadblocks on the Horizon?
+knowledge.
+the movement will have a large impact
+While the OER movement is rapidly
+on the academic world itself. It prom-
+gaining speed, there are a number of
+ises to disintermediate the scholarly
+potential roadblocks that must be care-
+publishing industry, in the process ren-
+fully navigated for it to prosper.
+dering some current business models
+Technology fragmentation. If the OER
+unviable and inventing new viable ones.
+community does not adopt common
+It will also change the way we conceive
+or compatible content and repository
+and other open-authorship projects
+of and pursue authorship, teaching,
+standards, then it risks fragmenting the
+suggest they are threatened by the pro-
+peer review, promotion, and tenure.
+movement into a number of isolated is-
+liferation of massive amounts of low-
+And by encouraging contributions from
+lands of incompatible content. This will
+quality material that might swamp the
+anyone, anywhere, OERs have the po-
+unfortunately discourage global collab-
+information environment and prove
+tential to aid in the democratization of
+oration, reduce the overall economy of
+impossible to navigate. Traditional
+the world of knowledge.
+scale of the enterprise, and thus devalue
+publishers, as well as institution-based
+A concerted effort from the commu-
+any financial sustaining opportunities.
+OER projects like MIT OpenCourse-
+nity of authors, instructors, students,
+We must pay attention to the lessons
+Ware, employ a careful internal review
+and software developers (that is, by
+learned by groups like the World Wide
+process before their content is made
+you) will enable the OER movement to
+Web Consortium and its standardiza-
+publicly available. However, such a pre-
+surmount the challenges on the road
+tion and maintenance of the HTML and
+publication review cannot scale to keep
+to these goals. Fortunately, it's easy to
+XML standards.
+up with the fast pace of community-
+get involved: become an author for an
+Intellectual property fragmentation.
+based OER development, where mate-
+OER project on your favorite topic; con-
+Just as with open source software, there
+rials may change daily or even hourly.
+tribute your out-of-print work SO others
+are a number of copyright licenses that
+Accept/reject decisions also create an
+can build on it and keep it alive; adopt
+can be applied to OERs. These various
+exclusive rather than inclusive commu-
+or remix an open textbook for your next
+licenses present a number of compat-
+nity culture. And finally, prereview does
+course; start or participate in an OER
+ibility issues. For instance, there is cur-
+not support evaluation of modules and
+quality review program; or translate an
+rently a debate regarding whether open
+courses based on actual student learn-
+OER into a new language. Together, we
+materials should or should not be com-
+ing outcomes. Some promising steps
+can change the way the world develops,
+mercially usable. Licensing that renders
+are being made in this direction. In
+disseminates, and uses knowledge.
+open materials only noncommercially
+one, Connexions recently rolled out
+useable promises to protect contribu-
+a system of post-publication "lenses"
+References
+tors from potentially unfair commercial
+that are open to an arbitrary number of
+1. Baraniuk, R.G. Challenges and opportunities for the
+exploitation. A noncommercial license,
+third-party reviewers and editorial bod-
+open education movement: A Connexions case study.
+Chapter in Opening Up Education: The Collective
+however, not only limits the spread of
+ies. Several universities, companies,
+Advancement of Education through Open Technology,
+knowledge by complicating the produc-
+and professional societies are currently
+Open Content, and Open Knowledge, MIT Press, 2008.
+2.
+"Bookless' textbook study launched at Foothill," Palo
+tion of paper books, e-books, CDs and
+reviewing content for their lenses (see
+Alto Online (May 2008).
+DVDs, but also cuts off potential future
+cnx.org/lenses).
+3. Breck, J. Editor of the special edition on open
+education in Educational Technology 47 (Nov.-Dec.
+revenues that might sustain non-profit
+Success models. While the advantages
+2007), 3-5; C. Sidney Burrus, "Connexions: An Open
+OER enterprises in the future. Interest-
+of remixing and reusing educational
+Educational Resource for the 21st Century," 19-23;
+Stephen Carson, "The OpenCourseWare Model: High-
+ingly, such an anticommercial stance
+content are readily apparent (and while
+Impact Open Educational Content," 23-26.
+authors already consciously and un-
+4. Kelty, C.M. Two Bits: The Cultural Significance of Free
+is contrary to that of the more estab-
+Software. Duke University Press, 2008.
+lished open source software world,
+consciously remix ideas from myriad
+5. Kelty, C.M., Burrus, C.S., and Baraniuk, R.G. Peer
+review anew: Three principles and a case study in
+which greatly benefits from commercial
+different sources as they compose), we
+postpublication quality assurance. In Proceedings of
+involvement. Where would Linux and
+need more OER success models to build
+the IEEE 96, (June 2008).
+Apache be without the value-adding
+upon. We surmise that the lack of a
+contributions of for-profit companies
+large number of models is due in a large
+Richard Baraniuk (richb@rice.edu) is the Victor E.
+Cameron Professor in the Electrical and Computer
+like Red Hat and IBM, for instance?
+part to technological barriers (which
+Engineering department at Rice University in Houston, TX.
+Quality control. How can OERs pro-
+are gradually being overcome) and in a
+C. Sidney Burrus (csb@rice.edu) is the Maxfield &
+duced in a grass-roots fashion, by people
+lesser part to several hundred years of
+Oshman Professor Emeritus of Engineering in the
+with varying skill levels and degrees, for
+academic community dynamics (which
+Electrical and Computer Engineering department at Rice
+University in Houston, TX.
+widely varied reasons, be adequately vet-
+are being addressed by community-
+ted for quality? The anxieties frequently
+organized OER projects like the IEEE's
+The authors and Connexions are supported by the William
+and Flora Hewlett Foundation, the U.S. National Science
+aired about projects like Wikipedia
+mentioned earlier).
+Foundation, and Rice University.
+32
+COMMUNICATIONS OF THE ACM
+SEPTEMBER 2008
+VOL. 51
+NO. 9

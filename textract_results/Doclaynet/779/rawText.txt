@@ -1,0 +1,42 @@
+
+TM 1-320
+22
+AIR CORPS
+22. Variation of pressure distribution on airship hull.-a.
+In section II resistance of an airship was shown to be partly caused
+by increased nose pressure. Throughout the discussion the airship
+was considered to be flying on an even keel and in a straight line.
+All forces were parallel to the direction of flight. Before entering
+the subject of stability proper it will be necessary to show variation
+in pressure distribution on the hull when the airship is not flying as
+considered in section II, or, in other words, when transverse aero-
+dynamic forces are present on the hull.
+b. Figure 16 shows a typical pressure distribution on an airship hull
+when the airship is in horizontal flight in a straight line and on an even
+keel. This pressure distribution will be true whenever the line join-
+ing the tip of the nose with the tip of the tail (longitudinal axis) is
+Langitudinal Axis OF Hull
+Direction of motion
+FIGURE 16.-Pressure distribution on airship hull (longitudinal axis parallel to direction
+of motion).
+parallel with the direction of motion. Because an airship can be con-
+sidered as a symmetrical solid of revolution, the pressure distribution
+has the following charactertistics:
+(1) Distribution depicted is uniform for any plane passed through
+the longitudinal axis.
+(2) Varying reduced pressure exists from a section just in rear of
+the nose to a section just forward of the tail.
+(3) Both nose and tail have positive pressure, but that on the tail
+is too small to be of much assistance to forward motion.
+C. Figure 17 shows the distributions in pressure for an 18° angle
+of attack to the relative air. Other angles of attack have similar dis-
+tributions. The distribution shown holds equally true whether the
+deviation of the axis from the direction of motion is in a horizontal
+or
+a vertical plane. When, for instance, the inclination is in the verti-
+cal plane, the following characteristics are observed
+(1) Positive pressure on the nose lies almost entirely in a zone be-
+neath the axis.
+(2) Plane of transition, BC, figure 17, is oblique with regard to the
+axis.
+36

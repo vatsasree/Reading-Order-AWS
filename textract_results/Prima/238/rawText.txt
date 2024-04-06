@@ -1,0 +1,175 @@
+
+viewpoints
+anyone around the world.
+ing to raise awareness of both textbook
+tor their interactions with them, ana-
+Over the last decade the technical, le-
+costs and this new avenue to reduce
+lyze those interactions, and then send
+gal, and social puzzle pieces have come
+them. As a sign of the maturation of the
+rich feedback to the student about their
+together SO that anyone, anywhere can
+movement, delegates from around the
+learning, as well as to the communities
+now author, assemble, customize, dis-
+world met in Cape Town, South Africa
+of curriculum builders, authors, and
+tribute, have reviewed, and publish
+to develop the eponymous Declaration
+instructors to drive iterative improve-
+their own textbook in very little time
+that was officially released in January
+ment of the learning materials. An early
+and at zero or very low cost. The key en-
+2008 and has already garnered signa-
+example that currently focuses more on
+ablers are:
+tures from more than 1,600 individuals
+student feedback than continuous itera-
+Technologies like the Internet,
+and 165 organizations to date (see cape-
+tive content improvement is Carnegie
+which enables virtually free digital con-
+towndeclaration.org).
+Mellon University's Open Learning Ini-
+tent distribution; XML, which turns
+tiative (cmu.edu/oli).
+a monolithic textbook into a rapidly
+Free and Open
+reconfigurable construction of small,
+are Just the Beginning
+Free and Open as a Business Model
+reusable "modules," much as building
+The most exciting thing about OERs is
+OERs are not at odds with the for-profit
+with Lego blocks; Web 2.0 tools like wi-
+that free access is just the beginning.
+world. Indeed, we contend that the new
+kis and semantic tagging systems, which
+OERS will increasingly blur the lines
+development and distribution models
+enable real-time distributed global col-
+between courses, grade levels, labs, and
+promoted by the OER movement repre-
+laboration; advanced visualization and
+textbooks, turning the current textbook
+sent the natural and inevitable evolution
+graphics tools, which enable immersive
+production pipeline into a vast dynam-
+of the educational publishing industry
+simulation environments; and print-on-
+ic knowledge ecosystem that is in a con-
+in a way that parallels the evolution of
+demand systems, which enable the pro-
+stant state of creation, use, reuse, and
+the software industry (the now-main-
+duction of inexpensive paper books for
+improvement. OERS also promise to
+stream Linux, Apache, and Firefox), the
+those who prefer or need them.
+provide each child with his or her own
+music industry (Radiohead's recent "pay
+Open copyright licenses like the
+textbook that's tailored to the student's
+what you like" digital album download),
+Creative Commons and GNU Free Doc-
+background and learning style (not "off
+and the scholarly publishing industry
+umentation licenses, which turn once
+the rack" as they are today) and to the
+(the U.S. government's recent mandat-
+closed and static educational materials
+institution's goals.
+ing of free online access to all journal
+into living objects that can be continu-
+OERs enable the development of
+articles stemming from NIH-funded re-
+ously developed, remixed, and main-
+tighter feedback loops that immerse
+search). The key enabler in all of these is
+tained by a worldwide community of
+students in interactive learning environ-
+free Internet-based digital distribution.
+authors and editors.
+ments and couple learning outcomes
+Chris Anderson, in his Wired article
+Several OER projects are already at-
+more directly into textbook develop-
+"Free: Why $0.00 is the Future of Busi-
+tracting millions of users per month (as
+ment and improvement. A key online
+ness," argues that while free was once a
+of July 2008). Some, like the MIT Open-
+ingredient will be "Web 3.0/Semantic
+marketing gimmick, it is now emerging
+CourseWare project (mit.edu/ocw) and
+Web" technologies based on natural
+as a full-fledged economic model.
+its OCW consortium (ocwconsortium.
+language processing, data mining, ma-
+This economy provides many av-
+org), are top-down organized institution-
+chine learning, artificial intelligence,
+enues for financially sustaining myriad
+al repositories that showcase their insti-
+and semantic markup languages like
+different OER projects. Just as for-profit
+tutions' curricula. Others, like Connex-
+MathML, MusicXML, and CML (Chemi-
+companies like Red Hat, IBM, Oracle,
+ions (cnx.org), are grassroots organized
+cal Markup Language). The result will
+and others charge customers for the val-
+and encourage contributions from all
+be "textbooks" that not only deliver
+ue they add to open source software and
+comers. Still others, like the Open Uni-
+open content to students but also moni-
+then in turn give back to the open source
+versity's OpenLearn project (openlearn.
+community through direct financial
+open.ac.uk), combine aspects of both.
+support, programming personnel, and
+Wikipedia (wikipedia.org) is regularly
+The buzz surrounding
+free marketing, value-adding for-profit
+referenced by students, teachers, and
+the high cost, limited
+organizations are emerging in the OER
+faculty and is increasingly used directly
+space. For example, non-profit Connex-
+as a learning tool. A consortium of com-
+access, static
+ions' partnership with for-profit QOOP
+munity colleges throughout California
+nature, and often
+(qoop.com) enables the production of
+and around the U.S. is developing a suite
+print-on-demand paper textbooks that
+of free, open textbooks.2 Governments
+low quality of the
+sell for a fraction of the price of a con-
+like Vietnam's are committing to OERs
+world's textbooks has
+ventional commercial publisher ($20
+to help reinvent their educational sys-
+for a 300-page engineering textbook in
+items (vocw.vn). Professional societies
+reached a crescendo.
+regular use at Rice University; $29 for a
+like the IEEE are getting involved as a
+500-page statistics textbook in use at a
+way to bolster their global educational
+number of California community col-
+outreach (ieeecnx.org). And the Stu-
+leges starting in fall 2008). A three-way
+dent PIRGS Open Textbooks campaign
+revenue-sharing arrangement benefits
+(maketextbooksaffordable.org) is work-
+QOOP, Connexions, and the author (if
+SEPTEMBER 2008
+VOL. 51
+NO. 9
+COMMUNICATIONS OF THE ACM
+31

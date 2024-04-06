@@ -1,0 +1,43 @@
+
+Construction of Giresun Wastewater Treatment Plant
+Tender Dossier
+Volume 3 Employer's Requirements
+Section 8: Electrical Works
+117 of 124
+All functions shall be simulated so electrical connections the software and correct parameter settings
+can be verified.
+The real check of the results will be done manually. A selection of output data will be made, and
+manual recalculation of this output data will be performed. The documentation will include all the
+intermediate results.
+The system has to be designed in a structure with well-defined modules or classes. The classes shall be
+defined with interfaces where inputs and outputs are available for investigation. A complete test is
+divided into several accounts. The number of accounts shall be sufficiently high to allow verification
+of the sequence between two accounts by use of a pocket calculator.
+The criteria for passing the final test will be:
+Manual calculation proving correct relations between all generated accounts.
+8.24.10Security
+The purpose of this test is to verify correct security functions in accordance with the requirements.
+A number of security levels have been specified.
+For each security level, the following has to be verified:
+A person at each level (if defined) shall be able to log into the system and have access to the
+system in accordance with his/her status. It shall also be verified that the user does not have
+access to part of the system not covered by his/her rights. This test shall be performed for a
+person at each level.
+Each person defined shall be able to change his/her own password.
+The administrator shall be able to define and remove users and to change a user's password. If
+specified, the administrator shall be able to look into database structures, as well.
+The designer shall be able to look into database structures and source codes. The test of access to
+source code can be carried out on the development system, only.
+The criteria for passing the final acceptance test will be:
+The number of users has been successfully defined at different levels.
+A user has successfully logged in and out.
+A user successfully changed his/her own password.
+The administrator has successfully changed the password of a user.
+The system has been successfully accessed at the different levels.
+8.24.11 Flexibility
+The purpose of this task is to verify that the structure of the system is suitable for upgrading to
+additional functionality. The source code and programmers' documentation shall be investigated.
+The test shall verify that:
+The program and database structure of the program developed have well defined interfaces in
+order to add new modules and new technical solutions under existing SCADA systems.
+8_Vol3_d4.3_Section 8 electrical works_en_GIR.rev8.doc

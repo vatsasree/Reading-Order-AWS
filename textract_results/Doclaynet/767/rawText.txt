@@ -1,0 +1,109 @@
+
+3
+Conduction
+exchange mechanism 14.17 We account for this p-d in-
+Band
+direct exchange by introducing a classical Mn vector of
+t2g
+magnitude 5/2. which couples to the neighboring As P
+states. There are no explicit d electrons in our model;
+they are accounted for only implicitly via the exchange
+eg
+interaction between the localized moments and the As P
+Mn 3d
+As 4p
+spins on neighboring sites.
+10c
+Our tight-binding kinetic exchange Hamiltonian takes
+t2g
+the following form:
+Dangling
+Bonds
+eg
+Valence
+Band
+Atomic
+Crystal
+Hybridization
+Exchange Field
+4WENET
+(1)
+FIG. 1: Schematic drawing of the level dynamics leading to
+a polarized acceptor at the top of the valence band. The Mn
+The first term reproduces the band-structure of bulk
+3d up and down electrons are split by the atomic exchange
+GaAsT8 and contains the near-neighbor hopping and on-
+in accordance with Hund's first rule. The levels are further
+site energies in terms of the Slater-Koster parameters 1020
+split by the crystal field into a doublet of eg and a triplet of
+Esge to for the 8 and P electrons of Ga and As. In (1) i and
+t2g-symmetry. The t2g-levels hybridize with nearest neighbor
+J are atomic indices, u and is are orbital indices and a
+dangling bond As p-states, such that the levels at the top of
+the valence band with spin parallel to the Mn spin are pushed
+denotes spin. In simulating the (110) surface. buckling is
+up in energy. Spin up is denoted by + and spin down by
+accounted for by rescaling the tight-binding param-
+eters and modifying the direction cosines appropriately.
+The second term implements the p-d exchange mecha-
+nism described above. It couples the unit spin vector of
+the Mn is missing the Ga 4p valence electron, it intro-
+Mn atom mr Sm to the P orbitals of the nearest neigh-
+duces a hole in the system. simultaneously acting as an
+bor As atoms n/m]: Sn = 1/2 where
+acceptor and a source of magnetic moments. In bulk,
+It is a vector of Pauli matrices. The value of Jpd has
+the holes introduced by many Mn impurities form itin-
+been inferred by theory 23 and experiment to approx-
+erant carriers that mediate the ferromagnetic coupling
+imately Jpd = 1.5 eV. The three p-d hybridized levels,
+between localized moments. Fig. shows a schematic
+spin-polarized in the direction of the Mn moment Supp
+drawing of what happens when a Mn substitutes a Ga in
+are split from the three levels polarized in the opposite
+the GaAs lattice The Mn 3d5 up states (for example)
+direction by an energy of order Jpd.
+that lodge in the valence band are exchange-split from
+The third term in Eq. accounts for SO interactions
+the down states that end up in the conduction band.
+in an atomic approximation with the renormalized spin-
+The crystal field imposes the tetrahedral host symmetry,
+orbit splittings AGa = 2AMn = 58 meV and is - 140
+resulting in a further split into a doublet of eg symme-
+meV. Spin-orbit interaction causes the band energy to
+try and a triplet of t2g symmetry. The eg states couple
+depend not only on the relative angles between different
+only weakly to the host. The t2g states on the other
+Mn spin directions, but also on spin-orientations relative
+hand, hybridize with the As nearest neighbor dangling-
+to the lattice.
+bond P states at the top of the valence band, forming
+The fourth term of the Hamiltonian accounts for a
+bonding and antibonding combinations Effectively, the
+long-range repulsive Coulomb interaction in the presence
+neighboring As P spins at the top of the valence band
+of a Mn impurity. which attracts a weakly bound hole
+that are parallel to the Mn spin are shifted up in energy,
+and repels electrons At the surface, we crudely account
+whereas p spins that are antiparallel to the Mn spin are
+for the weaker dielectric screening by reducing the bulk
+shifted down. Therefore, the main effect of a single sub-
+dielectric constant E, in half. The Coulomb behavior at
+stitutional Mn with spin up, is to introduce three spin-
+short distances is parametrized in Vcorr, which is a Mn
+polarized ("up") levels above the top of the valence band
+central cell correction term used as a parameter to tune
+and three spin-polarized ("down") levels below. These
+the Mn acceptor level to the experimental position125
+six states are predominantly of As P character The hole
+It contains an on-site Von - 1.0 eV (that is, acting on
+introduced by a single Mn will occupy the highest of the
+the Mn) and an off-site term Voff = 2.4 eV. The off-
+three antibonding states (indicated by the empty circle in
+site Coulomb correction affects the nearest neighbor As
+Fig. 1) In this way, the hybridization mechanism gives
+atoms and together with Jpd controls the amount of p-d
+rise to an antiferromagnetic coupling between itinerant
+hybridization in the system and the range of the acceptor
+and localized spins by what is known as Zener's kinetic-
+wave function.

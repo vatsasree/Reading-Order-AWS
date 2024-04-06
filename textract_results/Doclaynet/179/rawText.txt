@@ -1,0 +1,129 @@
+
+US 2002/0147433 A1
+Oct. 10, 2002
+15
+[0126] Where a hydrophilic composition is desired, the
+ing), coating (e.g., contact slot coating, gravure coating),
+amount of hydrophilic surfactant required to increase the
+extrusion, or combinations of these application techniques,
+wettability of the composition to a desired level will depend
+e.g. spraying the skin care composition on a rotating surface,
+in part upon the HLB value and level of immobilizing agent,
+such as a roll surface, that then transfers the composition to
+if any, used, the HLB value of the surfactant used and like
+the desired portion of the article. The skin care composition
+factors. The composition can comprise from about 0.1 to
+containing the proton donating active can also be applied as
+about 50% of the hydrophilic surfactant when needed to
+a solid material via any of a variety methods, for example
+increase the wettability properties of the composition. Pref-
+extrusion.
+erably, the composition comprises from about 1 to about
+[0131] When applied to the article's topsheet, the manner
+25%, most preferably from about 10 to about 20%, of the
+of applying the composition to the article should be such that
+hydrophilic surfactant when needed to increase wettability.
+the topsheet does not become saturated with the composi-
+[0127] Compositions can comprise other components
+tion, at least in the region corresponding to the liquid
+typically present in emulsions, creams, ointment, lotions,
+discharge region of the article, if the composition is hydro-
+powders, suspensions, etc. of this type. These components
+phobic in nature. If the topsheet becomes saturated with the
+include water, viscosity modifiers, perfumes, disinfectant
+composition in the liquid discharge region, there is a greater
+antibacterial actives, antiviral agents, vitamins, pharmaceu-
+potential for the composition to block the topsheet openings,
+tical actives, film formers, deodorants, opacifiers, astrin-
+reducing the ability of the topsheet to transmit liquid to the
+gents, solvents, preservatives, and the like. In addition,
+underlying absorbent core. Also, saturation of the topsheet is
+stabilizers can be added to enhance the shelf life of the
+not required to obtain the therapeutic and/or protective
+composition such as cellulose derivatives, proteins and
+benefits. Similarly, saturation of other treated article com-
+lecithin All of these materials are well known in the art as
+ponents may not be necessary or desired to transfer sufficient
+additives for such formulations and can be employed in
+composition for desired skin benefits. Particularly suitable
+appropriate amounts in the compositions for use herein.
+application methods will apply the composition primarily to
+the outer surface of the topsheet of the article.
+[0128] If water-based skin care compositions are used, a
+preservative will be needed. Suitable preservatives include
+[0132] The minimum level of the composition containing
+propyl paraben, methyl paraben, benzyl alcohol, benzylkon-
+the proton donating active to be applied to the article's
+nium chloride, tribasic calcium phosphate, BHT. or acids
+wearer-contacting surface is an amount effective for provid-
+such as citric, tartaric, maleic, lactic, malic, benzoic, sali-
+ing the therapeutic, protective and/or skin conditioning
+cylic, and the like. Suitable viscosity increasing agents
+benefits when the composition is delivered pursuant to the
+include some of the agents described as effective immobi-
+present invention The level of composition applied will
+lizing agents. Other suitable viscosity increasing agents
+depend on various factors, including the article component
+include alkyl galactomannan, silica, tale, magnesium sili-
+treated, the relative amount of surface area of the wearer-
+cate, sorbitol, colloidal silicone dioxide, magnesium alumi-
+contacting surface not treated with the composition, the
+num silicate, zinc stearate, wool wax alcohol, sorbitan
+composition's content and the like. In general, with com-
+sesquioleate, cetyl hydroxyethyl cellulose and other modi-
+positions that are relatively hydrophobic and are to be
+fied celluloses. Suitable solvents include propylene glycol,
+applied to essentially all of the topsheet, the composition is
+glycerin, cyclomethicone, polyethylene glycols, hexylene
+preferably applied to the article topsheet in an amount
+glycol, diol and multi-hydroxy based solvents Suitable
+ranging from about 0.1 mg/in2 (0.016 mg/cm2) to about 15
+vitamins include A, D-3, E. B-5 and E acetate
+mg/in (2.33 mg/cm2), more preferably from about 1 mg/in2
+(0.16 mg/cm2) to about 10 mg/in2 (1.55 mg/cm2. It will be
+[0129] VI. Treating Articles With the Skin Care Compo-
+recognized that higher levels of skin care composition may
+sition
+be applied to other article components where fluid handling
+properties are not impacted (e.g., cuffs, waist band, side
+[0130] In preparing absorbent articles to carry out the
+panels, etc.). It will also be recognized that for compositions
+methods of the present invention, the skin care composition
+that are relatively hydrophilic, higher add-on levels may be
+containing the proton donating active is applied such that
+used on the topsheet without adversely impacting liquid
+during wear, at least some portion of the composition will
+handling properties to an unacceptable degree. Conversely,
+transfer from the treated article to the wearer's skin. That is,
+higher levels of a hydrophilic composition may be undesired
+the skin care composition is either applied directly to one or
+when applied to components (e.g., cuff, waist) other than the
+more body contacting surfaces, or is applied in alternate
+topsheet, to avoid wicking of exudates to the edges of the
+locations or means such that the skin care composition is
+article which may result in leakage.
+readily available for transfer from one or more body con-
+tacting surfaces during use without intervention by the
+[0133] Because the composition is preferably substantially
+user/caregiver. (For example, materials positioned beneath
+immobilized on the surface of the region treated, relatively
+the body contacting surface, encapsulated compositions,
+small amounts of composition are needed to deliver an
+etc.) Of course, to effectuate delivery of the composition to
+effective amount of the proton donating active. It is believed
+those body regions most susceptible to skin roughness, it
+that the ability to use low levels to impart the desired skin
+will be preferred to include the composition on the portion
+benefits is due to the fact that the composition is continu-
+of the topsheet and cuffs that will contact the wearer's
+ously, automatically delivered as articles are worn. As
+buttocks, genitals, intertriginous and anal regions during
+indicated, the ability to use relatively low levels of skin care
+wear. Additionally, the composition may be applied to other
+composition, allows the article's topsheet to maintain its
+article regions for delivery to one or more of the wearer's
+liquid transfer properties in the liquid discharge region.
+hips, abdomen, back, waist, sides, thighs, etc. Suitable
+[0134] The composition can be applied nonuniformly to
+methods include spraying, printing (e.g., flexographic print-
+the body contacting surface of the article. By "nonuniform"

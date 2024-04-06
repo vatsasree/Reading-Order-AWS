@@ -1,0 +1,100 @@
+
+Headwind change
+Airspeed (knots)
+o
+10
+0
+30
+40
+50
+60
+70
+80
+90
+100
+110
+120
+130
+1
+2
+3
+4
+Best glide speed
+5
+6
+7
+8
+9
+10
+11
+12
+Figure 5-13. Best speed to fly in a 20-knot headwind
+Airspeed (knots)
+5
+4
+3
+2
+1
+to
+20
+ab
+40
+60
+60
+70
+80
+90
+100
+110
+120
+130
+O
+1
+Best speed to fly is 60 knots
+2
+-3
+-4
+-5
+-6
+-7
+Figure 5-14. Best speed to fly in sink.
+and occurs at a higher speed. / (Figure 5-151 With ballast, it
+Weight and Balance Information
+would be more difficult to work small, weak thermals The
+The GFM/POH provides information about the weight and
+best glide ratio is the same, but it occurs at a higher speed. In
+balance of the glider. This information is correct when the
+addition. the sink rate at higher speeds is lower with ballast.
+glider is new as delivered from the factory. Subsequent
+From the polar, then, ballast should be used under stronger
+maintenance and modifications can alter weight and balance
+thermal conditions for better speed between thermals Note
+considerably. Changes to the glider that affect weight and
+that the stall speed is higher with ballast as well.
+balance should be noted in the airframe logbook and on
+appropriate cockpit placards that might list, for example,
+Flaps with a negative setting as opposed to a O degree setting
+"Maximum Fuselage Weight: 460 pounds."
+during cruise also reduce the sink rate at higher speeds, as
+shown in the polar. / (Figure 5-16] Therefore, when cruising at
+Weight is a major factor in glider construction and operation:
+or above 70 knots, a -8° flap setting would be advantageous
+it demands respect from all pilots. The pilot should always be
+for this glider. The polar with flaps set at -8° does not extend
+aware of proper weight management and the consequences
+to speeds lower than 70 knots since the negative flap setting
+of overloading the glider.
+loses its advantage there.
+Limitations
+Wingtip extensions also alter the polar, as shown in
+Whether the glider is very simple or very complex, designers
+Figure 5-17. The illustration shows that the additional
+and manufacturers provide operating limitations to ensure
+3 meters of wingspan is advantageous at all speeds. In
+the safety of flight. The VG diagram provides the pilot with
+some gliders, the low-speed performance is better with the
+information on the design limitations of the glider. such as
+tip extensions, while high-speed performance is slightly
+limiting airspeeds and load factors (L.F. in Figure 5-18).
+diminished by comparison.
+5-10

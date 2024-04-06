@@ -1,0 +1,76 @@
+
+Table of Contents
+The following table presents the sensitivity of our projected pension benefit obligation ("PBO"), accumulated benefit obligation ("ABO"), deficit ("Deficit")
+and 2020 pension expense to the following changes in key assumptions:
+Increase / (Decrease) at
+Increase
+December 31, 2020
+(Decrease)
+PBO
+ABO
+2020 Expense
+Assumption:
+Increase in discount rate of 0.5%
+$
+(87) $
+(81)
+$
+(3)
+Decrease in discount rate of 0.5%
+100
+93
+4
+Increase in estimated return on assets of 1.0%
+N/A
+N/A
+(B)
+Decrease in estimated return on assets of 1.0%
+N/A
+N/A
+8
+Impairment of Long-Lived Assets, Goodwill and Other Intangible Assets
+Goodwill
+Our reporting units in continuing operations include epoxy, versatics and forest products. Our reporting units are generally one level below our operating
+segments for which discrete financial information is available and reviewed by segment management However, components of an operating segment can be
+aggregated as one reporting unit if the components have similar economic characteristics Our consolidated goodwill balance from continuing operations was $164
+as
+of
+December 31. 2020, including $127 related to the forest products reporting unit, $36 related to the versatics reporting unit and $1 related to the epoxy
+reporting unit.
+We test goodwill annually for impairment of value or more frequently when potential impairment triggering events are present. Our annual impairment
+testing date is October 1. Goodwill is tested for impairment by comparing the estimated fair value of a reporting unit to its carrying value. We use a weighted market
+and income approach to estimate the fair value of our reporting units. The market approach is a comparable analysis technique commonly used in the investment
+banking and private equity industries based on the EBITDA (earnings before interest, income taxes. depreciation and amortization) multiple technique, and the
+income approach is based on a discounted cash flow model The key assumptions and estimates utilized in the market and income approaches primarily include
+market multiples, discount rates and future levels of revenue growth and operating margins, and to a lesser extent, estimates and assumptions related to working
+capital investment taxes, depreciation and amortization and capital spending projections. If the carrying value of the reporting unit exceeds the estimated fair
+value, an impairment charge is recorded for the difference
+As of October 1. 2020 and 2019, the estimated fair value of each of our reporting units containing goodwill were deemed to be in excess of the carrying
+amount of assets and liabilities assigned to each unit. The step-up of fixed and intangible asset values during fresh start accounting resulted in an increase of the
+carrying amounts of net assets for the Company's reporting units that have goodwill, thereby reducing the amount of headroom between the fair value and carrying
+value of these reporting units. As a result, future unfavorable changes to business results and/or discounted cash flows for these reporting units are more likely to
+result in asset impairments
+Other Intangible Assets
+We review our amortizable intangible assets for impairment when events or changes in circumstances indicate the carrying value may not be recoverable Factors
+that
+may be a change in circumstances indicating that the carrying value of our amortizable intangible assets may not be recoverable. include goodwill impairment,
+idling of a plant and a reduction to the estimated useful life. We may in the future be required to record a significant charge in our consolidated
+financial
+statements
+during the period in which any impairment of our amortizable intangible assets is determined negatively affecting our results of operations.
+Long-Lived Assets
+As events warrant we evaluate the recoverability of long-lived assets, other than goodwill, by assessing whether the carrying value can be recovered over
+their remaining useful lives through the expected future undiscounted operating cash flows of the underlying business Our evaluation of long-lived asset
+recoverability includes our operating and financing lease right of use assets. Impairment indicators include, but are not limited to, a significant decrease in the
+market price of a long-lived asset; a significant adverse change in the manner in which the asset is being used or in its physical condition: a significant adverse
+change in legal factors or the business climate that could affect the value of a long-lived asset: an accumulation of costs significantly in excess of the amount
+originally expected for the acquisition or construction of a long-lived asset: current period operating or cash flow losses combined with a history of operating or cash
+flow losses associated with the use of the asset; or a current expectation that it is more likely than not that a long-lived asset will be sold or otherwise disposed of
+significantly before the end of its previously estimated useful life. As a result future decisions to change our manufacturing process, exit certain businesses. reduce
+excess capacity, temporarily idle facilities and close facilities could result in material impairment charges. Long-lived assets are grouped together at the lowest level
+for which identifiable cash flows are largely independent of cash flows of other groups of long-lived assets. Any impairment loss that may be required is determined
+by comparing the carrying value of the assets to their estimated fair value. We do not have any indefinite-lived intangible assets, other than goodwill
+Recently Issued Accounting Standards
+See
+Note 2 in Item 8 of Part II of this Annual Report on Form 10-K for a detailed description of recently issued accounting pronouncements.
+Hexion Inc. I 57 I 2020 Form 10-K
